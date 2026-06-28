@@ -13,7 +13,101 @@
       "month": 6,
       "title": "Weekly Market News — 06/21/2026",
       "path": "reports/2026/weekly-market-news-06212026.md",
-      "summary": "Analysis period: June 14–21, 2026. Five Tier-1 events; dominant theme a synchronized global central bank hawkish pivot and the US-Iran peace deal."
+      "brief": {
+        "headline": "Geopolitical resolution meets a synchronized hawkish pivot — oil −33% from its wartime peak as the ECB, BOJ, and Fed all turned hawkish in a single week.",
+        "regime": {
+          "tone": "risk-on",
+          "label": "Cautious risk-on",
+          "evidence": "S&P 11 of 12 weeks up, but DXY at a 1-year high"
+        },
+        "stats": [
+          {
+            "label": "S&P 500",
+            "value": "+0.9%",
+            "dir": "up"
+          },
+          {
+            "label": "Nasdaq",
+            "value": "+2.4%",
+            "dir": "up"
+          },
+          {
+            "label": "WTI crude",
+            "value": "~$77",
+            "dir": "down"
+          },
+          {
+            "label": "Gold MTD",
+            "value": "−6.8%",
+            "dir": "down"
+          },
+          {
+            "label": "DXY",
+            "value": "~100.8",
+            "dir": "flat"
+          }
+        ],
+        "events": [
+          {
+            "rank": 1,
+            "title": "US-Iran peace deal / Hormuz reopening",
+            "score": 31.5,
+            "assets": "Energy·Eq·FX",
+            "reaction": "WTI ~$77 (−33% from peak); S&P +0.9%; gold −6.8% MTD",
+            "detail": "Pakistan announced a US-Iran MOU to end the war and reopen the Strait of Hormuz; tankers began exiting and Brent fell from a ~$120 wartime peak toward ~$80. A canceled Switzerland signing left some fragility."
+          },
+          {
+            "rank": 2,
+            "title": "ECB +25bps — first hike in 3 years",
+            "score": 21.0,
+            "assets": "EUR rates",
+            "reaction": "EZ sovereign yields +25bps; Euro Stoxx pressured",
+            "detail": "The ECB raised all three key rates 25bps, reversing eight consecutive cuts — its sharpest reversal since 2011 — as the energy shock pushed euro-area CPI to 3.2%."
+          },
+          {
+            "rank": 3,
+            "title": "FOMC hawkish dot-plot flip (Warsh era)",
+            "score": 21.0,
+            "assets": "UST·USD",
+            "reaction": "DXY ~100.8 (1-yr high); equities recovered",
+            "detail": "The FOMC held at 3.50–3.75% but the median 2026 dot rose to 3.8%, flipping from an implied cut to an implied hike; traders repriced an October hike."
+          },
+          {
+            "rank": 4,
+            "title": "BOJ hikes to 1.0% — 30-year high",
+            "score": 21.0,
+            "assets": "JGB·JPY·EM",
+            "reaction": "JPY strengthened; JGB yields at multi-decade highs",
+            "detail": "The BOJ raised to 1.00% in a 7-1 vote, the highest since 1995, with core CPI above 2% for 44 straight months; the yen carry unwind accelerates."
+          },
+          {
+            "rank": 5,
+            "title": "SpaceX $75B IPO — largest in history",
+            "score": 13.1,
+            "assets": "Nasdaq",
+            "reaction": "SPCX +19% day-1; Nasdaq +2.4% week",
+            "detail": "SpaceX (SPCX) priced at $135, raised $75B, and jumped +19% day-1; combined with an Intel-Apple chip deal it drove the S&P's 11th up week in 12."
+          }
+        ],
+        "catalysts": [
+          "US June CPI · mid-Jul",
+          "Fed July meeting",
+          "NVIDIA earnings · Aug",
+          "BOJ Aug meeting"
+        ],
+        "risks": [
+          {
+            "label": "Iran deal collapse",
+            "prob": "25%",
+            "impact": "Severe"
+          },
+          {
+            "label": "JPY carry unwind",
+            "prob": "30%",
+            "impact": "Severe"
+          }
+        ]
+      }
     },
     {
       "id": "2026-06-14",
@@ -25,7 +119,111 @@
       "month": 6,
       "title": "Weekly Market News — 06/14/2026",
       "path": "reports/2026/weekly-market-news-06142026.md",
-      "summary": "Analysis period: June 7–14, 2026. Five significant events across geopolitics, central bank policy, equity markets, and trade."
+      "brief": {
+        "headline": "The dominant regime was sharply risk-off early in the week, followed by a violent risk-on reversal by June 11 — one of the most volatile weekly swings of 2026. US-Iran confrontation and subsequent peace-deal signals were the defining event: Nasdaq shed 4.18% (~$1T) on June 5 before recovering +2.54% on June 11, while May CPI hit 4.2% YoY.",
+        "regime": {
+          "tone": "mixed",
+          "label": "Mixed — Volatile risk-off then risk-on (Stagflationary)",
+          "evidence": "VIX surged June 5, partially retreated June 11; credit spreads widened then tightened; gold held $4,200 even on risk-on day"
+        },
+        "stats": [
+          {
+            "label": "S&P 500",
+            "value": "−2.64% → +1.75%",
+            "dir": "flat"
+          },
+          {
+            "label": "Nasdaq",
+            "value": "−4.18% → +2.54%",
+            "dir": "flat"
+          },
+          {
+            "label": "Dow",
+            "value": "−1.35% → +1.86%",
+            "dir": "flat"
+          },
+          {
+            "label": "Gold",
+            "value": "~$4,200/oz",
+            "dir": "up"
+          },
+          {
+            "label": "May CPI",
+            "value": "4.2% YoY",
+            "dir": "up"
+          },
+          {
+            "label": "Fed funds",
+            "value": "3.50–3.75% (hold)",
+            "dir": "flat"
+          }
+        ],
+        "events": [
+          {
+            "rank": 1,
+            "title": "US-Iran Conflict / Peace Deal Signals",
+            "score": 30.0,
+            "assets": "Equities·Oil·Gold·USD·Bonds",
+            "reaction": "Nasdaq −4.18% → +2.54%; Gold ↑ toward $4,200/oz",
+            "detail": "Escalating US-Iran tensions triggered a ~$1T global equity wipeout on June 5 (largest single-day loss since April 2025) and pushed May CPI to 4.2% YoY. On June 11, Trump signaled an imminent peace deal, catalyzing a sharp reversal across risk assets."
+          },
+          {
+            "rank": 2,
+            "title": "ECB Surprise +25 bps Rate Hike",
+            "score": 17.5,
+            "assets": "EUR·EZ Bonds·Euro Equities·Credit",
+            "reaction": "EUR strengthened; peripheral spreads widened modestly",
+            "detail": "The ECB raised its deposit rate 25bps to 2.25% — its first hike since 2023 — catching markets expecting a hold or cut, citing Iran-driven energy inflation. It revised 2026 inflation up to 3.0% and trimmed GDP growth to 0.8%."
+          },
+          {
+            "rank": 3,
+            "title": "Nasdaq Semiconductor Crash (~$1T)",
+            "score": 11.25,
+            "assets": "Nasdaq·SOX·Mega-Cap Tech·S&P 500",
+            "reaction": "Nasdaq −4.18%, S&P 500 −2.64%, Dow −1.35%",
+            "detail": "The Nasdaq fell 4.18% on June 5 (largest session decline since April 2025), erasing ~$1T intraday on three stacked catalysts: strong payrolls, a third-party AI capability report questioning semiconductor demand, and a large Meta secondary offering."
+          },
+          {
+            "rank": 4,
+            "title": "US-China 60-Day Tariff Pause",
+            "score": 10.5,
+            "assets": "US/CN Equities·USD·CNY·Metals",
+            "reaction": "Risk-on rally; structural damage remains",
+            "detail": "The Trump administration announced a 60-day pause on tariffs above 30% on Chinese goods, pulling back from the 145% peak, though a 30% baseline remains. US imports from China are at depths unseen since 2009 and the IMF cut global growth to 2.8%."
+          },
+          {
+            "rank": 5,
+            "title": "Fed Hold + Warsh Hawkish Signal",
+            "score": 10.0,
+            "assets": "Treasuries·USD·S&P 500·Rate-Sensitive Sectors",
+            "reaction": "99.5% hold priced; USD firm; yields elevated",
+            "detail": "Markets priced a 99.5% probability of no change at the June 16-17 FOMC (hold at 3.50–3.75%), but new Chair Warsh's commentary signaled a departure from easing bias and openness to H2 2026 hikes, with CPI at 4.2% reinforcing the stance."
+          }
+        ],
+        "catalysts": [
+          "FOMC Meeting · June 16–17",
+          "Q2 Earnings Season (NVIDIA, Apple, banks) · July",
+          "US-Iran Deal Formalization (or collapse) · ongoing",
+          "ECB July Meeting · follow-up to surprise hike"
+        ],
+        "risks": [
+          {
+            "label": "US-China Truce Collapses (Post-60 Days)",
+            "prob": "35%",
+            "impact": "Major"
+          },
+          {
+            "label": "Stagflation Confirmation (CPI >4% Through Q3)",
+            "prob": "30%",
+            "impact": "Systemic"
+          },
+          {
+            "label": "Iran Deal Collapses",
+            "prob": "25%",
+            "impact": "Severe"
+          }
+        ]
+      }
     },
     {
       "id": "2026-06-07",
@@ -37,7 +235,111 @@
       "month": 6,
       "title": "Weekly Market News — 06/07/2026",
       "path": "reports/2026/weekly-market-news-06072026.md",
-      "summary": "The week of June 1–7, 2026 was defined by the Iran war's structural grip on global energy markets — entering its 100th day with ceasefire talks stalled."
+      "brief": {
+        "headline": "The week was defined by the Iran war's structural grip on energy markets — now in its 100th day with ceasefire talks stalled — alongside a sharp late-week reversal driven by Broadcom's weak AI chip guidance and a blowout May jobs report. The dominant regime is stagflationary, with WTI ~$91 sustaining CPI at 3.8% and 172K jobs pushing year-end hike odds to 70%.",
+        "regime": {
+          "tone": "mixed",
+          "label": "Mixed — Stagflationary (risk-on then risk-off)",
+          "evidence": "S&P 500 all-time high 7,600 on June 2 and Q1 EPS growth 28.6%, but Nasdaq −4.7% for the week and gold falling on real-rate rise"
+        },
+        "stats": [
+          {
+            "label": "S&P 500",
+            "value": "−2.64% (Jun 5)",
+            "dir": "down"
+          },
+          {
+            "label": "Nasdaq",
+            "value": "−4.18% (Jun 5)",
+            "dir": "down"
+          },
+          {
+            "label": "WTI",
+            "value": "~$91 (+50% pre-war)",
+            "dir": "up"
+          },
+          {
+            "label": "Brent",
+            "value": "~$101",
+            "dir": "up"
+          },
+          {
+            "label": "Gold",
+            "value": "$4,366 (−6.79% 4wk)",
+            "dir": "down"
+          },
+          {
+            "label": "10Y UST",
+            "value": "4.544%",
+            "dir": "up"
+          }
+        ],
+        "events": [
+          {
+            "rank": 1,
+            "title": "Iran War / Strait of Hormuz Oil Supply Disruption",
+            "score": 45.0,
+            "assets": "Equities·Oil·Gold·Bonds·FX",
+            "reaction": "WTI +50% pre-war; US CPI 3.8%; stagflation risk",
+            "detail": "The IEA calls the Iran war the largest supply disruption in oil-market history, with the Strait of Hormuz (~20–25% of global oil) effectively closed at its 100-day mark. CPI is at 3.8% YoY via a 17.9% energy surge, and ceasefire talks have stalled with no meaningful progress."
+          },
+          {
+            "rank": 2,
+            "title": "May 2026 NFP Blowout — 172K vs 80K Consensus",
+            "score": 17.5,
+            "assets": "Equities·Bonds·Gold·FX",
+            "reaction": "10Y yield +6bps → 4.544%; USD surge; gold −2%",
+            "detail": "May payrolls printed 172,000 jobs — a 115% beat vs the 80,000 consensus — with unemployment holding at 4.3%. The hot print sharply reduced rate-cut odds and pushed CME year-end hike probability to 70%."
+          },
+          {
+            "rank": 3,
+            "title": "Broadcom Q2 AI Chip Guidance Miss / Semis Rout",
+            "score": 11.25,
+            "assets": "Equities (Semis, Broad Tech)",
+            "reaction": "AVGO −12% AH; Nasdaq −4.18%; S&P −2.64%",
+            "detail": "Broadcom posted record Q2 revenue of $22.19B but its Q3 AI chip guidance of $16B missed the $17.2B consensus by 7%, and a held (not raised) $56B full-year AI target read as a ceiling. AVGO fell 12% after-hours, triggering sector-wide contagion."
+          },
+          {
+            "rank": 4,
+            "title": "ECB June 11 Rate Hike — 99% Market Probability",
+            "score": 10.0,
+            "assets": "EUR/USD·European Bonds·Equities",
+            "reaction": "EUR under pressure; 25bps hike to 2.25% fully priced",
+            "detail": "Markets priced a 99% probability of a 25bps ECB hike to 2.25% at the June 11 meeting as Eurozone inflation rose to 3.0% on Iran-driven energy pass-through. At least one further hike is priced for H2 2026."
+          },
+          {
+            "rank": 5,
+            "title": "Kevin Warsh Confirmed as Fed Chair (Hawkish Shift)",
+            "score": 6.0,
+            "assets": "Bonds·USD·Rate Futures",
+            "reaction": "70% year-end hike odds; hawkish regime shift signal",
+            "detail": "Kevin Warsh, a known hawkish monetarist, was confirmed as Fed Chair ahead of the June 16-17 FOMC, replacing Powell. Combined with 3.8% CPI and the NFP blowout, year-end hike probability jumped to 70%."
+          }
+        ],
+        "catalysts": [
+          "ECB Rate Decision · June 11",
+          "FOMC Meeting (Warsh debut) · June 16–17",
+          "Iran Ceasefire Talks · ongoing",
+          "US June CPI · mid-July"
+        ],
+        "risks": [
+          {
+            "label": "Iran Escalation / Hormuz Stays Closed",
+            "prob": "40%",
+            "impact": "Severe"
+          },
+          {
+            "label": "Iran Ceasefire / Oil Price Crash",
+            "prob": "25%",
+            "impact": "Major"
+          },
+          {
+            "label": "Eurozone Stagflation / ECB Policy Error",
+            "prob": "20%",
+            "impact": "Major"
+          }
+        ]
+      }
     },
     {
       "id": "2026-05-31",
@@ -49,7 +351,111 @@
       "month": 5,
       "title": "Weekly Market News — 05/31/2026",
       "path": "reports/2026/weekly-market-news-05312026.md",
-      "summary": "Analysis period: May 21–31, 2026. Five high-impact events across geopolitical, monetary policy, inflation, earnings, and trade dimensions."
+      "brief": {
+        "headline": "The dominant regime is stagflation-adjacent risk-on: equities powered through a 9th consecutive weekly gain (S&P 500 at 7,580; Dow's first close above 51,000), yet the macro backdrop is hostile — PCE at a 3-year high, a hawkish Fed transition, and a war-disrupted Strait of Hormuz. NVIDIA's record $81.6B quarter provided the dominant risk-on counterforce.",
+        "regime": {
+          "tone": "mixed",
+          "label": "Mixed — Stagflation-adjacent risk-on",
+          "evidence": "VIX subdued; 9 consecutive weekly S&P gains; Nasdaq +8% MTD; Dow first-ever above 51,000 — but saving rate 2.6%, PCE at 3-year high, record FOMC dissents"
+        },
+        "stats": [
+          {
+            "label": "S&P 500",
+            "value": "7,580 (9th wkly gain)",
+            "dir": "up"
+          },
+          {
+            "label": "Nasdaq",
+            "value": "+8% MTD",
+            "dir": "up"
+          },
+          {
+            "label": "WTI",
+            "value": "$87.86 (−19% May)",
+            "dir": "down"
+          },
+          {
+            "label": "Gold",
+            "value": "$4,541 (+43% YTD)",
+            "dir": "up"
+          },
+          {
+            "label": "DXY",
+            "value": "98.97 (−2.17% MTD)",
+            "dir": "down"
+          },
+          {
+            "label": "10Y UST",
+            "value": "4.45%",
+            "dir": "flat"
+          }
+        ],
+        "events": [
+          {
+            "rank": 1,
+            "title": "Iran War — Oil Shock & Ceasefire Volatility",
+            "score": 45.0,
+            "assets": "Energy·Equities·Bonds·FX·Gold",
+            "reaction": "WTI −19% May; Brent $91.89; Gold +43% YTD",
+            "detail": "US-Iran retaliatory strikes on May 28 failed to sustain any oil rally; with a 60-day ceasefire MOU 'mostly agreed,' Brent collapsed −20% from its ~$112 peak. The Strait of Hormuz remains well below pre-war shipping volumes despite the nominal ceasefire."
+          },
+          {
+            "rank": 2,
+            "title": "FOMC Minutes Hawkish Shift + Warsh Era Begins",
+            "score": 31.5,
+            "assets": "All Asset Classes",
+            "reaction": "Cuts priced out; 10Y at 4.45%; hike risk rising",
+            "detail": "Kevin Warsh took office May 15 as the 17th Fed Chair, and the April FOMC minutes (released May 20) revealed a record four dissents and left the door open to hikes. Market pricing for 2026 rate cuts was fully erased, with ~20% odds of a June hike."
+          },
+          {
+            "rank": 3,
+            "title": "PCE April +3.8% YoY — 3-Year High",
+            "score": 21.0,
+            "assets": "Bonds·Equities·Dollar",
+            "reaction": "Monthly +0.4% missed 0.5% est; muted equity reaction",
+            "detail": "Headline PCE hit +3.8% YoY (highest since May 2023) and Core PCE +3.3%, though the monthly +0.4% missed the +0.5% consensus. The personal saving rate collapsed to 2.6%, the lowest since June 2022, signaling consumers funding spending via drawdowns."
+          },
+          {
+            "rank": 4,
+            "title": "NVIDIA Q1 FY27 Record $81.6B Revenue",
+            "score": 13.1,
+            "assets": "Tech/Semis·Nasdaq·S&P 500",
+            "reaction": "NVDA +18%; Nasdaq +8% MTD",
+            "detail": "NVIDIA beat on every metric (revenue $81.6B, Data Center $75.2B +92% YoY, Networking +199% YoY) and guided Q2 to $91B, validating the AI super-cycle. NVDA rose +18% post-earnings, anchoring the broad risk-on tape."
+          },
+          {
+            "rank": 5,
+            "title": "US-China Trade Truce & Tariff Extension",
+            "score": 10.0,
+            "assets": "Equities·Industrials·FX·Agri",
+            "reaction": "Reduced tail risk; Yuan stable; agri firmed",
+            "detail": "A May 12 partial truce and the May 14 Trump-Xi summit produced commitments on farm/aircraft purchases and a tariff-exclusion extension to Nov 10, pulling back from the 104% baseline. Rare earth and semiconductor controls remain unresolved."
+          }
+        ],
+        "catalysts": [
+          "May CPI Release · June 10",
+          "Warsh's First FOMC Meeting · June 16-17",
+          "Iran Ceasefire MOU Finalization · ongoing",
+          "NVIDIA Q2 FY27 Earnings ($91B bar) · August"
+        ],
+        "risks": [
+          {
+            "label": "Iran Ceasefire Collapses",
+            "prob": "25%",
+            "impact": "Severe"
+          },
+          {
+            "label": "Consumer Recession Signal",
+            "prob": "20%",
+            "impact": "Major"
+          },
+          {
+            "label": "China Rare Earth Retaliation",
+            "prob": "20%",
+            "impact": "Major"
+          }
+        ]
+      }
     },
     {
       "id": "2026-05-24",
@@ -61,7 +467,111 @@
       "month": 5,
       "title": "Weekly Market News — 05/24/2026",
       "path": "reports/2026/weekly-market-news-05242026.md",
-      "summary": "Analysis period: May 14–24, 2026. Five high-significance events; dominant regime stagflationary risk-off amid the Iran war."
+      "brief": {
+        "headline": "The dominant regime is stagflationary risk-off: the 87-day-old Iran war oil shock keeps inflation expectations elevated, catalyzing a historic bond rout that peaked with the 30-year UST yield at 5.2% — its highest since 2007. A relief catalyst (Iran-US peace signals drove Brent −6% WoW) enabled a partial equity recovery; the S&P 500 ended the week +0.4%.",
+        "regime": {
+          "tone": "risk-off",
+          "label": "Mixed → Risk-Off (Stagflationary)",
+          "evidence": "30Y UST at 5.2%; 3 consecutive S&P 500 session losses mid-week; Silver −7%; gold declining despite war backdrop"
+        },
+        "stats": [
+          {
+            "label": "S&P 500",
+            "value": "+0.4% WoW",
+            "dir": "up"
+          },
+          {
+            "label": "Nasdaq",
+            "value": "−0.84%",
+            "dir": "down"
+          },
+          {
+            "label": "30Y UST",
+            "value": "5.2%",
+            "dir": "up"
+          },
+          {
+            "label": "10Y UST",
+            "value": "4.67%",
+            "dir": "up"
+          },
+          {
+            "label": "Brent",
+            "value": "~$110 (−6% WoW)",
+            "dir": "down"
+          },
+          {
+            "label": "Gold",
+            "value": "~$4,500",
+            "dir": "down"
+          }
+        ],
+        "events": [
+          {
+            "rank": 1,
+            "title": "Global Bond Rout — 30Y UST at 5.2% (19-year high)",
+            "score": 45.0,
+            "assets": "Bonds·Equities·Commodities·FX",
+            "reaction": "S&P −3 consecutive sessions; Silver −7%; Multi-decade yield highs",
+            "detail": "The US 30Y Treasury yield surged to 5.2% (highest since 2007) and the 10Y touched 4.67% on a triple driver: energy inflation, ~7%-of-GDP fiscal deficits, and expectations that incoming Fed Chair Warsh holds or tightens. Zero rate cuts are now priced through end-2027."
+          },
+          {
+            "rank": 2,
+            "title": "Iran War Oil −6% WoW Correction on Peace Talks",
+            "score": 21.0,
+            "assets": "Energy·Equities·Bonds·FX",
+            "reaction": "Brent $118→$110; Dow intraday record on Friday",
+            "detail": "Brent fell ~6% WoW (to ~$110–112) on US signals of progress with Iran, though oil remains +52–60% since the Feb 28 war start. Iran's late-week move to keep enriched uranium reserves partially reversed the relief rally."
+          },
+          {
+            "rank": 3,
+            "title": "Japan 30Y JGB Yield at All-Time Record",
+            "score": 17.5,
+            "assets": "JGBs·JPY/FX·Global Bonds",
+            "reaction": "Carry-trade risk activated; BOJ policy pressure amplified",
+            "detail": "Japan's 30Y JGB yield hit an all-time record on May 18, amplifying the global bond rout. With three BOJ dissenters calling for a 1.0% hike and FY2026 core inflation raised to 2.8%, June BOJ is a live rate-hike catalyst with carry-trade unwind risk."
+          },
+          {
+            "rank": 4,
+            "title": "Kevin Warsh Sworn In as Federal Reserve Chair",
+            "score": 12.0,
+            "assets": "Bonds·Equities·USD",
+            "reaction": "Policy uncertainty premium; Hawkish shift risk",
+            "detail": "Kevin Warsh was sworn in as the 17th Fed Chair on May 22 (confirmed 54-45, the narrowest margin in Fed chair history). Viewed as more hawkish than Powell, his first decision comes at the June 16-17 FOMC against a backdrop of an 8-4 April split and 30Y yields at 5.2%."
+          },
+          {
+            "rank": 5,
+            "title": "NVIDIA Q1 FY27 Earnings Beat — \"Sell the News\"",
+            "score": 4.0,
+            "assets": "Tech/Semis·Nasdaq",
+            "reaction": "NVDA −0.5% despite $81.6B revenue beat; AI cycle intact",
+            "detail": "NVIDIA posted record revenue of $81.6B (+85% YoY) with $91B Q2 guidance and a 25× dividend increase, yet the stock opened −0.5% — a classic 'sell the news' after a pre-earnings run-up, with macro headwinds overwhelming the beat."
+          }
+        ],
+        "catalysts": [
+          "June 16–17 FOMC (Warsh's first meeting)",
+          "June 10 US CPI (May data)",
+          "June BOJ Meeting · live rate-hike risk",
+          "Iran ceasefire / peace negotiations · ongoing"
+        ],
+        "risks": [
+          {
+            "label": "Warsh Hike Shock",
+            "prob": "25%",
+            "impact": "Severe"
+          },
+          {
+            "label": "Iran Escalation / Hormuz Closure Deepens",
+            "prob": "20%",
+            "impact": "Severe"
+          },
+          {
+            "label": "Iran Peace Deal / Oil Retracement",
+            "prob": "35%",
+            "impact": "Major"
+          }
+        ]
+      }
     },
     {
       "id": "2026-05-17",
@@ -73,7 +583,111 @@
       "month": 5,
       "title": "Weekly Market News — 05/17/2026",
       "path": "reports/2026/weekly-market-news-05172026.md",
-      "summary": "The week of May 10–17, 2026 was defined by a quadruple convergence: an inflationary data shock, a Fed leadership transition, and geopolitical tension."
+      "brief": {
+        "headline": "The week was defined by a quadruple convergence: an inflationary data shock, a Fed leadership transition, trade diplomacy, and divergent mega-cap earnings. April CPI printed at a three-year high of 3.8% YoY on Iran War energy pass-through, forcing markets to abandon residual rate-cut expectations; the S&P 500 hit an intraday high of 7,501 before reversing −1.24% on Friday.",
+        "regime": {
+          "tone": "mixed",
+          "label": "Mixed → shifting Risk-Off by week-end",
+          "evidence": "Mid-week S&P and Nasdaq at ATHs and Dow above 50,000, but Friday close S&P −1.24% with deteriorating breadth and widening credit spreads"
+        },
+        "stats": [
+          {
+            "label": "S&P 500",
+            "value": "7,408 (−1.24% Fri)",
+            "dir": "down"
+          },
+          {
+            "label": "Nasdaq",
+            "value": "−1.5% Fri",
+            "dir": "down"
+          },
+          {
+            "label": "WTI",
+            "value": "+11% wk (~$103–106)",
+            "dir": "up"
+          },
+          {
+            "label": "Brent",
+            "value": "~$106",
+            "dir": "up"
+          },
+          {
+            "label": "Copper",
+            "value": ">$14,000/ton",
+            "dir": "up"
+          },
+          {
+            "label": "Gold",
+            "value": "range-bound",
+            "dir": "flat"
+          }
+        ],
+        "events": [
+          {
+            "rank": 1,
+            "title": "Iran War — Strait of Hormuz Oil Shock",
+            "score": 45,
+            "assets": "Energy·Equities·Inflation·EM",
+            "reaction": "WTI +11% weekly; Brent ~$106",
+            "detail": "The US-Israel war has effectively closed the Strait of Hormuz since late February, removing ~3.9M bpd with ~10.5M bpd of Gulf production offline; Aramco's CEO warned stability cannot return before 2027. Brent is ~$106, up ~47% since late February."
+          },
+          {
+            "rank": 2,
+            "title": "April CPI +3.8% YoY / PPI +6.0% YoY",
+            "score": 21,
+            "assets": "Equities·Bonds·FX",
+            "reaction": "S&P -1.24%; 10Y yields spike",
+            "detail": "April CPI printed +0.6% MoM / +3.8% YoY (a three-year high) on Iran War energy pass-through, with core at +2.8% confirming broadening; PPI rose +6.0% YoY, the largest gain since December 2022, eliminating any near-term Fed cut case."
+          },
+          {
+            "rank": 3,
+            "title": "Trump-Xi Beijing Summit — 30% Tariff Truce",
+            "score": 15,
+            "assets": "Equities·FX·Trade",
+            "reaction": "S&P ATH then -1.24% reversal",
+            "detail": "Trump's two-day Beijing summit produced a tariff truce cutting US tariffs from 145% to 30% (through Aug 12) and China's to 10%, plus a 200-Boeing-jet order, but markets were disappointed by no breakthroughs on rare earths or export controls."
+          },
+          {
+            "rank": 4,
+            "title": "Mega-Cap Tech Earnings (Alphabet, Amazon, MSFT, Apple, NVIDIA)",
+            "score": 13,
+            "assets": "Equities·Sector",
+            "reaction": "Nasdaq ATH; Alphabet +10%; NVIDIA -8.4%",
+            "detail": "Earnings diverged sharply: Alphabet surged +10% on Google Cloud +63% YoY and Apple rose +3.3% on strong guidance, while Microsoft fell -4% on a $190B capex projection and NVIDIA fell -8.4% over four days ahead of its May 20 report."
+          },
+          {
+            "rank": 5,
+            "title": "Kevin Warsh Confirmed as Fed Chair",
+            "score": 12,
+            "assets": "Bonds·FX·Rates",
+            "reaction": "Policy uncertainty repriced",
+            "detail": "The Senate confirmed Warsh 54-45, the closest in modern Fed history, with Powell unusually retaining a board seat and vote. The same-day CPI print immediately constrained the rate cuts the White House expects, with markets pricing no 2026 cuts."
+          }
+        ],
+        "catalysts": [
+          "NVIDIA Q1 FY2027 earnings · May 20",
+          "May CPI/PPI releases · June 10–11",
+          "Warsh's inaugural FOMC · June 16–17",
+          "Tariff truce expiry · August 12"
+        ],
+        "risks": [
+          {
+            "label": "Hormuz remains closed through Q3 2026",
+            "prob": "60%",
+            "impact": "High"
+          },
+          {
+            "label": "NVIDIA earnings miss on May 20",
+            "prob": "30%",
+            "impact": "Moderate"
+          },
+          {
+            "label": "White House pressure forces premature Warsh dovishness",
+            "prob": "25%",
+            "impact": "Low-moderate"
+          }
+        ]
+      }
     },
     {
       "id": "2026-05-10",
@@ -85,7 +699,111 @@
       "month": 5,
       "title": "Weekly Market News — 05/10/2026",
       "path": "reports/2026/weekly-market-news-05102026.md",
-      "summary": "Analysis covers 3–10 May 2026 (with late-April anchor events). Five tier-1 events against a backdrop of two counteracting forces."
+      "brief": {
+        "headline": "Two counteracting forces defined the week: the 2026 Iran war / Strait of Hormuz supply shock — the largest oil disruption on record, removing ~14M barrels/day — and an AI-powered Magnificent Seven earnings superweek that drove the S&P 500 to a record close of 7,399 (+2.3% weekly) and Nasdaq to 26,247 (+4.5%). The dominant macro risk is stagflationary.",
+        "regime": {
+          "tone": "mixed",
+          "label": "Mixed — Risk-On in equities; elevated risk premium in energy/commodities",
+          "evidence": "VIX sub-20 and S&P at all-time high, but gold at $4,721 and Brent at $101 signal persistent macro anxiety"
+        },
+        "stats": [
+          {
+            "label": "S&P 500",
+            "value": "7,399 (+2.3% wk)",
+            "dir": "up"
+          },
+          {
+            "label": "Nasdaq",
+            "value": "+4.5% wk",
+            "dir": "up"
+          },
+          {
+            "label": "Brent",
+            "value": "$101.26 (−7% wk)",
+            "dir": "down"
+          },
+          {
+            "label": "WTI",
+            "value": "$95.64 (−7% wk)",
+            "dir": "down"
+          },
+          {
+            "label": "Gold",
+            "value": "$4,721",
+            "dir": "up"
+          },
+          {
+            "label": "10Y",
+            "value": "4.25–4.45%",
+            "dir": "flat"
+          }
+        ],
+        "events": [
+          {
+            "rank": 1,
+            "title": "Iran War / Strait of Hormuz Supply Shock",
+            "score": 45,
+            "assets": "Oil·Gold·Bonds·Equities·FX",
+            "reaction": "Brent peaked $111 → $101; Gold $4,721; VIX elevated",
+            "detail": "The Strait of Hormuz has remained largely closed since late February with the IEA estimating ~14M barrels/day removed; Brent retreated to ~$101 on ceasefire talks before US forces struck two Iranian tankers on May 8. Fertilizer prices are up 31% as a knock-on effect."
+          },
+          {
+            "rank": 2,
+            "title": "Mag-7 Tech Earnings Superweek",
+            "score": 17.5,
+            "assets": "Equities·AI/Semis·Cloud",
+            "reaction": "Nasdaq +4.5% wk; S&P 500 record 7,399",
+            "detail": "Five Magnificent Seven members all beat consensus with cloud re-accelerating (Google Cloud +63% YoY); the four hyperscalers collectively pledged $600–645B in 2026 AI capex. Apple was the outlier with minimal capex."
+          },
+          {
+            "rank": 3,
+            "title": "FOMC 8-4 Historic Dissent Hold",
+            "score": 12,
+            "assets": "Bonds·Equities·USD",
+            "reaction": "Rates held 3.50–3.75%; most dissents since 1992",
+            "detail": "The FOMC voted 8-4 to hold for a third consecutive meeting — the most dissents since October 1992 — with the median dot still projecting one cut. The Iran energy shock has created a genuine stagflationary dilemma."
+          },
+          {
+            "rank": 4,
+            "title": "US-China Tariffs 145%/125% (Ongoing)",
+            "score": 9,
+            "assets": "Equities·FX·Supply Chains",
+            "reaction": "Persistent drag; Trump-Xi summit imminent",
+            "detail": "US tariffs on Chinese goods stand at 145% (via non-IEEPA authority after the February Supreme Court ruling) against China's 125% reciprocal rate, with a Trump-Xi summit imminent centering on a 500-Boeing-aircraft purchase and rare-earth access."
+          },
+          {
+            "rank": 5,
+            "title": "US April NFP +115K Beat",
+            "score": 8,
+            "assets": "Equities·Bonds",
+            "reaction": "S&P +0.8% to record; Unemployment 4.3%",
+            "detail": "April non-farm payrolls rose 115,000, beating the ~90,000 consensus, with unemployment holding at 4.3% — reinforcing the soft-landing narrative and pushing the S&P and Nasdaq to all-time highs."
+          }
+        ],
+        "catalysts": [
+          "US-China Summit · imminent",
+          "Iran ceasefire resolution · TBD",
+          "NVIDIA earnings · upcoming",
+          "FOMC June meeting · June"
+        ],
+        "risks": [
+          {
+            "label": "Ceasefire + Hormuz Reopening",
+            "prob": "40%",
+            "impact": "Major Positive"
+          },
+          {
+            "label": "Iran War Re-escalation",
+            "prob": "35%",
+            "impact": "Severe"
+          },
+          {
+            "label": "US-China Trade War Escalation Post-Summit",
+            "prob": "20%",
+            "impact": "Major"
+          }
+        ]
+      }
     },
     {
       "id": "2026-05-03",
@@ -97,7 +815,111 @@
       "month": 5,
       "title": "Weekly Market News — 05/03/2026",
       "path": "reports/2026/weekly-market-news-05032026.md",
-      "summary": "Period analyzed: April 26 – May 3, 2026. Five events against a macro backdrop defined by the worst energy supply shock on record."
+      "brief": {
+        "headline": "Five market-moving events unfolded against the worst energy supply shock since 1973 colliding with the strongest US mega-cap earnings season since 2020. Equity markets staged a historic AI-driven rally (S&P 500 +10.4% in April, Nasdaq +15.3%) while energy markets remain structurally dislocated with WTI briefly touching $111/bbl.",
+        "regime": {
+          "tone": "mixed",
+          "label": "Mixed — Risk-On in equities; Risk-Off/Inflationary in macro",
+          "evidence": "Record equity highs with VIX compressed, but 10Y yield at 9-month highs and WTI peak $111 signal stagflationary stress"
+        },
+        "stats": [
+          {
+            "label": "S&P 500",
+            "value": "+10.4% (Apr)",
+            "dir": "up"
+          },
+          {
+            "label": "Nasdaq",
+            "value": "+15.3% (Apr)",
+            "dir": "up"
+          },
+          {
+            "label": "WTI",
+            "value": "$111 peak (+60% cum)",
+            "dir": "up"
+          },
+          {
+            "label": "10Y",
+            "value": "4.39% (tested 4.45%)",
+            "dir": "up"
+          },
+          {
+            "label": "Gold",
+            "value": "$3,100–3,300",
+            "dir": "up"
+          },
+          {
+            "label": "Copper",
+            "value": "revised lower",
+            "dir": "down"
+          }
+        ],
+        "events": [
+          {
+            "rank": 1,
+            "title": "Strait of Hormuz / Middle East Oil Supply Shock",
+            "score": 28.1,
+            "assets": "Energy·Equities·Bonds·FX·Gold",
+            "reaction": "WTI peak $111/bbl; +60% cumulative since Feb",
+            "detail": "The Middle East conflict disrupted the Strait of Hormuz (~35% of seaborne crude), triggering an estimated ~10 mb/d supply loss — the largest since the 1970s. The World Bank projects energy prices to surge 24% in 2026."
+          },
+          {
+            "rank": 2,
+            "title": "Mega-Cap Big Tech Q1 2026 Earnings Week",
+            "score": 26.3,
+            "assets": "Equities·Options·Bonds",
+            "reaction": "S&P 500 record 7,230; Nasdaq +15.3% for April",
+            "detail": "All five reporting Magnificent Seven companies beat EPS consensus, validating AI monetization at scale; Alphabet rose +6% after-hours on 22% revenue growth and ~800% YoY generative AI revenue. Combined reporting market cap was ~$16 trillion."
+          },
+          {
+            "rank": 3,
+            "title": "FOMC Apr 28–29: Hold + Historic 4-Member Dissent",
+            "score": 18.75,
+            "assets": "Rates·USD·Equities·Gold",
+            "reaction": "10Y yield tested 4.45%; Warsh succession signal",
+            "detail": "The FOMC voted 8-4 to hold at 3.50–3.75% — the most divided vote since October 1992 — citing Middle East uncertainty. Powell's tenure ends May 15, with the more hawkish Warsh chairing the June meeting."
+          },
+          {
+            "rank": 4,
+            "title": "ECB Apr 30: Hold + Stagflation Risk Acknowledged",
+            "score": 15.0,
+            "assets": "EUR/USD·European Equities·EGBs",
+            "reaction": "Rate hike priced by June; EUR volatile",
+            "detail": "The ECB held the refi rate at 2.15% but Lagarde formally acknowledged intensifying stagflation risk as flash CPI jumped to 3.0% and Q1 GDP grew just +0.1%. Markets now price three ECB hikes in 2026."
+          },
+          {
+            "rank": 5,
+            "title": "BOJ Apr 28: Hold + 3 Hawkish Dissents + Inflation Upgrade",
+            "score": 13.1,
+            "assets": "JPY·JGBs·EM Carry",
+            "reaction": "JPY strengthened; BOJ June hike signaled",
+            "detail": "The BOJ voted 6-3 to hold at 0.75% with three members favoring an immediate hike, while cutting FY2026 GDP to 0.5% and raising core CPI to 2.8% — a stagflationary revision implying a June hike consequential for carry trades."
+          }
+        ],
+        "catalysts": [
+          "US CPI (April) · May 12",
+          "Powell's last day as Fed Chair · May 15",
+          "Nvidia Q1 earnings · May 20",
+          "FOMC (Warsh's first) · Jun 16–17"
+        ],
+        "risks": [
+          {
+            "label": "Nvidia Mega-Beat (May 20)",
+            "prob": "35%",
+            "impact": "Major"
+          },
+          {
+            "label": "Stagflation Confirmation — CPI Spike + Weak NFP",
+            "prob": "30%",
+            "impact": "High"
+          },
+          {
+            "label": "BOJ Emergency Hike or June Surprise",
+            "prob": "25%",
+            "impact": "Major"
+          }
+        ]
+      }
     },
     {
       "id": "2026-04-26",
@@ -109,7 +931,111 @@
       "month": 4,
       "title": "Weekly Market News — 04/26/2026",
       "path": "reports/2026/weekly-market-news-04262026.md",
-      "summary": "Analysis period: April 19–26, 2026. Five events; dominant regime a \"War Premium + Earnings Pivot\" amid an active US-Israel conflict."
+      "brief": {
+        "headline": "An active US-Israel-Iran conflict effectively closing the Strait of Hormuz is driving a historic energy shock (+13–18% oil weekly), while the approaching Magnificent 7 \"super week\" earnings (April 29–30) creates a bifurcated tape between energy/safe-haven assets and AI-driven mega-cap tech. Central banks (Fed, ECB, BOJ, BOE, BoC) are all expected to hold, removing monetary policy as a near-term catalyst.",
+        "regime": {
+          "tone": "mixed",
+          "label": "Mixed — Risk-Off in energy/macro, Risk-On in AI/tech (conditional)",
+          "evidence": "Energy spike + IMF recession language = risk-off for global growth-sensitive assets; safe-haven gold at multi-year highs"
+        },
+        "stats": [
+          {
+            "label": "WTI",
+            "value": "+13%",
+            "dir": "up"
+          },
+          {
+            "label": "Brent",
+            "value": "+17–18%",
+            "dir": "up"
+          },
+          {
+            "label": "Gold",
+            "value": "multi-yr high",
+            "dir": "up"
+          },
+          {
+            "label": "DXY",
+            "value": "~98.5 (−1% mo)",
+            "dir": "down"
+          },
+          {
+            "label": "10Y",
+            "value": "~4.3–4.5%",
+            "dir": "flat"
+          },
+          {
+            "label": "Copper",
+            "value": "repriced lower",
+            "dir": "down"
+          }
+        ],
+        "events": [
+          {
+            "rank": 1,
+            "title": "US-Iran War: Hormuz Closure & Ceasefire Fragility",
+            "score": 45.0,
+            "assets": "Equities·Oil·Gold·Bonds·FX",
+            "reaction": "Brent +17–18% wk; WTI +13% wk; Gold multi-yr high; USD soft",
+            "detail": "Operation Epic Fury entered its eighth week with the Strait of Hormuz effectively closed; a fragile April 8 ceasefire was undercut by Iran attacking three commercial vessels on April 22. The IMF formally warned of global recession risk if disruptions persist."
+          },
+          {
+            "rank": 2,
+            "title": "Trump 50% China Tariff Threat (145% active rate)",
+            "score": 31.5,
+            "assets": "Equities·Copper·FX·Tech",
+            "reaction": "Semi/tech under pressure; CNY weak; copper repriced",
+            "detail": "Trump threatened an additional 50% tariff on China atop the existing 145% rate if Beijing supplies weapons to Iran, merging trade and military-alliance policy into a single instrument. The April 2 Proclamation also expanded Section 232 to copper."
+          },
+          {
+            "rank": 3,
+            "title": "Mag-7 Earnings Super Week: Tesla + Fwd MSFT/Meta/GOOGL/AMZN",
+            "score": 21.0,
+            "assets": "Equities·FX",
+            "reaction": "Nasdaq direction held hostage to Apr 29–30 prints; VIX elevated",
+            "detail": "Tesla reported April 22 and disclosed early talks for a large-scale AI compute facility expansion; the April 29–30 window brings the highest-concentration earnings event of Q1 2026, testing whether AI capex translates to revenue proof."
+          },
+          {
+            "rank": 4,
+            "title": "Fed Holds 3.50–3.75%; April 28–29 FOMC Approaching",
+            "score": 15.0,
+            "assets": "All asset classes",
+            "reaction": "10yr ~4.3–4.5%; DXY ~98.5; 1 cut priced for late 2026",
+            "detail": "The Fed held for a second consecutive meeting as March CPI surged to 3.3% YoY on oil-driven geopolitical inflation. Market pricing shows 99.7% probability of no change at the April 28–29 meeting."
+          },
+          {
+            "rank": 5,
+            "title": "ECB Hold + June Hike Pricing; \"Layer Cake of Shocks\"",
+            "score": 12.0,
+            "assets": "EUR·Bunds·Euro equities",
+            "reaction": "EUR/USD ~1.1686; Bund yields rising; VSTOXX elevated",
+            "detail": "The ECB held all three key rates as eurozone headline inflation jumped to 2.6% in March on the Iran energy shock. Lagarde warned of a \"layer cake of shocks\" with markets pricing a June hike despite 0.9% GDP growth."
+          }
+        ],
+        "catalysts": [
+          "FOMC meeting · Apr 28–29",
+          "MSFT/Meta/Alphabet/Amazon earnings · Apr 29",
+          "ECB meeting · Apr 29–30",
+          "Islamabad Iran peace talks · TBD"
+        ],
+        "risks": [
+          {
+            "label": "AI Earnings Disappointment",
+            "prob": "35%",
+            "impact": "High"
+          },
+          {
+            "label": "Geopolitical Ceasefire + Oil Snapback",
+            "prob": "30%",
+            "impact": "Moderate"
+          },
+          {
+            "label": "Iran Conflict Escalation",
+            "prob": "25%",
+            "impact": "High"
+          }
+        ]
+      }
     }
   ]
 }

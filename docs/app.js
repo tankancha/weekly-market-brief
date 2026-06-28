@@ -73,8 +73,9 @@ function buildTree(reports) {
       html += `<details class="month"${mOpen}><summary>${CARET}<span>${MONTHS[m.month - 1]}</span>` +
               `<span class="month-count">${m.items.length}</span></summary><ul class="weeks">`;
       for (const r of m.items) {
+        const tip = (r.brief && r.brief.headline) || '';
         html += `<li class="week"><a href="#${r.id}" data-id="${r.id}"` +
-                (r.summary ? ` title="${escapeAttr(r.summary)}"` : '') +
+                (tip ? ` title="${escapeAttr(tip)}"` : '') +
                 `>${escapeHtml(r.weekOfLabel || r.id)}</a></li>`;
       }
       html += `</ul></details>`;
@@ -152,12 +153,27 @@ function renderCockpit(ck, b) {
   animateTiles(ck);
 }
 
-function animateTiles(scope){ /* Task 4 adds count-up; no-op placeholder */ }
-async function revealFull(entry, report){
-  const md = await fetchText('./data/' + entry.path);
-  if(md==null){ report.hidden=false; report.innerHTML='<p class="error-state">This report could not be loaded.</p>'; return; }
-  report.innerHTML = DOMPurify.sanitize(marked.parse(md.replace(/^#\s+.*\n/,'')));
-  report.hidden=false; wrapTables();
+function animateTiles(scope){
+  scope.querySelectorAll('.ck-tile .tv').forEach(el=>{
+    const m=/^([+\-−]?)\$?([\d.]+)(.*)$/.exec(el.textContent.trim());
+    if(!m||isNaN(parseFloat(m[2])))return;
+    const sign=m[1], target=parseFloat(m[2]), tail=m[3], hasDollar=el.textContent.includes('$');
+    let i=0; const steps=24;
+    const t=setInterval(()=>{ i++; const v=(target*i/steps);
+      el.textContent=(sign||'')+(hasDollar?'$':'')+v.toFixed(target%1?1:0)+tail;
+      if(i>=steps){clearInterval(t); el.textContent=(sign||'')+(hasDollar?'$':'')+target.toFixed(target%1?1:0)+tail;} },14);
+  });
+}
+async function revealFull(entry, report, btn){
+  let html = mdCache[entry.id];
+  if(!html){
+    const md = await fetchText('./data/' + entry.path);
+    if(md==null){ report.hidden=false; report.innerHTML='<p class="error-state">This report could not be loaded.</p>'; return; }
+    let body = md.replace(/^#\s+.*\n/,'');                 // drop the H1 (already in the header)
+    html = DOMPurify.sanitize(marked.parse(body));
+    mdCache[entry.id]=html;
+  }
+  report.innerHTML=html; report.hidden=false; wrapTables();
 }
 
 function wrapTables() {
@@ -241,6 +257,14 @@ function closeDrawer() { document.body.classList.remove('nav-open'); els.scrim.h
   els.scrim?.addEventListener('click', closeDrawer);
   // Close the drawer when a week is tapped (link still updates the hash).
   els.archive.addEventListener('click', e => { if (e.target.closest('a[data-id]')) closeDrawer(); });
+
+  document.getElementById('revealBtn').addEventListener('click', async function(){
+    const id = currentHashId() || (REPORTS[0] && REPORTS[0].id);
+    const entry = BY_ID[id]; if(!entry) return;
+    const opening = els.report.hidden;
+    if(opening){ await revealFull(entry, els.report, this); this.classList.add('open'); this.querySelector('.rl').textContent='Hide full analysis'; }
+    else { els.report.hidden=true; this.classList.remove('open'); this.querySelector('.rl').textContent='Read full analysis'; }
+  });
 
   const manifest = await fetchJSON('./data/index.json');
   if (!manifest || !Array.isArray(manifest.reports) || !manifest.reports.length) {

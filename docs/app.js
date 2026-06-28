@@ -19,6 +19,10 @@ const els = {
 let REPORTS = [];   // newest-first
 let BY_ID = {};
 
+const mdCache = {};
+const REGIME_CLASS = { 'risk-on': 'on', 'risk-off': 'off', 'mixed': 'mixed' };
+const esc = escapeHtml;   // reuse the existing escaping implementation
+
 /* ─── fetch helpers ──────────────────────────────────────── */
 
 function bust(url) {
@@ -98,32 +102,62 @@ function setActive(id) {
 async function loadReport(id) {
   const entry = BY_ID[id];
   if (!entry) { showFirstReport(); return; }
-
   setActive(id);
   els.eyebrow.textContent = entry.weekOfLabel || 'Weekly Market Brief';
+  els.title.textContent = entry.title || 'Report';
   els.meta.textContent = formatMeta(entry);
-
-  const md = await fetchText('./data/' + entry.path);
-  if (md == null) {
-    els.title.textContent = entry.title || 'Report';
-    els.report.innerHTML = '<p class="error-state">This report could not be loaded (' +
-      escapeHtml(entry.path) + '). It may not have been published yet.</p>';
-    return;
-  }
-
-  const html = DOMPurify.sanitize(marked.parse(md));
-  els.report.innerHTML = html;
-  wrapTables();
-
-  // Use the document H1 as the header title, then strip it from the body to avoid duplication.
-  const h1 = els.report.querySelector('h1');
-  els.title.textContent = (h1 && h1.textContent.trim()) || entry.title || 'Report';
-  if (h1) h1.remove();
-
   document.title = (entry.title || 'Weekly Market Brief') + ' · Weekly Market Brief';
-  els.report.scrollIntoView({ block: 'start' });
-  els.report.parentElement.scrollTop = 0;
+
+  const ck = document.getElementById('cockpit');
+  const revealBtn = document.getElementById('revealBtn');
+  const report = els.report;
+  report.hidden = true; report.innerHTML = '';
+  revealBtn.classList.remove('open');
+  revealBtn.querySelector('.rc').style.transform = '';
+  revealBtn.querySelector('.rl').textContent = 'Read full analysis';
+
+  if (entry.brief) {
+    ck.hidden = false; revealBtn.hidden = false;
+    renderCockpit(ck, entry.brief);
+  } else {
+    ck.hidden = true; revealBtn.hidden = true;
+    await revealFull(entry, report, revealBtn);
+  }
   window.scrollTo(0, 0);
+}
+
+function renderCockpit(ck, b) {
+  const tone = REGIME_CLASS[(b.regime && b.regime.tone) || 'mixed'] || 'mixed';
+  const tiles = (b.stats || []).map(s =>
+    `<div class="ck-tile"><div class="tl">${esc(s.label)}</div><div class="tv num ${s.dir==='up'?'up':s.dir==='down'?'down':''}">${esc(s.value)}</div></div>`).join('');
+  const events = (b.events || []).map(e =>
+    `<div class="ck-ev"><div class="ck-ev-head"><span class="ck-rank${e.rank===1?' r1':''}">${e.rank}</span>`+
+    `<span class="ck-ev-title">${esc(e.title)}</span><span class="ck-ev-assets">${esc(e.assets||'')}</span>`+
+    `<span class="ck-ev-score num">${esc(String(e.score))}</span><span class="ck-chev">▸</span></div>`+
+    `<div class="ck-ev-detail"><div class="inner">${esc(e.detail||'')}`+
+    (e.reaction?`<div style="color:var(--down);font-size:12.5px;margin-top:8px">${esc(e.reaction)}</div>`:'')+
+    `</div></div></div>`).join('');
+  const catalysts = (b.catalysts||[]).map(c=>`<span class="ck-chip">${esc(c)}</span>`).join('');
+  const risks = (b.risks||[]).map(r=>`<span class="rb">${esc(r.label)} · <span class="num">${esc(r.prob)}</span> · ${esc(r.impact)}</span>`).join('');
+  const reg = b.regime || {};
+  ck.innerHTML =
+    `<div class="ck-top"><div class="ck-headline">${esc(b.headline||'')}</div>`+
+    `<div class="ck-regime ${tone}"><div class="rl">Regime</div><div class="rv">${esc(reg.label||'—')}</div></div></div>`+
+    (tiles?`<div class="ck-tiles">${tiles}</div>`:'')+
+    (events?`<div class="ck-seclabel">Top ${b.events.length} impact-ranked events</div>${events}`:'')+
+    (catalysts?`<div class="ck-fwd"><span class="lbl">Watch next</span>${catalysts}</div>`:'')+
+    (risks?`<div class="ck-risk"><span class="lbl">Key risk</span>${risks}</div>`:'');
+  ck.querySelectorAll('.ck-ev').forEach(ev =>
+    ev.querySelector('.ck-ev-head').addEventListener('click', () => ev.classList.toggle('open')));
+  animateTiles(ck);
+}
+
+function animateTiles(scope){ /* Task 4 adds count-up; no-op placeholder */ }
+async function revealFull(entry, report){
+  const md = await fetchText('./data/' + entry.path);
+  if(md==null){ report.hidden=false; report.innerHTML='<p class="error-state">This report could not be loaded.</p>'; return; }
+  report.innerHTML = DOMPurify.sanitize(marked.parse(md.replace(/^#\s+.*\n/,'')));
+  report.hidden=false; wrapTables();
 }
 
 function wrapTables() {

@@ -114,7 +114,6 @@ async function loadReport(id) {
   const report = els.report;
   report.hidden = true; report.innerHTML = '';
   revealBtn.classList.remove('open');
-  revealBtn.querySelector('.rc').style.transform = '';
   revealBtn.querySelector('.rl').textContent = 'Read full analysis';
 
   if (entry.brief) {
@@ -136,7 +135,7 @@ function renderCockpit(ck, b) {
     `<span class="ck-ev-title">${esc(e.title)}</span><span class="ck-ev-assets">${esc(e.assets||'')}</span>`+
     `<span class="ck-ev-score num">${esc(String(e.score))}</span><span class="ck-chev">▸</span></div>`+
     `<div class="ck-ev-detail"><div class="inner">${esc(e.detail||'')}`+
-    (e.reaction?`<div style="color:var(--down);font-size:12.5px;margin-top:8px">${esc(e.reaction)}</div>`:'')+
+    (e.reaction?`<div class="ck-ev-reaction">${esc(e.reaction)}</div>`:'')+
     `</div></div></div>`).join('');
   const catalysts = (b.catalysts||[]).map(c=>`<span class="ck-chip">${esc(c)}</span>`).join('');
   const risks = (b.risks||[]).map(r=>`<span class="rb">${esc(r.label)} · <span class="num">${esc(r.prob)}</span> · ${esc(r.impact)}</span>`).join('');
@@ -212,6 +211,9 @@ function showEmptyState() {
   els.eyebrow.textContent = 'Weekly Market Brief';
   els.title.textContent = 'Weekly Market Brief';
   els.meta.textContent = '';
+  document.getElementById('cockpit').hidden = true;
+  document.getElementById('revealBtn').hidden = true;
+  els.report.hidden = false;
   els.report.innerHTML =
     '<div class="empty-hero"><h2>No reports published yet</h2>' +
     '<p>The first brief lands Sunday evening (18:00 Asia/Bangkok). ' +

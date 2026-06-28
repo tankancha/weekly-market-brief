@@ -155,13 +155,18 @@ function renderCockpit(ck, b) {
 
 function animateTiles(scope){
   scope.querySelectorAll('.ck-tile .tv').forEach(el=>{
-    const m=/^([+\-−]?)\$?([\d.]+)(.*)$/.exec(el.textContent.trim());
-    if(!m||isNaN(parseFloat(m[2])))return;
-    const sign=m[1], target=parseFloat(m[2]), tail=m[3], hasDollar=el.textContent.includes('$');
+    const raw=el.textContent.trim();
+    // Only animate clean single values (e.g. "+0.9%", "−6.8%", "$77"); leave
+    // ranges ("−2.64% → +1.75%"), suffixes ("4.2% YoY") and "~"-prefixed values static.
+    const m=/^([+\-−]?)\$?(\d+(?:\.\d+)?)(%?)$/.exec(raw);
+    if(!m)return;
+    const sign=m[1], numStr=m[2], unit=m[3], target=parseFloat(numStr), hasDollar=raw.includes('$');
+    const dec=(numStr.split('.')[1]||'').length;     // preserve original precision
     let i=0; const steps=24;
-    const t=setInterval(()=>{ i++; const v=(target*i/steps);
-      el.textContent=(sign||'')+(hasDollar?'$':'')+v.toFixed(target%1?1:0)+tail;
-      if(i>=steps){clearInterval(t); el.textContent=(sign||'')+(hasDollar?'$':'')+target.toFixed(target%1?1:0)+tail;} },14);
+    const t=setInterval(()=>{ i++;
+      if(i>=steps){ clearInterval(t); el.textContent=raw; return; }   // settle to the exact original
+      el.textContent=sign+(hasDollar?'$':'')+(target*i/steps).toFixed(dec)+unit;
+    },14);
   });
 }
 async function revealFull(entry, report, btn){

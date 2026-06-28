@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "site": "Weekly Market Brief",
-  "updated": "2026-06-28T17:32:10+07:00",
+  "updated": "2026-06-28T18:20:00+07:00",
   "reports": [
     {
       "id": "2026-06-28",
@@ -14,102 +14,107 @@
       "title": "Weekly Market News — 06/28/2026",
       "path": "reports/2026/weekly-market-news-06282026.md",
       "brief": {
-        "headline": "Synchronized global monetary tightening — Fed erased all 2026 cut projections, BOJ hiked to 1.0% (a 30-year high), and May PCE reaccelerated to 4.10% YoY, while the US–Iran peace deal began slowly deflating the energy shock that triggered the inflation surge.",
+        "headline": "The 2026 energy shock unwound violently — Brent fell −10%+ on the week and WTI broke to $68.86 (lowest since February) as the Strait of Hormuz reopened, pulling the 10Y yield ~7bp lower even as a backward-looking May PCE ran hot at 4.1% YoY. Equities split: the Dow held on cheaper oil while the Nasdaq fell a 5th straight session on a mega-cap tech rotation, cushioned only by Micron's +15% blowout.",
         "regime": {
           "tone": "mixed",
-          "label": "Mixed — Convergent global tightening",
-          "evidence": "DXY at 101.34 (1-year high); gold −26% from peak; Fed/ECB/BOJ all hawkish simultaneously"
+          "label": "Mixed — Disinflation relief with internal rotation",
+          "evidence": "Dow resilient and 10Y lower, but Nasdaq down 5 straight and DXY at a >1-year high; VIX calm"
         },
         "stats": [
           {
-            "label": "DXY",
-            "value": "101.34",
-            "dir": "up"
+            "label": "S&P 500",
+            "value": "7,354 (−1.6% wk)",
+            "dir": "down"
+          },
+          {
+            "label": "Nasdaq",
+            "value": "25,298 (−3.3% wk)",
+            "dir": "down"
           },
           {
             "label": "WTI Crude",
-            "value": "~$77–80",
+            "value": "$68.86",
             "dir": "down"
           },
           {
             "label": "Gold",
-            "value": "~$4,000",
+            "value": "~$4,087",
             "dir": "down"
           },
           {
             "label": "10Y UST",
             "value": "4.37%",
-            "dir": "up"
+            "dir": "down"
           },
           {
             "label": "PCE (May)",
-            "value": "4.10% YoY",
+            "value": "4.1% YoY",
             "dir": "up"
           }
         ],
         "events": [
           {
             "rank": 1,
-            "title": "FOMC Hawkish Dot-Plot Reversal",
-            "score": 31.5,
-            "assets": "UST·USD·Gold·Equities",
-            "reaction": "DXY +1% to 101.34; 2Y at 4.10%; gold →~$4,000; Oct 2026 hike priced",
-            "detail": "FOMC held at 3.50–3.75% unanimously but eliminated all 2026 cut projections — 9/18 members now project at least one hike. Chair Warsh dropped the easing-bias language entirely, marking the sharpest forward-guidance hawkish pivot since 2022."
+            "title": "Oil Crash — WTI Breaks $69 as Hormuz Reopens",
+            "score": 37.5,
+            "assets": "Energy·Eq·Bonds·Gold·FX",
+            "reaction": "Brent −10%+/wk; WTI →$68.86 (low since Feb); 10Y −7bp; Dow resilient",
+            "detail": "A US Treasury 60-day license restored Iranian crude as the Strait of Hormuz reopened and Saudi Arabia resumed loading; Gulf exports recovered to ~75% of pre-war levels, collapsing the '$200 oil' tail risk that had dominated H1 2026."
           },
           {
             "rank": 2,
-            "title": "May PCE Reacceleration (4.10% YoY)",
+            "title": "May PCE +4.1% YoY — Hottest Since Apr 2023",
             "score": 17.5,
-            "assets": "Bonds·USD·Gold",
-            "reaction": "Confirmed Oct hike pricing; DXY held 101; gold under pressure at ~$4,000",
-            "detail": "May PCE rose to 4.10% YoY (from 3.80%) with Core at 3.40%; May CPI at 4.17% with 3-month annualized pace at 8.2%, validating the Fed's hawkish pivot and closing the door on any 2026 dovish reversal."
+            "assets": "Bonds·USD·Gold·Eq",
+            "reaction": "In-line read trimmed Oct-hike odds; 10Y −7bp; gold eased; DXY held ~101.5",
+            "detail": "Headline PCE rose +0.4% m/m to 4.1% YoY and Core to 3.4% (above 3.3% est), reigniting the Fed's preferred gauge on energy pass-through — but markets looked through the stale data toward the live oil collapse signaling cooler future prints."
           },
           {
             "rank": 3,
-            "title": "BOJ Hike to 1.0% — 30-Year High",
-            "score": 17.5,
-            "assets": "JPY·JGBs·EM carry",
-            "reaction": "USD/JPY pressured; JGB yields rose; carry unwind risk elevated",
-            "detail": "BOJ hiked 25bps to 1.00% (highest since 1995) on a 7-1 vote with explicit guidance for further hikes toward ~2% neutral; combined with Fed and ECB tightening, global carry trade spread compression accelerates."
+            "title": "Micron FQ3 Blowout",
+            "score": 13.1,
+            "assets": "Semis·Memory·Nasdaq",
+            "reaction": "MU +15%; Sandisk +22%, WDC +5%; reversed the chip selloff",
+            "detail": "Micron crushed estimates — EPS $25.11 vs $20.49, revenue $41.46B vs $35.69B (~4x YoY) with cloud memory +300% — and briefly overtook Meta and Tesla by market cap, confirming AI-memory demand is broadening from GPUs into the memory stack."
           },
           {
             "rank": 4,
-            "title": "US–Iran Peace / Hormuz Reopening",
-            "score": 14.0,
-            "assets": "Energy·Gold·Shipping",
-            "reaction": "WTI −4.8% to $80.75; Brent −4.7% to $83.17; gold fell; shipping rallied",
-            "detail": "US–Iran MOU signed June 18 formally ended the conflict and reopened the Strait of Hormuz; oil fell >4% on signing day but full supply normalization will take 3–6 months, keeping WTI ~$17–20 above pre-conflict levels."
+            "title": "Nasdaq 5-Day Tech Rotation",
+            "score": 7.5,
+            "assets": "Mega-cap Tech·Eq",
+            "reaction": "Nasdaq →25,298 (−3.3% wk); Apple drag; rotation to Dow/defensives",
+            "detail": "The Nasdaq ground lower for a 5th straight session as investors rotated out of mega-cap tech into oil-relief cyclicals and defensives; Apple weakness and a single-sourced OpenAI IPO-delay report weighed on AI sentiment."
           },
           {
             "rank": 5,
-            "title": "US–China Tariff Pause + DOD Entity List",
-            "score": 10.0,
-            "assets": "China ADRs·USD/CNY·Semis",
-            "reaction": "Mixed; Alibaba/Baidu ADRs volatile; MOFCOM retaliation warning; 60-day binary risk",
-            "detail": "60-day tariff pause at 30% offset by DOD adding 188 Chinese entities (Alibaba, Baidu, BYD) to its military company list; China's MOFCOM warned of 'resolute retaliation,' creating a hard mid-August binary event."
+            "title": "Q1 GDP Revised Up to +2.1%",
+            "score": 5.0,
+            "assets": "Bonds·Eq·USD",
+            "reaction": "Muted; reinforced the no-cut Fed stance",
+            "detail": "The third estimate of Q1 2026 GDP was revised up to +2.1% annualized (from +1.6%) on lower imports; alongside resilient 215k jobless claims, it supports a solid-growth, higher-for-longer backdrop for the Warsh Fed."
           }
         ],
         "catalysts": [
           "US June CPI · mid-Jul 2026",
           "FOMC July meeting · late Jul 2026",
-          "Q2 Mega-Cap Earnings (NVIDIA $91B bar) · Jul 2026",
-          "US–China tariff pause expiry · mid-Aug 2026"
+          "Q2 Mega-Cap Earnings (NVIDIA, Apple) · late Jul 2026",
+          "US–China tariff-pause expiry · mid-Aug 2026"
         ],
         "risks": [
-          {
-            "label": "Oct FOMC hike + equity re-rating",
-            "prob": "40%",
-            "impact": "Severe"
-          },
-          {
-            "label": "BOJ carry unwind shock",
-            "prob": "20%",
-            "impact": "Severe"
-          },
           {
             "label": "Iran deal collapse / oil re-spike",
             "prob": "20%",
             "impact": "Severe"
+          },
+          {
+            "label": "Sticky-core inflation forces an Oct hike",
+            "prob": "35%",
+            "impact": "Major"
+          },
+          {
+            "label": "AI-momentum unwind deepens",
+            "prob": "25%",
+            "impact": "Major"
           }
         ]
       }

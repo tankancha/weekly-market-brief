@@ -43,7 +43,14 @@ docs/
     "year": 2026, "month": 6,
     "title": "Weekly Market News — 06/28/2026",
     "path": "reports/2026/weekly-market-news-06282026.md",   // relative to docs/data/
-    "summary": "<~160-char executive-summary snippet>"
+    "brief": {                                  // powers the 1-minute "cockpit" view
+      "headline": "<1–2 sentence plain-text takeaway>",
+      "regime":   { "tone": "risk-on|risk-off|mixed", "label": "…", "evidence": "…" },
+      "stats":    [ { "label": "S&P 500", "value": "+0.9%", "dir": "up|down|flat" } ],  // 4–6
+      "events":   [ { "rank": 1, "title": "…", "score": 31.5, "assets": "Energy·Eq·FX", "reaction": "…", "detail": "…" } ],  // up to 5
+      "catalysts":[ "Name · timing" ],          // 1–4
+      "risks":    [ { "label": "…", "prob": "25%", "impact": "Severe" } ]  // 0–3, optional
+    }
   } ] }
 ```
 

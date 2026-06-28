@@ -383,6 +383,17 @@ For each significant news item (Impact Score >5), conduct detailed reaction anal
 - Acknowledge uncertainty when attributing market moves to specific news
 - Use proper financial terminology; consistent English throughout
 
+### Step 6b: Emit the Cockpit Brief
+
+In addition to the full 6-section report, produce a structured `brief` object that powers the 1-minute "cockpit" view on the site. Every field is distilled from the analysis you already did:
+
+- `headline` — the 1–2 sentence takeaway from the Executive Summary (plain text; keep `−`, `~`, `%`, `$` literally).
+- `regime` — from the Market Regime Assessment. Set `tone` to `risk-on`, `risk-off`, or `mixed` (use `mixed` for "Mixed"/"Cautious"/"Transitioning"). `label` = the short regime phrase; `evidence` = one clause of supporting evidence.
+- `stats` — 4–6 headline numbers (S&P 500, Nasdaq, oil/WTI, gold, DXY, 10Y as available). `dir` is `up`/`down`/`flat` by sign. For a value that is a range or carries a suffix (e.g. "−2.64% → +1.75%", "4.2% YoY", "~$77"), keep it as written and set `dir` to the net direction (or `flat` for a round trip) — the site leaves such values static.
+- `events` — one per ranked event (up to 5): `rank`, `title`, `score` (a NUMBER), `assets` (compact, "·"-separated), `reaction` (the one-line market reaction), and `detail` (1–2 sentence event summary).
+- `catalysts` — 1–4 upcoming catalysts as compact "Name · timing" strings.
+- `risks` — 0–3 key risk scenarios: `label`, `prob` (e.g. "25%"), `impact` (e.g. "Severe").
+
 ### Step 7: Publish to the Site Repo
 
 **Objective:** Commit the finalized report as a Markdown file to the public `weekly-market-brief` repo and upsert its entry into the archive manifest, so GitHub Pages renders it at the live site. **Do NOT call any Notion tools.**
@@ -409,9 +420,17 @@ All dates use the report generation date in Asia/Bangkok. Let `YYYY`, `MM`, `DD`
        "month": <MM as int 1-12>,
        "title": "Weekly Market News — MM/DD/YYYY",
        "path": "reports/<YYYY>/weekly-market-news-<MMDDYYYY>.md",   // relative to docs/data/
-       "summary": "<~160-char plain-text snippet from the Executive Summary>"
+       "brief": {
+         "headline": "1–2 sentence plain-text takeaway (keep − and ~ literally)",
+         "regime": { "tone": "risk-on|risk-off|mixed", "label": "e.g. Cautious risk-on", "evidence": "one clause" },
+         "stats": [ { "label": "S&P 500", "value": "+0.9%", "dir": "up|down|flat" } ],   // 4–6 headline numbers
+         "events": [ { "rank": 1, "title": "…", "score": 31.5, "assets": "Energy·Eq·FX", "reaction": "one-line", "detail": "1–2 sentence summary" } ],  // up to 5
+         "catalysts": [ "Name · timing" ],   // 1–4
+         "risks": [ { "label": "…", "prob": "25%", "impact": "Severe" } ]   // 0–3, optional
+       }
      }
      ```
+   - Include the `brief` object from Step 6b as a field of the entry. Do NOT write a separate `summary` field.
    - **Upsert by `id`:** if an entry with the same `id` already exists, replace it in place; otherwise append. (A re-run on the same day must not duplicate.)
    - Sort `reports` by `generated` **descending** (newest first). **Never reorder or drop unrelated entries.**
    - Set the top-level `updated` to the current ISO-8601 timestamp with the Asia/Bangkok offset.

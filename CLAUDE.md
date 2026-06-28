@@ -13,7 +13,8 @@ Operational notes for any agent (especially the weekly cloud routine) working in
    (`<MMDDYYYY>` = generation date, Asia/Bangkok; create the year folder if absent).
    The body is the same 6-section Markdown, H1 `# Weekly Market News — MM/DD/YYYY`.
 3. **Upsert** `docs/data/index.json`: read it (missing → `{schema,site,reports:[]}`), build the
-   new entry (all manifest fields, incl. a computed `weekOfLabel` and a ~160-char `summary`),
+   new entry (all manifest fields, incl. a computed `weekOfLabel` and a `brief` object —
+   headline, regime, stats, events, catalysts, risks — per SKILL.md Step 6b/7),
    **replace any entry with the same `id`, else append**, sort `reports` by `generated`
    descending, bump `updated`. Write back as 2-space JSON. **Never reorder/drop other entries.**
 4. `git add docs/data/ && git commit -m "report: <YYYY-MM-DD>" && git pull --rebase origin main || true && git push origin main`

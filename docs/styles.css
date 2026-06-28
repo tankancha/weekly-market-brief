@@ -1,0 +1,377 @@
+/* Weekly Market Brief — light, document-style reading theme.
+ * Sidebar archive (Year > Month > Week) + a prose reading pane. */
+
+:root {
+  --bg: #fbfaf7;            /* warm paper */
+  --surface: #ffffff;
+  --sidebar-bg: #f4f2ec;
+  --text: #1f2328;
+  --text-soft: #3d434c;
+  --muted: #6b7280;
+  --faint: #9aa1ab;
+  --rule: #e7e3da;
+  --rule-soft: #efece4;
+  --accent: #0b5d57;       /* deep teal */
+  --accent-soft: #e3efed;
+  --accent-ink: #084842;
+  --link: #0b5d57;
+  --shadow: 0 1px 2px rgba(31,35,40,.04), 0 8px 24px rgba(31,35,40,.05);
+
+  --font-serif: "Source Serif 4", Charter, "Iowan Old Style", Georgia, Cambria, "Times New Roman", serif;
+  --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, Roboto, "Helvetica Neue", Arial, sans-serif;
+
+  --sidebar-w: 288px;
+  --reading-w: 72ch;
+}
+
+* { box-sizing: border-box; }
+
+html, body { margin: 0; padding: 0; }
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-serif);
+  font-size: 18px;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+a { color: var(--link); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+/* ─── Layout ─────────────────────────────────────────────── */
+
+.layout {
+  display: grid;
+  grid-template-columns: var(--sidebar-w) 1fr;
+  min-height: 100vh;
+}
+
+/* ─── Sidebar ────────────────────────────────────────────── */
+
+.sidebar {
+  background: var(--sidebar-bg);
+  border-right: 1px solid var(--rule);
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  font-family: var(--font-sans);
+}
+
+.brand {
+  padding: 22px 20px 16px;
+  border-bottom: 1px solid var(--rule);
+}
+.brand-name {
+  font-weight: 700;
+  font-size: 16px;
+  letter-spacing: -0.01em;
+  color: var(--text);
+}
+.brand-sub {
+  margin-top: 3px;
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.archive { padding: 10px 8px 16px; flex: 1; }
+.archive-loading, .archive-empty {
+  padding: 14px 12px;
+  font-size: 13px;
+  color: var(--muted);
+}
+
+/* Year / Month disclosure groups */
+.archive details { margin: 0; }
+.archive summary {
+  list-style: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  padding: 6px 10px;
+  border-radius: 7px;
+  user-select: none;
+  color: var(--text-soft);
+}
+.archive summary::-webkit-details-marker { display: none; }
+.archive summary:hover { background: rgba(11,93,87,.06); }
+.archive summary .caret {
+  width: 12px; height: 12px;
+  flex: none;
+  transition: transform .15s ease;
+  color: var(--faint);
+}
+.archive details[open] > summary .caret { transform: rotate(90deg); }
+
+.archive .year > summary {
+  font-weight: 700;
+  font-size: 14px;
+  color: var(--text);
+}
+.archive .month { margin-left: 12px; }
+.archive .month > summary {
+  font-weight: 600;
+  font-size: 13px;
+  color: var(--text-soft);
+}
+.archive .month-count {
+  margin-left: auto;
+  font-size: 11px;
+  color: var(--faint);
+  font-variant-numeric: tabular-nums;
+}
+
+/* Week leaves */
+.archive .weeks { margin: 2px 0 6px 22px; padding: 0; list-style: none; }
+.archive .week a {
+  display: block;
+  padding: 6px 10px;
+  margin: 1px 0;
+  border-radius: 7px;
+  font-size: 13px;
+  line-height: 1.35;
+  color: var(--text-soft);
+  border-left: 2px solid transparent;
+}
+.archive .week a:hover { background: rgba(11,93,87,.06); text-decoration: none; }
+.archive .week a[aria-current="true"] {
+  background: var(--accent-soft);
+  border-left-color: var(--accent);
+  color: var(--accent-ink);
+  font-weight: 600;
+}
+
+.sidebar-foot {
+  padding: 12px 20px;
+  border-top: 1px solid var(--rule);
+  font-family: var(--font-sans);
+  font-size: 12px;
+  color: var(--muted);
+}
+
+/* ─── Reader ─────────────────────────────────────────────── */
+
+.reader {
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.rhead {
+  position: sticky;
+  top: 0;
+  z-index: 5;
+  background: rgba(251,250,247,.86);
+  backdrop-filter: saturate(180%) blur(8px);
+  -webkit-backdrop-filter: saturate(180%) blur(8px);
+  border-bottom: 1px solid var(--rule);
+  padding: 18px clamp(20px, 5vw, 56px) 14px;
+}
+.rhead-eyebrow {
+  font-family: var(--font-sans);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+.rhead-title {
+  margin: 4px 0 0;
+  font-size: clamp(20px, 3vw, 26px);
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  line-height: 1.2;
+}
+.rhead-meta {
+  margin-top: 4px;
+  font-family: var(--font-sans);
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.report {
+  width: 100%;
+  max-width: var(--reading-w);
+  margin: 0 auto;
+  padding: 24px clamp(20px, 5vw, 56px) 96px;
+}
+
+.report .placeholder, .report .error-state {
+  color: var(--muted);
+  font-style: italic;
+}
+.report .error-state { color: #9b2c2c; font-style: normal; }
+.empty-hero {
+  margin-top: 8vh;
+  text-align: center;
+  color: var(--muted);
+  font-family: var(--font-sans);
+}
+.empty-hero h2 { color: var(--text); font-weight: 600; }
+
+/* ─── Markdown prose ─────────────────────────────────────── */
+
+.report h1 {
+  font-size: 1.7em;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  line-height: 1.2;
+  margin: 0 0 .6em;
+}
+.report h2 {
+  font-size: 1.28em;
+  font-weight: 700;
+  margin: 1.9em 0 .55em;
+  padding-top: .7em;
+  border-top: 1px solid var(--rule);
+  letter-spacing: -0.005em;
+}
+.report h2:first-of-type { border-top: none; padding-top: 0; }
+.report h3 {
+  font-size: 1.08em;
+  font-weight: 700;
+  margin: 1.5em 0 .4em;
+}
+.report h4 {
+  font-family: var(--font-sans);
+  font-size: .82em;
+  font-weight: 700;
+  letter-spacing: .03em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin: 1.3em 0 .3em;
+}
+.report p { margin: 0 0 1.05em; }
+.report ul, .report ol { margin: 0 0 1.1em; padding-left: 1.4em; }
+.report li { margin: .3em 0; }
+.report li::marker { color: var(--faint); }
+
+.report strong { font-weight: 700; color: var(--text); }
+.report em { font-style: italic; }
+
+.report blockquote {
+  margin: 1.2em 0;
+  padding: .2em 0 .2em 1.1em;
+  border-left: 3px solid var(--accent);
+  color: var(--text-soft);
+  background: var(--accent-soft);
+  border-radius: 0 6px 6px 0;
+}
+.report blockquote p:last-child { margin-bottom: 0; }
+
+.report code {
+  font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+  font-size: .85em;
+  background: #f0ede5;
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  padding: .08em .35em;
+}
+.report pre {
+  background: #f0ede5;
+  border: 1px solid var(--rule);
+  border-radius: 8px;
+  padding: 14px 16px;
+  overflow-x: auto;
+  margin: 1.2em 0;
+}
+.report pre code { background: none; border: none; padding: 0; }
+
+.report hr {
+  border: none;
+  border-top: 1px solid var(--rule);
+  margin: 2em 0;
+}
+
+/* Tables (the Market Impact Rankings table appears every week) */
+.report .table-wrap { overflow-x: auto; margin: 1.3em 0; }
+.report table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: var(--font-sans);
+  font-size: .82em;
+  line-height: 1.4;
+}
+.report thead th {
+  text-align: left;
+  font-weight: 700;
+  font-size: .92em;
+  letter-spacing: .02em;
+  text-transform: uppercase;
+  color: var(--muted);
+  border-bottom: 2px solid var(--rule);
+  padding: 8px 12px;
+  white-space: nowrap;
+}
+.report tbody td {
+  padding: 8px 12px;
+  border-bottom: 1px solid var(--rule-soft);
+  vertical-align: top;
+}
+.report tbody tr:nth-child(even) { background: #faf8f3; }
+
+/* ─── Mobile top bar + drawer ────────────────────────────── */
+
+.topbar { display: none; }
+.scrim {
+  position: fixed;
+  inset: 0;
+  background: rgba(31,35,40,.4);
+  z-index: 18;
+}
+
+@media (max-width: 760px) {
+  .topbar {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    position: sticky;
+    top: 0;
+    z-index: 20;
+    background: var(--surface);
+    border-bottom: 1px solid var(--rule);
+    padding: 10px 14px;
+  }
+  .nav-toggle {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    font-family: var(--font-sans);
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--text);
+    background: var(--sidebar-bg);
+    border: 1px solid var(--rule);
+    border-radius: 8px;
+    padding: 6px 11px;
+    cursor: pointer;
+  }
+  .topbar-title {
+    font-family: var(--font-sans);
+    font-weight: 700;
+    font-size: 14px;
+  }
+
+  .layout { grid-template-columns: 1fr; }
+
+  .sidebar {
+    position: fixed;
+    top: 0; left: 0; bottom: 0;
+    width: min(82vw, 320px);
+    height: 100vh;
+    z-index: 19;
+    transform: translateX(-100%);
+    transition: transform .22s ease;
+    box-shadow: var(--shadow);
+  }
+  body.nav-open .sidebar { transform: translateX(0); }
+
+  .rhead { top: 0; }
+  .report { padding-bottom: 64px; }
+}

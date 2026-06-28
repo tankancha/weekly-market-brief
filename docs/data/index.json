@@ -1,0 +1,115 @@
+{
+  "schema": 1,
+  "site": "Weekly Market Brief",
+  "updated": "2026-06-28T16:00:00+07:00",
+  "reports": [
+    {
+      "id": "2026-06-21",
+      "generated": "2026-06-21",
+      "coverageStart": "2026-06-15",
+      "coverageEnd": "2026-06-21",
+      "weekOfLabel": "Week of Jun 15–21, 2026",
+      "year": 2026,
+      "month": 6,
+      "title": "Weekly Market News — 06/21/2026",
+      "path": "reports/2026/weekly-market-news-06212026.md",
+      "summary": "Analysis period: June 14–21, 2026. Five Tier-1 events; dominant theme a synchronized global central bank hawkish pivot and the US-Iran peace deal."
+    },
+    {
+      "id": "2026-06-14",
+      "generated": "2026-06-14",
+      "coverageStart": "2026-06-08",
+      "coverageEnd": "2026-06-14",
+      "weekOfLabel": "Week of Jun 8–14, 2026",
+      "year": 2026,
+      "month": 6,
+      "title": "Weekly Market News — 06/14/2026",
+      "path": "reports/2026/weekly-market-news-06142026.md",
+      "summary": "Analysis period: June 7–14, 2026. Five significant events across geopolitics, central bank policy, equity markets, and trade."
+    },
+    {
+      "id": "2026-06-07",
+      "generated": "2026-06-07",
+      "coverageStart": "2026-06-01",
+      "coverageEnd": "2026-06-07",
+      "weekOfLabel": "Week of Jun 1–7, 2026",
+      "year": 2026,
+      "month": 6,
+      "title": "Weekly Market News — 06/07/2026",
+      "path": "reports/2026/weekly-market-news-06072026.md",
+      "summary": "The week of June 1–7, 2026 was defined by the Iran war's structural grip on global energy markets — entering its 100th day with ceasefire talks stalled."
+    },
+    {
+      "id": "2026-05-31",
+      "generated": "2026-05-31",
+      "coverageStart": "2026-05-25",
+      "coverageEnd": "2026-05-31",
+      "weekOfLabel": "Week of May 25–31, 2026",
+      "year": 2026,
+      "month": 5,
+      "title": "Weekly Market News — 05/31/2026",
+      "path": "reports/2026/weekly-market-news-05312026.md",
+      "summary": "Analysis period: May 21–31, 2026. Five high-impact events across geopolitical, monetary policy, inflation, earnings, and trade dimensions."
+    },
+    {
+      "id": "2026-05-24",
+      "generated": "2026-05-24",
+      "coverageStart": "2026-05-18",
+      "coverageEnd": "2026-05-24",
+      "weekOfLabel": "Week of May 18–24, 2026",
+      "year": 2026,
+      "month": 5,
+      "title": "Weekly Market News — 05/24/2026",
+      "path": "reports/2026/weekly-market-news-05242026.md",
+      "summary": "Analysis period: May 14–24, 2026. Five high-significance events; dominant regime stagflationary risk-off amid the Iran war."
+    },
+    {
+      "id": "2026-05-17",
+      "generated": "2026-05-17",
+      "coverageStart": "2026-05-11",
+      "coverageEnd": "2026-05-17",
+      "weekOfLabel": "Week of May 11–17, 2026",
+      "year": 2026,
+      "month": 5,
+      "title": "Weekly Market News — 05/17/2026",
+      "path": "reports/2026/weekly-market-news-05172026.md",
+      "summary": "The week of May 10–17, 2026 was defined by a quadruple convergence: an inflationary data shock, a Fed leadership transition, and geopolitical tension."
+    },
+    {
+      "id": "2026-05-10",
+      "generated": "2026-05-10",
+      "coverageStart": "2026-05-04",
+      "coverageEnd": "2026-05-10",
+      "weekOfLabel": "Week of May 4–10, 2026",
+      "year": 2026,
+      "month": 5,
+      "title": "Weekly Market News — 05/10/2026",
+      "path": "reports/2026/weekly-market-news-05102026.md",
+      "summary": "Analysis covers 3–10 May 2026 (with late-April anchor events). Five tier-1 events against a backdrop of two counteracting forces."
+    },
+    {
+      "id": "2026-05-03",
+      "generated": "2026-05-03",
+      "coverageStart": "2026-04-27",
+      "coverageEnd": "2026-05-03",
+      "weekOfLabel": "Week of Apr 27 – May 3, 2026",
+      "year": 2026,
+      "month": 5,
+      "title": "Weekly Market News — 05/03/2026",
+      "path": "reports/2026/weekly-market-news-05032026.md",
+      "summary": "Period analyzed: April 26 – May 3, 2026. Five events against a macro backdrop defined by the worst energy supply shock on record."
+    },
+    {
+      "id": "2026-04-26",
+      "generated": "2026-04-26",
+      "coverageStart": "2026-04-20",
+      "coverageEnd": "2026-04-26",
+      "weekOfLabel": "Week of Apr 20–26, 2026",
+      "year": 2026,
+      "month": 4,
+      "title": "Weekly Market News — 04/26/2026",
+      "path": "reports/2026/weekly-market-news-04262026.md",
+      "summary": "Analysis period: April 19–26, 2026. Five events; dominant regime a \"War Premium + Earnings Pivot\" amid an active US-Israel conflict."
+    }
+  ]
+}

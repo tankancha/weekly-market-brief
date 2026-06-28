@@ -1,8 +1,119 @@
 {
   "schema": 1,
   "site": "Weekly Market Brief",
-  "updated": "2026-06-28T16:00:00+07:00",
+  "updated": "2026-06-28T17:32:10+07:00",
   "reports": [
+    {
+      "id": "2026-06-28",
+      "generated": "2026-06-28",
+      "coverageStart": "2026-06-22",
+      "coverageEnd": "2026-06-28",
+      "weekOfLabel": "Week of Jun 22–28, 2026",
+      "year": 2026,
+      "month": 6,
+      "title": "Weekly Market News — 06/28/2026",
+      "path": "reports/2026/weekly-market-news-06282026.md",
+      "brief": {
+        "headline": "Synchronized global monetary tightening — Fed erased all 2026 cut projections, BOJ hiked to 1.0% (a 30-year high), and May PCE reaccelerated to 4.10% YoY, while the US–Iran peace deal began slowly deflating the energy shock that triggered the inflation surge.",
+        "regime": {
+          "tone": "mixed",
+          "label": "Mixed — Convergent global tightening",
+          "evidence": "DXY at 101.34 (1-year high); gold −26% from peak; Fed/ECB/BOJ all hawkish simultaneously"
+        },
+        "stats": [
+          {
+            "label": "DXY",
+            "value": "101.34",
+            "dir": "up"
+          },
+          {
+            "label": "WTI Crude",
+            "value": "~$77–80",
+            "dir": "down"
+          },
+          {
+            "label": "Gold",
+            "value": "~$4,000",
+            "dir": "down"
+          },
+          {
+            "label": "10Y UST",
+            "value": "4.37%",
+            "dir": "up"
+          },
+          {
+            "label": "PCE (May)",
+            "value": "4.10% YoY",
+            "dir": "up"
+          }
+        ],
+        "events": [
+          {
+            "rank": 1,
+            "title": "FOMC Hawkish Dot-Plot Reversal",
+            "score": 31.5,
+            "assets": "UST·USD·Gold·Equities",
+            "reaction": "DXY +1% to 101.34; 2Y at 4.10%; gold →~$4,000; Oct 2026 hike priced",
+            "detail": "FOMC held at 3.50–3.75% unanimously but eliminated all 2026 cut projections — 9/18 members now project at least one hike. Chair Warsh dropped the easing-bias language entirely, marking the sharpest forward-guidance hawkish pivot since 2022."
+          },
+          {
+            "rank": 2,
+            "title": "May PCE Reacceleration (4.10% YoY)",
+            "score": 17.5,
+            "assets": "Bonds·USD·Gold",
+            "reaction": "Confirmed Oct hike pricing; DXY held 101; gold under pressure at ~$4,000",
+            "detail": "May PCE rose to 4.10% YoY (from 3.80%) with Core at 3.40%; May CPI at 4.17% with 3-month annualized pace at 8.2%, validating the Fed's hawkish pivot and closing the door on any 2026 dovish reversal."
+          },
+          {
+            "rank": 3,
+            "title": "BOJ Hike to 1.0% — 30-Year High",
+            "score": 17.5,
+            "assets": "JPY·JGBs·EM carry",
+            "reaction": "USD/JPY pressured; JGB yields rose; carry unwind risk elevated",
+            "detail": "BOJ hiked 25bps to 1.00% (highest since 1995) on a 7-1 vote with explicit guidance for further hikes toward ~2% neutral; combined with Fed and ECB tightening, global carry trade spread compression accelerates."
+          },
+          {
+            "rank": 4,
+            "title": "US–Iran Peace / Hormuz Reopening",
+            "score": 14.0,
+            "assets": "Energy·Gold·Shipping",
+            "reaction": "WTI −4.8% to $80.75; Brent −4.7% to $83.17; gold fell; shipping rallied",
+            "detail": "US–Iran MOU signed June 18 formally ended the conflict and reopened the Strait of Hormuz; oil fell >4% on signing day but full supply normalization will take 3–6 months, keeping WTI ~$17–20 above pre-conflict levels."
+          },
+          {
+            "rank": 5,
+            "title": "US–China Tariff Pause + DOD Entity List",
+            "score": 10.0,
+            "assets": "China ADRs·USD/CNY·Semis",
+            "reaction": "Mixed; Alibaba/Baidu ADRs volatile; MOFCOM retaliation warning; 60-day binary risk",
+            "detail": "60-day tariff pause at 30% offset by DOD adding 188 Chinese entities (Alibaba, Baidu, BYD) to its military company list; China's MOFCOM warned of 'resolute retaliation,' creating a hard mid-August binary event."
+          }
+        ],
+        "catalysts": [
+          "US June CPI · mid-Jul 2026",
+          "FOMC July meeting · late Jul 2026",
+          "Q2 Mega-Cap Earnings (NVIDIA $91B bar) · Jul 2026",
+          "US–China tariff pause expiry · mid-Aug 2026"
+        ],
+        "risks": [
+          {
+            "label": "Oct FOMC hike + equity re-rating",
+            "prob": "40%",
+            "impact": "Severe"
+          },
+          {
+            "label": "BOJ carry unwind shock",
+            "prob": "20%",
+            "impact": "Severe"
+          },
+          {
+            "label": "Iran deal collapse / oil re-spike",
+            "prob": "20%",
+            "impact": "Severe"
+          }
+        ]
+      }
+    },
     {
       "id": "2026-06-21",
       "generated": "2026-06-21",

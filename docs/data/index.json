@@ -1,8 +1,124 @@
 {
   "schema": 1,
   "site": "Weekly Market Brief",
-  "updated": "2026-06-28T18:20:00+07:00",
+  "updated": "2026-07-05T20:15:00+07:00",
   "reports": [
+    {
+      "id": "2026-07-05",
+      "generated": "2026-07-05",
+      "coverageStart": "2026-06-29",
+      "coverageEnd": "2026-07-05",
+      "weekOfLabel": "Week of Jun 29 – Jul 5, 2026",
+      "year": 2026,
+      "month": 7,
+      "title": "Weekly Market News — 07/05/2026",
+      "path": "reports/2026/weekly-market-news-07052026.md",
+      "brief": {
+        "headline": "A holiday-shortened week capped a record H1 — the S&P 500 rose +14.9% and the Nasdaq +21.4% in Q2, the best quarter since 2020 — while a June jobs miss (+57k vs ~113k) was read as dovish, trimming September Fed hike odds from ~66% to ~50% and lifting gold to a record ~$4,170.",
+        "regime": {
+          "tone": "risk-on",
+          "label": "Cautious risk-on",
+          "evidence": "Record Dow (52,319) and S&P closes with subdued VIX, but Nasdaq lagged on a semiconductor rotation and gold hit a record"
+        },
+        "stats": [
+          {
+            "label": "S&P 500",
+            "value": "+14.9% (Q2)",
+            "dir": "up"
+          },
+          {
+            "label": "Nasdaq",
+            "value": "+21.4% (Q2)",
+            "dir": "up"
+          },
+          {
+            "label": "Gold",
+            "value": "~$4,170",
+            "dir": "up"
+          },
+          {
+            "label": "Brent",
+            "value": "~$72",
+            "dir": "flat"
+          },
+          {
+            "label": "10Y UST",
+            "value": "~4.46%",
+            "dir": "down"
+          },
+          {
+            "label": "June Payrolls",
+            "value": "+57k",
+            "dir": "down"
+          }
+        ],
+        "events": [
+          {
+            "rank": 1,
+            "title": "Q2/H1 2026 Record Quarter Close & Melt-Up",
+            "score": 30.0,
+            "assets": "Equities·Cross-Asset",
+            "reaction": "S&P Q2 +14.9%, Nasdaq +21.4%; Dow record 52,319",
+            "detail": "Q2 closed as the best quarter since Q2 2020 (S&P +14.9%, Nasdaq +21.4%, Dow +8.9%), completing a full round-trip from the H1 energy-shock drawdown as the Iran/Hormuz shock unwound and AI/semiconductor leadership drove a melt-up."
+          },
+          {
+            "rank": 2,
+            "title": "June Jobs Report Miss (+57k)",
+            "score": 17.5,
+            "assets": "Equities·Bonds·Gold·FX",
+            "reaction": "S&P +0.49%; 10Y −2bp to ~4.46%; Sept hike odds 66%→50%",
+            "detail": "Nonfarm payrolls rose just +57k vs ~113k consensus with −74k of prior revisions; unemployment fell to 4.2% only on a participation drop to 61.5%. Markets read the soft print as dovish ('bad news is good news') under the hawkish Warsh Fed."
+          },
+          {
+            "rank": 3,
+            "title": "Gold Record Run to ~$4,170",
+            "score": 14.0,
+            "assets": "Commodities·FX·Bonds",
+            "reaction": "+~3.6% wk to record; dovish repricing + safe-haven bid",
+            "detail": "Gold climbed from ~$4,026 (Jul 1) to a record $4,170 (Jul 3, +1.15% d/d), up ~$680 YoY, driven by the jobs-miss rate repricing layered on structural central-bank buying and dedollarization."
+          },
+          {
+            "rank": 4,
+            "title": "Tesla Q2 Deliveries Blowout (480k)",
+            "score": 13.1,
+            "assets": "Auto/EV·Nasdaq",
+            "reaction": "480,126 vs ~406k est (+18%); +25% YoY",
+            "detail": "Tesla delivered 480,126 vehicles, ~74k above consensus and its first YoY delivery growth since the 2023 peak; energy storage deployed 13.5 GWh. Full earnings due Jul 22 will test margin conversion."
+          },
+          {
+            "rank": 5,
+            "title": "Semiconductor Selloff / Rotation",
+            "score": 7.5,
+            "assets": "Semis·Nasdaq",
+            "reaction": "NVDA −2.12% Jul 1; Nasdaq lagged all week",
+            "detail": "After semis surged >80% in H1, the group sold off on profit-taking into quarter-end (NVDA −2.12% Jul 1), keeping the Nasdaq off records even as the Dow/S&P set new highs — a healthy rotation into cyclicals, not a fundamental crack."
+          }
+        ],
+        "catalysts": [
+          "US June CPI · Jul 14",
+          "FOMC meeting (no SEP) · Jul 28–29",
+          "Tesla Q2 earnings · Jul 22",
+          "Tariff cluster (Sec 301 Jul 20 / Sec 122 Jul 24)"
+        ],
+        "risks": [
+          {
+            "label": "Hot June CPI reignites hike fears",
+            "prob": "35%",
+            "impact": "Major"
+          },
+          {
+            "label": "Tariff-deadline shock (Jul 20–24)",
+            "prob": "25%",
+            "impact": "Major"
+          },
+          {
+            "label": "Hormuz talks stall / oil re-spike",
+            "prob": "15%",
+            "impact": "Severe"
+          }
+        ]
+      }
+    },
     {
       "id": "2026-06-28",
       "generated": "2026-06-28",

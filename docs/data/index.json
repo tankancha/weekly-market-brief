@@ -1,8 +1,124 @@
 {
   "schema": 1,
   "site": "Weekly Market Brief",
-  "updated": "2026-07-05T20:15:00+07:00",
+  "updated": "2026-07-12T20:15:00+07:00",
   "reports": [
+    {
+      "id": "2026-07-12",
+      "generated": "2026-07-12",
+      "coverageStart": "2026-07-06",
+      "coverageEnd": "2026-07-12",
+      "weekOfLabel": "Week of Jul 6–12, 2026",
+      "year": 2026,
+      "month": 7,
+      "title": "Weekly Market News — 07/12/2026",
+      "path": "reports/2026/weekly-market-news-07122026.md",
+      "brief": {
+        "headline": "US equities pushed to fresh records — the Dow closed above 53,000 for the first time — as a June jobs miss (+57k vs ~115k) cooled hike fears; a re-escalating US–Iran conflict in the Strait of Hormuz added a ~$3–4 oil premium (WTI +~3.5%, Brent +~5%) without derailing the risk-on tape, while hawkish June FOMC minutes lifted yields and the dollar.",
+        "regime": {
+          "tone": "risk-on",
+          "label": "Cautious risk-on",
+          "evidence": "Record Dow (53,056) with S&P +1.8%/Nasdaq +2.1% and VIX 15.84, tempered by firmer yields and a persistent Hormuz oil premium"
+        },
+        "stats": [
+          {
+            "label": "S&P 500",
+            "value": "+1.8%",
+            "dir": "up"
+          },
+          {
+            "label": "Nasdaq",
+            "value": "+2.1%",
+            "dir": "up"
+          },
+          {
+            "label": "WTI",
+            "value": "+~3.5%",
+            "dir": "up"
+          },
+          {
+            "label": "Brent",
+            "value": "+~5%",
+            "dir": "up"
+          },
+          {
+            "label": "Gold",
+            "value": "~$4,118",
+            "dir": "flat"
+          },
+          {
+            "label": "VIX",
+            "value": "15.84",
+            "dir": "down"
+          }
+        ],
+        "events": [
+          {
+            "rank": 1,
+            "title": "June US jobs report — sharp downside miss",
+            "score": 26.25,
+            "assets": "Eq·Rates·FX·Cmdty",
+            "reaction": "Cooled hike bets; fueled early-week equity rally",
+            "detail": "Payrolls rose just +57k vs ~115k consensus with −74k of prior revisions; unemployment fell to 4.2% only on lower participation — an unambiguous labor-cooling signal."
+          },
+          {
+            "rank": 2,
+            "title": "US–Iran re-escalation / Strait of Hormuz strikes",
+            "score": 21.0,
+            "assets": "Energy·Eq·FX",
+            "reaction": "WTI +~3.5%, Brent +~5%; equities shrugged, closed higher",
+            "detail": "Iran struck tankers in Hormuz (~20% of seaborne oil); Trump declared the June truce over and CENTCOM hit 80+ targets. Record UAE output capped the oil premium."
+          },
+          {
+            "rank": 3,
+            "title": "Dow tops 53,000 record / AI-led rally",
+            "score": 15.0,
+            "assets": "Equities",
+            "reaction": "S&P +1.8%, Nasdaq +2.1% on week; VIX to 15.84",
+            "detail": "The Dow closed at a record 53,055.91 on Jul 6, led by Big Tech and semiconductors, extending a strong H1 (Russell 2000 +~22%, best since 1991)."
+          },
+          {
+            "rank": 4,
+            "title": "FOMC June minutes — hawkish 9-8 split",
+            "score": 10.0,
+            "assets": "Rates·FX·Gold",
+            "reaction": "Yields up, USD firm, gold pressured",
+            "detail": "First minutes under Chair Kevin Warsh (rates held 3.50–3.75%) showed a 9-to-8 split on a 2026 hike, with many seeing the year-end rate above the current range."
+          },
+          {
+            "rank": 5,
+            "title": "SK Hynix record $26.5B US IPO",
+            "score": 7.5,
+            "assets": "Semis",
+            "reaction": "Debut +~13%; reinforced AI/HBM-memory optimism",
+            "detail": "SK Hynix raised $26.5B on Nasdaq — the largest US listing ever by a foreign company — with demand ~7x the offer, validating AI memory-demand strength."
+          }
+        ],
+        "catalysts": [
+          "June CPI · Jul 14",
+          "Q2 bank earnings (JPM, GS, BAC) · Jul 14",
+          "Tesla Q2 earnings · Jul 22",
+          "FOMC decision (hold expected) · Jul 28–29"
+        ],
+        "risks": [
+          {
+            "label": "Hot June CPI reprices a July hike",
+            "prob": "30%",
+            "impact": "Major"
+          },
+          {
+            "label": "Hormuz supply cut materializes",
+            "prob": "20%",
+            "impact": "Severe"
+          },
+          {
+            "label": "Complacency unwind (VIX spike)",
+            "prob": "30%",
+            "impact": "Moderate"
+          }
+        ]
+      }
+    },
     {
       "id": "2026-07-05",
       "generated": "2026-07-05",

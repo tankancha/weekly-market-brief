@@ -1,8 +1,124 @@
 {
   "schema": 1,
   "site": "Weekly Market Brief",
-  "updated": "2026-07-12T20:15:00+07:00",
+  "updated": "2026-07-19T21:00:00+07:00",
   "reports": [
+    {
+      "id": "2026-07-19",
+      "generated": "2026-07-19",
+      "coverageStart": "2026-07-13",
+      "coverageEnd": "2026-07-19",
+      "weekOfLabel": "Week of Jul 13–19, 2026",
+      "year": 2026,
+      "month": 7,
+      "title": "Weekly Market News — 07/19/2026",
+      "path": "reports/2026/weekly-market-news-07192026.md",
+      "brief": {
+        "headline": "A month-old US–Iran truce collapsed, reinstating a full energy shock — oil jumped ~14% (Brent to ~$88) after the US restored its Hormuz blockade — which buried an unambiguously soft June CPI (+3.5% YoY vs +3.8% exp, down from +4.2%) and an AI-capex scare (TSMC & Netflix beat but fell). Net risk-off: S&P −1.5%, Nasdaq −2.9%, VIX to 18.77, even as JPMorgan booked the largest quarterly profit in US banking history.",
+        "regime": {
+          "tone": "risk-off",
+          "label": "Risk-off — Geopolitical energy shock",
+          "evidence": "S&P −1.5%/Nasdaq −2.9% on the week, VIX +12% to 18.77, energy the only leading sector and defensive rotation into staples/utilities"
+        },
+        "stats": [
+          {
+            "label": "S&P 500",
+            "value": "−1.5% wk",
+            "dir": "down"
+          },
+          {
+            "label": "Nasdaq",
+            "value": "−2.9% wk",
+            "dir": "down"
+          },
+          {
+            "label": "Oil (Brent)",
+            "value": "+~14% (~$88)",
+            "dir": "up"
+          },
+          {
+            "label": "Gold",
+            "value": "~$4,016 (−3% wk)",
+            "dir": "down"
+          },
+          {
+            "label": "June CPI",
+            "value": "3.5% YoY",
+            "dir": "down"
+          },
+          {
+            "label": "VIX",
+            "value": "18.77",
+            "dir": "up"
+          }
+        ],
+        "events": [
+          {
+            "rank": 1,
+            "title": "US–Iran truce collapse / Hormuz blockade reinstated",
+            "score": 45.0,
+            "assets": "Energy·Eq·Bonds·Gold·FX",
+            "reaction": "Oil +~14% to ~$88; S&P −1.5% wk; VIX to 18.77",
+            "detail": "The mid-June truce broke down Jul 8 after Iran struck ships in the Strait of Hormuz; on Jul 14 CENTCOM reinstated the naval blockade and both sides widened strikes, re-pricing a return toward war at a chokepoint carrying ~20% of seaborne energy."
+          },
+          {
+            "rank": 2,
+            "title": "AI-capex scare — TSMC & Netflix beat-and-fade",
+            "score": 18.75,
+            "assets": "Semis·Mega-cap Tech·Nasdaq",
+            "reaction": "Nasdaq −2.9% wk; NFLX −7.3%; TSMC −3.6%",
+            "detail": "TSMC beat and raised 2026 capex to $60–64B (from $52–56B) yet fell ~3.6% as markets re-read the hike as 'demand is expensive to serve'; Netflix beat but guided Q3 to +12% and dropped 7.3%, smoking semiconductors."
+          },
+          {
+            "rank": 3,
+            "title": "June CPI downside surprise (+3.5% YoY)",
+            "score": 17.5,
+            "assets": "Bonds·Eq·FX",
+            "reaction": "Yields sharply lower on release; relief later buried by oil",
+            "detail": "Headline CPI fell −0.4% m/m to +3.5% YoY (vs +3.8% exp, down from +4.2%) on a −5.7% energy drop; core was flat m/m at +2.6% YoY — the clearest disinflation signal in months, undercut within 48 hours by the crude spike."
+          },
+          {
+            "rank": 4,
+            "title": "Big-bank Q2 earnings — record profits",
+            "score": 13.1,
+            "assets": "Financials·Eq",
+            "reaction": "Record JPM profit; sector reaction muted vs macro",
+            "detail": "All five majors beat; JPMorgan posted $21.2B net income — the largest quarterly profit in US banking history (markets revenue $12.1B, equities trading +86%) — and Goldman revenue rose 39% YoY, confirming an AI-fueled trading boom the tape largely looked past."
+          },
+          {
+            "rank": 5,
+            "title": "Tariff deadline cluster (Sec. 301 / Canada 35%)",
+            "score": 10.0,
+            "assets": "Eq·FX·Inflation",
+            "reaction": "Forward overhang; added to the week's risk-off tone",
+            "detail": "USTR's Jul 20 Section 301 completion threatens 12.5% duties on 46 countries; Section 122 expires Jul 24; and a 35% Canada tariff is set for Aug 1 — a binary near-term inflation-risk overhang layered atop the oil shock."
+          }
+        ],
+        "catalysts": [
+          "Section 301 / 122 tariff deadlines · Jul 20 & 24",
+          "ECB decision · Jul 23",
+          "FOMC decision (hold expected, no SEP) · Jul 28–29",
+          "BOJ decision · Jul 30–31"
+        ],
+        "risks": [
+          {
+            "label": "Full US–Iran war / Hormuz closure",
+            "prob": "25%",
+            "impact": "Severe"
+          },
+          {
+            "label": "AI-capex de-rating deepens",
+            "prob": "30%",
+            "impact": "Major"
+          },
+          {
+            "label": "Tariff-deadline shock (Jul 20–24 / Canada Aug 1)",
+            "prob": "25%",
+            "impact": "Major"
+          }
+        ]
+      }
+    },
     {
       "id": "2026-07-12",
       "generated": "2026-07-12",

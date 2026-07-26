@@ -1,8 +1,124 @@
 {
   "schema": 1,
   "site": "Weekly Market Brief",
-  "updated": "2026-07-12T20:15:00+07:00",
+  "updated": "2026-07-26T18:10:00+07:00",
   "reports": [
+    {
+      "id": "2026-07-26",
+      "generated": "2026-07-26",
+      "coverageStart": "2026-07-20",
+      "coverageEnd": "2026-07-26",
+      "weekOfLabel": "Week of Jul 20–26, 2026",
+      "year": 2026,
+      "month": 7,
+      "title": "Weekly Market News — 07/26/2026",
+      "path": "reports/2026/weekly-market-news-07262026.md",
+      "brief": {
+        "headline": "The record run stalled as Brent crude spiked above $100/bbl (Hormuz/Red Sea escalation) collided with mega-cap earnings misses — Tesla −14% and Alphabet −7.1% reignited AI-capex fears. The S&P 500 logged its worst day since Jun 23 (−1.21% on 7/23), the Nasdaq fell ~2% on the week, VIX jumped ~11%, and the 10Y yield pushed to a multi-month high near 4.70% on tariff angst — all ahead of the Jul 28–29 FOMC.",
+        "regime": {
+          "tone": "risk-off",
+          "label": "Cautious risk-off",
+          "evidence": "S&P −1.21% worst day since 6/23, Nasdaq −2% on week, VIX +~11%, 10Y at a multi-month high ~4.70%, firm safe-haven dollar"
+        },
+        "stats": [
+          {
+            "label": "S&P 500",
+            "value": "7,411.98 (−0.5% wk)",
+            "dir": "down"
+          },
+          {
+            "label": "Nasdaq",
+            "value": "−2% wk",
+            "dir": "down"
+          },
+          {
+            "label": "Brent",
+            "value": ">$100 → ~$97",
+            "dir": "up"
+          },
+          {
+            "label": "Gold",
+            "value": "~$4,052",
+            "dir": "flat"
+          },
+          {
+            "label": "10Y UST",
+            "value": "~4.70%",
+            "dir": "up"
+          },
+          {
+            "label": "VIX",
+            "value": "~18.6 (+11%)",
+            "dir": "up"
+          }
+        ],
+        "events": [
+          {
+            "rank": 1,
+            "title": "Oil shock — Hormuz/Red Sea escalation, Brent >$100",
+            "score": 45.0,
+            "assets": "Energy·Eq·Rates·FX·Gold",
+            "reaction": "Brent >$100 intraday (7/23); Dow −~500 pts 7/22; risk-off",
+            "detail": "Houthi strikes on two Saudi tankers plus a 13th straight night of US strikes on Iran near Hormuz pushed Brent above $100/bbl (+~30% m/m); it settled to ~$97 (WTI ~$92) by 7/24 as no confirmed barrels were lost."
+          },
+          {
+            "rank": 2,
+            "title": "Tesla Q2 miss + capex shock",
+            "score": 18.75,
+            "assets": "Auto/EV·Nasdaq",
+            "reaction": "TSLA −14%; dragged Nasdaq −2.15% on 7/23",
+            "detail": "Record revenue $28.2B but adjusted EPS missed at $0.33, operating income −57%, FCF ~−$1.1B, FY capex ~$25B; TSLA fell 13–14.5% as the worst S&P 500 performer."
+          },
+          {
+            "rank": 3,
+            "title": "Broad equity risk-off + VIX spike",
+            "score": 17.5,
+            "assets": "Equities·Volatility",
+            "reaction": "S&P −1.21% (worst since 6/23); VIX +~11%",
+            "detail": "The oil shock plus earnings misses ended the record run; the S&P closed 7,411.98 (+0.05% Fri) after −1.21% on 7/23, the Nasdaq fell ~2% on the week, and VIX popped ~11% to ~18.6 on a semiconductor rout."
+          },
+          {
+            "rank": 4,
+            "title": "10Y Treasury yield to multi-month high on tariffs",
+            "score": 17.5,
+            "assets": "Rates·Eq·FX",
+            "reaction": "10Y ~4.70%, 5th straight gain, highest since Jan '25",
+            "detail": "The 10-year yield rose to ~4.69–4.70% on 7/24 — a fifth consecutive gain and highest since January 2025 — on Trump's latest tariff package, compounding tech-multiple compression."
+          },
+          {
+            "rank": 5,
+            "title": "Alphabet raises AI capex guide",
+            "score": 13.1,
+            "assets": "Mega-cap Tech",
+            "reaction": "GOOGL −7.1%; hyperscaler ROI fears",
+            "detail": "Alphabet lifted its FY2026 capex guide to $195–205B (from $180–190B), reigniting margin/ROI concerns; GOOGL fell 7.1% on 7/23, a second leg to the mega-cap drag."
+          }
+        ],
+        "catalysts": [
+          "FOMC decision (hold expected) · Jul 28–29",
+          "Microsoft, Meta, Apple earnings · Jul 29–30",
+          "Trump–EU 15% tariff framework · ~Jul 27",
+          "Hormuz/Red Sea shipping security · ongoing"
+        ],
+        "risks": [
+          {
+            "label": "Confirmed Hormuz/Red Sea supply loss (oil re-spike)",
+            "prob": "20%",
+            "impact": "Severe"
+          },
+          {
+            "label": "Hawkish FOMC surprise (hike or hawkish hold)",
+            "prob": "25%",
+            "impact": "Major"
+          },
+          {
+            "label": "AI-capex earnings disappointment (MSFT/Meta/Apple)",
+            "prob": "30%",
+            "impact": "Major"
+          }
+        ]
+      }
+    },
     {
       "id": "2026-07-12",
       "generated": "2026-07-12",

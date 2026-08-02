@@ -1,8 +1,124 @@
 {
   "schema": 1,
   "site": "Weekly Market Brief",
-  "updated": "2026-07-26T18:10:00+07:00",
+  "updated": "2026-08-02T18:30:00+07:00",
   "reports": [
+    {
+      "id": "2026-08-02",
+      "generated": "2026-08-02",
+      "coverageStart": "2026-07-27",
+      "coverageEnd": "2026-08-02",
+      "weekOfLabel": "Week of Jul 27 – Aug 2, 2026",
+      "year": 2026,
+      "month": 8,
+      "title": "Weekly Market News — 08/02/2026",
+      "path": "reports/2026/weekly-market-news-08022026.md",
+      "brief": {
+        "headline": "Crude gave back its war premium — Brent −16% in three sessions from >$100 to ~$84 on Iran/Hormuz de-escalation — and that single disinflationary impulse let equities absorb a 9–3 hawkish FOMC hold with three dissents demanding higher rates. The S&P 500 rose 1.0% to 7,489.72 and the Nasdaq 1.6% to 25,373.85, even as the 10Y closed July at 4.75% and the market repriced from cuts to one-to-two hikes by year-end.",
+        "regime": {
+          "tone": "mixed",
+          "label": "Narrow risk-on",
+          "evidence": "S&P +1.0% and Nasdaq +1.6% on the week, but the index rose while the average stock fell; VIX round-tripped 16.64 → 20.66 → 17.09; 10Y at a multi-month high of 4.75%"
+        },
+        "stats": [
+          {
+            "label": "S&P 500",
+            "value": "7,489.72 (+1.0% wk)",
+            "dir": "up"
+          },
+          {
+            "label": "Nasdaq",
+            "value": "25,373.85 (+1.6% wk)",
+            "dir": "up"
+          },
+          {
+            "label": "Brent",
+            "value": "$90.12 (−7% wk)",
+            "dir": "down"
+          },
+          {
+            "label": "Gold",
+            "value": "$4,042.97 (−1.47%)",
+            "dir": "down"
+          },
+          {
+            "label": "10Y UST",
+            "value": "4.75%",
+            "dir": "up"
+          },
+          {
+            "label": "VIX",
+            "value": "17.09 (−17.3%)",
+            "dir": "down"
+          }
+        ],
+        "events": [
+          {
+            "rank": 1,
+            "title": "Iran/Hormuz de-escalation — crude unwinds war premium",
+            "score": 45.0,
+            "assets": "Energy·Eq·Rates·FX·Inflation",
+            "reaction": "Oil −8% Mon (biggest drop since May 25); Brent −16% in 3 sessions to ~$84, settled $90.12 Fri",
+            "detail": "The US paused strikes on Iran for a second straight night and Oman–Iran talks on restarting Hormuz shipping progressed, reversing the prior week's spike above $100. The Strait remains effectively closed (~13 mb/d disrupted), so this repriced probability, not physical supply — hence the bounce off $84 back to $90.12."
+          },
+          {
+            "rank": 2,
+            "title": "FOMC holds 3.50%–3.75%, 9–3 with three hawkish dissents",
+            "score": 31.5,
+            "assets": "Rates·Eq·FX·Gold",
+            "reaction": "Dow −1.5%, S&P −0.6%, Nasdaq −0.5% post-presser; VIX spiked to 20.66",
+            "detail": "Hammack, Kashkari and Logan dissented in favor of higher rates — the first three-way unified dissent since September 2016 — citing inflation above target for over five years. Investors now price one to two hikes by end-2026, inverting the easing narrative."
+          },
+          {
+            "rank": 3,
+            "title": "Mega-cap AI-capex earnings bifurcation",
+            "score": 18.75,
+            "assets": "Eq (Tech)·Semis",
+            "reaction": "AMZN +10%, MSFT +8%, META −9.64%, AAPL −6.65%; ~$1.5T of value added by GOOGL/AMZN/MSFT",
+            "detail": "All four grew revenue >10%, but reactions keyed entirely on AI-capex credibility: Amazon lifted FY capex to $220B and rallied on AWS +37% (fastest in 18 quarters), while Meta's identical capex raise met a 13.8% EPS miss and $784M free cash flow. Apple beat on EPS and revenue with iPhone +22% yet fell on 9–11% guidance versus 12% expected."
+          },
+          {
+            "rank": 4,
+            "title": "Q2 GDP advance +1.5% and June PCE cools to 3.7%",
+            "score": 10.0,
+            "assets": "Rates·Eq",
+            "reaction": "Growth missed the 1.8% consensus; core PCE sticky at 3.3%, yields kept rising",
+            "detail": "Real GDP decelerated to 1.5% from 2.1% in Q1 on a government-spending downturn. Headline PCE fell to 3.7% from 4.1% — but that improvement was energy-driven and therefore reversible, while core held at 3.3% for a fourth straight month, the longest such stretch since autumn 2023."
+          },
+          {
+            "rank": 5,
+            "title": "10Y to 4.75%, gold slides as hike odds rebuild",
+            "score": 8.0,
+            "assets": "Rates·Gold·FX",
+            "reaction": "Gold −1.47% to $4,042.97, capped below $4,100; DXY 99.91",
+            "detail": "The 10Y finished July at a multi-month high of 4.75% as the market priced hikes rather than cuts. Gold tracked the yield surge lower and notably failed to bid on Middle East de-escalation reversing — real rates, not geopolitics, now set its marginal price."
+          }
+        ],
+        "catalysts": [
+          "July jobs report (NFP) · Fri Aug 7",
+          "July CPI · Wed Aug 12",
+          "Nvidia FQ2 earnings · late August",
+          "Iran–Oman Hormuz reopening talks · ongoing"
+        ],
+        "risks": [
+          {
+            "label": "Hormuz talks collapse, crude re-spikes >$100",
+            "prob": "35%",
+            "impact": "Severe"
+          },
+          {
+            "label": "Core PCE breaks above 3.3% in the July print",
+            "prob": "30%",
+            "impact": "Major"
+          },
+          {
+            "label": "AI-capex funding stress at 4.75% yields",
+            "prob": "25%",
+            "impact": "Major"
+          }
+        ]
+      }
+    },
     {
       "id": "2026-07-26",
       "generated": "2026-07-26",

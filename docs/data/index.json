@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "site": "Weekly Market Brief",
-  "updated": "2026-08-02T18:30:00+07:00",
+  "updated": "2026-08-02T19:15:00+07:00",
   "reports": [
     {
       "id": "2026-08-02",
@@ -14,11 +14,11 @@
       "title": "Weekly Market News — 08/02/2026",
       "path": "reports/2026/weekly-market-news-08022026.md",
       "brief": {
-        "headline": "Crude gave back its war premium — Brent −16% in three sessions from >$100 to ~$84 on Iran/Hormuz de-escalation — and that single disinflationary impulse let equities absorb a 9–3 hawkish FOMC hold with three dissents demanding higher rates. The S&P 500 rose 1.0% to 7,489.72 and the Nasdaq 1.6% to 25,373.85, even as the 10Y closed July at 4.75% and the market repriced from cuts to one-to-two hikes by year-end.",
+        "headline": "A 9–3 FOMC hold with three dissents demanding a hike broke the tape — Dow −2.19%, its worst day since April 2025, with the 30Y at a 19-year high of 5.21% — while more than $1 trillion of global semiconductor value was erased on peak-capex fear. Indices still closed higher (S&P +1.0%, Nasdaq +1.6%) as hyperscalers rallied on the very capex killing the chipmakers, but July itself was negative for the S&P (−0.1%) and Nasdaq (−3.2%).",
         "regime": {
           "tone": "mixed",
-          "label": "Narrow risk-on",
-          "evidence": "S&P +1.0% and Nasdaq +1.6% on the week, but the index rose while the average stock fell; VIX round-tripped 16.64 → 20.66 → 17.09; 10Y at a multi-month high of 4.75%"
+          "label": "Narrow risk-on over a hawkish repricing",
+          "evidence": "S&P +1.0% on the week but the index rose while the average stock fell; 30Y at a 19-year high, VIX spiked to 20.66; credit stayed tight (HY OAS 284bp, IG 80bp), marking a rotation rather than de-risking"
         },
         "stats": [
           {
@@ -33,88 +33,88 @@
           },
           {
             "label": "Brent",
-            "value": "$90.12 (−7% wk)",
+            "value": "$90.12 (−5% wk)",
             "dir": "down"
           },
           {
-            "label": "Gold",
-            "value": "$4,042.97 (−1.47%)",
-            "dir": "down"
-          },
-          {
-            "label": "10Y UST",
-            "value": "4.75%",
+            "label": "30Y UST",
+            "value": "5.28% (19-yr high)",
             "dir": "up"
           },
           {
-            "label": "VIX",
-            "value": "17.09 (−17.3%)",
+            "label": "Gold",
+            "value": "~$4,050",
+            "dir": "flat"
+          },
+          {
+            "label": "DXY",
+            "value": "99.83 (−1.3% Jul)",
             "dir": "down"
           }
         ],
         "events": [
           {
             "rank": 1,
-            "title": "Iran/Hormuz de-escalation — crude unwinds war premium",
+            "title": "FOMC holds 3.50%–3.75%, 9–3 with three dissents to hike",
             "score": 45.0,
-            "assets": "Energy·Eq·Rates·FX·Inflation",
-            "reaction": "Oil −8% Mon (biggest drop since May 25); Brent −16% in 3 sessions to ~$84, settled $90.12 Fri",
-            "detail": "The US paused strikes on Iran for a second straight night and Oman–Iran talks on restarting Hormuz shipping progressed, reversing the prior week's spike above $100. The Strait remains effectively closed (~13 mb/d disrupted), so this repriced probability, not physical supply — hence the bounce off $84 back to $90.12."
+            "assets": "Rates·Eq·FX·Gold",
+            "reaction": "Dow −2.19% (−1,153 pts, worst since Apr 2025), S&P −1.52%; 30Y +12bp to 5.21%, a 19-year high",
+            "detail": "Hammack, Kashkari and Logan all dissented for a 25bp increase — the first three-way unified dissent since September 2016. Chair Warsh said the Fed had 'missed on inflation for five years and we're going to fix that,' and the curve bear-steepened as markets moved to price a 54–70% chance of a September hike."
           },
           {
             "rank": 2,
-            "title": "FOMC holds 3.50%–3.75%, 9–3 with three hawkish dissents",
-            "score": 31.5,
-            "assets": "Rates·Eq·FX·Gold",
-            "reaction": "Dow −1.5%, S&P −0.6%, Nasdaq −0.5% post-presser; VIX spiked to 20.66",
-            "detail": "Hammack, Kashkari and Logan dissented in favor of higher rates — the first three-way unified dissent since September 2016 — citing inflation above target for over five years. Investors now price one to two hikes by end-2026, inverting the easing narrative."
+            "title": "Iran/Hormuz — crude round-trips $100 → $88 → $90",
+            "score": 37.5,
+            "assets": "Energy·Eq·Inflation",
+            "reaction": "Brent −8.7% Monday to $88.36; settled $90.12 Friday, −5%+ on the week but +24% in July",
+            "detail": "Iran signalled it would suspend attacks while the US pause held, collapsing the war premium — then Trump threatened to 'hit Iran hard' and the IRGC struck two escorted tankers in the Strait on Friday. OPEC+ agreed Aug 2 to add ~188k bpd from September and then pause through Q4."
           },
           {
             "rank": 3,
-            "title": "Mega-cap AI-capex earnings bifurcation",
-            "score": 18.75,
-            "assets": "Eq (Tech)·Semis",
-            "reaction": "AMZN +10%, MSFT +8%, META −9.64%, AAPL −6.65%; ~$1.5T of value added by GOOGL/AMZN/MSFT",
-            "detail": "All four grew revenue >10%, but reactions keyed entirely on AI-capex credibility: Amazon lifted FY capex to $220B and rallied on AWS +37% (fastest in 18 quarters), while Meta's identical capex raise met a 13.8% EPS miss and $784M free cash flow. Apple beat on EPS and revenue with iPhone +22% yet fell on 9–11% guidance versus 12% expected."
+            "title": "Global semiconductor / AI-hardware de-rating",
+            "score": 22.5,
+            "assets": "Eq (Semis)·Global",
+            "reaction": ">$1T market cap erased Jul 24–29; NVDA −$238B, SK Hynix −9.61%, Samsung −$173B, Micron −$113B",
+            "detail": "Fears that AI infrastructure spending is peaking hit the supply chain worldwide, compounded by SK Hynix slowing HBM expansion and a Chinese breakthrough in chipmaking equipment. The week's defining paradox: hyperscalers rallied on capex guidance while chipmakers sold off on the same guidance."
           },
           {
             "rank": 4,
-            "title": "Q2 GDP advance +1.5% and June PCE cools to 3.7%",
-            "score": 10.0,
-            "assets": "Rates·Eq",
-            "reaction": "Growth missed the 1.8% consensus; core PCE sticky at 3.3%, yields kept rising",
-            "detail": "Real GDP decelerated to 1.5% from 2.1% in Q1 on a government-spending downturn. Headline PCE fell to 3.7% from 4.1% — but that improvement was energy-driven and therefore reversible, while core held at 3.3% for a fourth straight month, the longest such stretch since autumn 2023."
+            "title": "Mega-cap cloud earnings — hyperscaler bifurcation",
+            "score": 18.75,
+            "assets": "Eq (Tech)",
+            "reaction": "MSFT +8.13%, AMZN +12–15%, META −9.64%, AAPL −6% AH; MSFT/AMZN/GOOGL added ~$1.5T on the week",
+            "detail": "Azure grew 43% and AWS 37% (fastest in 18 quarters), validating the capex spend, while Meta's identical capex raise met a 13.8% EPS miss and free cash flow of just $784M. Apple beat on EPS and revenue with iPhone +22% yet lost over $350B, days after touching a $5.0 trillion valuation."
           },
           {
             "rank": 5,
-            "title": "10Y to 4.75%, gold slides as hike odds rebuild",
-            "score": 8.0,
-            "assets": "Rates·Gold·FX",
-            "reaction": "Gold −1.47% to $4,042.97, capped below $4,100; DXY 99.91",
-            "detail": "The 10Y finished July at a multi-month high of 4.75% as the market priced hikes rather than cuts. Gold tracked the yield surge lower and notably failed to bid on Middle East de-escalation reversing — real rates, not geopolitics, now set its marginal price."
+            "title": "Q2 GDP +1.5%, PCE 3.7%, ECI turns real wages negative",
+            "score": 10.0,
+            "assets": "Rates·Eq",
+            "reaction": "Growth missed the 1.8% consensus; core PCE sticky at 3.3% for a fourth month; yields kept rising",
+            "detail": "GDP decelerated from 2.1% on a government-spending downturn, and the Employment Cost Index at 3.4% y/y against 3.7% PCE inflation left real wage growth at −0.4% — the first loss of purchasing power since 2022. Consumer confidence fell to 90.8 versus 92.3 expected."
           }
         ],
         "catalysts": [
+          "ISM Manufacturing PMI (July) · Mon Aug 3",
           "July jobs report (NFP) · Fri Aug 7",
           "July CPI · Wed Aug 12",
-          "Nvidia FQ2 earnings · late August",
-          "Iran–Oman Hormuz reopening talks · ongoing"
+          "Nvidia FQ2 earnings · late August"
         ],
         "risks": [
           {
-            "label": "Hormuz talks collapse, crude re-spikes >$100",
+            "label": "September hike delivered into 1.5% growth",
+            "prob": "60%",
+            "impact": "Major"
+          },
+          {
+            "label": "AI capex cycle confirmed as peaking",
             "prob": "35%",
             "impact": "Severe"
           },
           {
-            "label": "Core PCE breaks above 3.3% in the July print",
+            "label": "Hormuz interdiction escalates to sustained closure",
             "prob": "30%",
-            "impact": "Major"
-          },
-          {
-            "label": "AI-capex funding stress at 4.75% yields",
-            "prob": "25%",
-            "impact": "Major"
+            "impact": "Severe"
           }
         ]
       }

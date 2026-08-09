@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "site": "Weekly Market Brief",
-  "updated": "2026-08-09T18:40:00+07:00",
+  "updated": "2026-08-09T19:25:00+07:00",
   "reports": [
     {
       "id": "2026-08-09",
@@ -14,11 +14,11 @@
       "title": "Weekly Market News — 08/09/2026",
       "path": "reports/2026/weekly-market-news-08092026.md",
       "brief": {
-        "headline": "A July payroll contraction of −23,000 against +80,000 consensus — with 103,000 of prior gains revised away and wages at a five-year low of 3.2% — collapsed September hike odds from ~58% to ~40% and drove the S&P 500 to a record close of 7,757.64. Brent fell −7.69% in a single session on an OPEC+ supply signal, and the semiconductor complex took back the entire $1 trillion de-rating of the prior week (SOXX +7%, Nasdaq +5.19%).",
+        "headline": "Two shocks cut the same way: Trump called off strikes on Iran and Tehran agreed Hormuz routes with Oman, taking crude down −7.8%; then July payrolls contracted 23,000 against +83,000 consensus, collapsing September hike odds from ~67% a week earlier to 40–44%. The S&P 500 closed at a record 7,757.64, its best week since April, and Nvidia gained 11.6% — but the 30Y finished at 5.192%, essentially unchanged. The market repriced the policy path without repricing the term premium.",
         "regime": {
           "tone": "risk-on",
           "label": "Clean, duration-led risk-on",
-          "evidence": "Nasdaq +5.19% > S&P +3.58% > Dow +2.96% in textbook beta ordering; VIX crushed from 20.66 to 14.90; gold rallied alongside equities on lower real rates rather than on fear"
+          "evidence": "Nasdaq +5.19% > S&P +3.58% > Dow +2.96% in textbook beta ordering; VIX crushed from 20.66 to 14.90; HY OAS tightened to ~271bp from ~284bp, among the richest decile in its history"
         },
         "stats": [
           {
@@ -33,18 +33,18 @@
           },
           {
             "label": "Brent",
-            "value": "~$83 (−7.5% wk)",
+            "value": "~$83 (−7.8% wk)",
             "dir": "down"
           },
           {
             "label": "Gold",
-            "value": "~$4,343 (best wk since Jan)",
+            "value": "~$4,315–4,353 (+7% wk)",
             "dir": "up"
           },
           {
-            "label": "10Y UST",
-            "value": "4.639% (−3bp Fri)",
-            "dir": "down"
+            "label": "30Y UST",
+            "value": "5.192% (~unchanged)",
+            "dir": "flat"
           },
           {
             "label": "VIX",
@@ -55,52 +55,57 @@
         "events": [
           {
             "rank": 1,
-            "title": "July payrolls −23k vs +80k est.; −103k revisions; AHE 3.2%",
+            "title": "July payrolls −23k vs +83k est.; −103k revisions; AHE 3.2%",
             "score": 31.5,
             "assets": "Rates·Eq·FX·Gold",
-            "reaction": "S&P record close 7,757.64; Sept hike odds ~58% → ~40%; DXY −0.41% to a 7-week low; gold +2.44%",
-            "detail": "Payrolls fell 23,000 against a +80,000 consensus — below every forecast in the Bloomberg survey — on a −53,000 drop in government jobs, while May and June were revised down by a combined 103,000. Unemployment edged lower to 4.1% only because the labour force shrank, and average hourly earnings decelerated to 3.2% y/y, the slowest since May 2021."
+            "reaction": "S&P record close 7,757.64; Sept hike odds ~57% → 40–44%; 10Y −7bp to 4.639%; gold +2.5%",
+            "detail": "Payrolls fell 23,000 against +83,000 consensus on a −53,000 drop in government jobs, while May and June were revised down a combined 103,000. Unemployment fell to 4.1% only because the labour force shrank 264,000 — participation hit 61.4%, the lowest since early 2021 — and average hourly earnings slowed to 3.2% y/y, the weakest since May 2021."
           },
           {
             "rank": 2,
-            "title": "Brent −7.69% in one session on OPEC+ supply unwind",
+            "title": "Hormuz de-escalation — Iran strikes called off, Oman route deal",
             "score": 25.0,
             "assets": "Energy·Eq·Inflation",
-            "reaction": "Brent $90.12 → $82.84 Monday, ~$83 by Friday (−7.5% wk); WTI ~$78.31; breakevens compressed",
-            "detail": "OPEC+ signalled it will proceed with phasing out 2.2 million bpd of voluntary cuts despite Brent at the low end of its year-to-date range, while renewed ceasefire diplomacy compressed the Iran risk premium. The downside was capped late in the week as Iran's parliament began reviewing a stricter-than-expected Hormuz shipping-penalty regime."
+            "reaction": "WTI −5.2% and Brent −4.7% on Aug 3; Brent −7.8% and WTI −7.6% on the week; S&P +1.48% Monday, Dow to a record close",
+            "detail": "Trump held off planned strikes on Iran conditioned on rapidly reaching a deal to reopen the Strait of Hormuz, and Iran then agreed proposed shipping routes with Oman, with Bessent saying a deal could land within a day. By the weekend the terms had surfaced and were not the ones Washington wanted: Iran says the agreement bars US and Israeli vessels and conditions transit on the US ending its blockade of Iranian ports."
           },
           {
             "rank": 3,
             "title": "Semiconductor / AI complex round-trips the $1T de-rating",
             "score": 22.5,
             "assets": "Eq (Semis·Tech)",
-            "reaction": "SOXX +7% on the week, Nasdaq +5.19%; Nvidia posted its largest weekly market-cap gain in over a year",
-            "detail": "The peak-capex panic that erased more than $1 trillion of semiconductor and AI-hardware value between July 24 and 29 reversed almost entirely in five sessions. AMD's data-center print supplied the fundamental catalyst and the payroll-driven rate relief supplied the multiple; the speed of the V argues the de-rating was positioning-driven."
+            "reaction": "Nvidia +11.6% on the week to a $5.43T market cap, its largest weekly gain in over a year; Nasdaq +5.19% vs Dow +2.96%",
+            "detail": "The peak-capex panic that erased more than $1 trillion between July 24 and 29 reversed in five sessions, driven by UBS raising DRAM contract price forecasts to +32% for Q3 from +17%, the SpaceX–Nvidia Starmind orbital data-centre deal, and AMD's data-centre growth. The speed of the V argues the de-rating was positioning-driven rather than a real revision to the AI capex trajectory."
           },
           {
             "rank": 4,
-            "title": "Earnings cluster — Palantir +29%, AMD beat-and-fade, Disney beat",
+            "title": "Earnings cluster — Palantir +29.5%, Caterpillar record, AMD beat-and-fade",
             "score": 10.5,
-            "assets": "Eq (Software·Semis·Media)",
-            "reaction": "PLTR +29% on +93% revenue growth; AMD −7.5% after hours despite a record quarter and raised guidance; DIS +4%",
-            "detail": "Palantir grew revenue 93% to $1.935bn with US commercial up 149% and lifted FY26 guidance to $8.15bn from $7.65bn. AMD posted record revenue of $11.5bn with data center up 107% and guided Q3 above consensus, yet fell 7.5% after hours having pre-run the print; Disney beat on EPS at $2.06 and raised its buyback target to at least $9bn."
+            "assets": "Eq (Software·Industrials·Semis)",
+            "reaction": "PLTR +29.5% on +93% revenue growth; CAT +5.7% on a record $72B backlog; AMD −7% to −9% despite a record quarter; LLY +6.3%",
+            "detail": "Palantir grew revenue 93% with US commercial up 149% and lifted FY26 guidance to $8.15bn. Caterpillar posted its first $20B+ quarter with adjusted EPS of $8.17 against $6.20 expected and power generation up 29% on data centres — the AI capex cycle now visible in industrial order books. AMD fell despite record revenue and raised guidance, on a 54% gross margin against 56% consensus."
           },
           {
             "rank": 5,
-            "title": "ISM double beat — Manufacturing 55.6, a four-year high",
+            "title": "The hawkish case that lost — ISM Mfg 55.6, Kashkari calls for a September hike",
             "score": 10.0,
             "assets": "Rates·Eq",
-            "reaction": "Absorbed without a material rates reaction, then overwhelmed by Friday's payrolls",
-            "detail": "ISM Manufacturing printed 55.6, up 2.3 points and the highest since May 2022, against a ~54 consensus and a seventh straight month of expansion; Services printed 54.1. The prints sit in direct tension with a contracting payroll count — the reason this is a policy-relief rally rather than a growth-scare rally."
+            "reaction": "Held September hike odds near 55–67% into Thursday and drove the week's only risk-off session, Dow −450+ points on Aug 6",
+            "detail": "ISM Manufacturing printed 55.6, the highest since May 2022, with employment at 52.8 — its first expansion in 33 months — while ISM Services showed Prices Paid at a hot 70.3. Kashkari, one of the three July dissenters, said he would 'rather get going now in small steps' and favoured starting as early as September. Friday's payrolls overwrote all of it; the hawkish case was postponed, not refuted."
           }
         ],
         "catalysts": [
+          "RBA decision · Aug 11",
+          "Treasury refunding auctions · Aug 11–13",
           "July CPI · mid-August",
-          "July FOMC minutes · ~Aug 19",
-          "Jackson Hole · late August",
-          "Nvidia Q2 earnings · late August"
+          "Nvidia Q2 earnings · Aug 26"
         ],
         "risks": [
+          {
+            "label": "Hormuz deal collapses on terms the US will not accept",
+            "prob": "30%",
+            "impact": "Major"
+          },
           {
             "label": "Hot July CPI reverses the entire week",
             "prob": "30%",
@@ -109,11 +114,6 @@
           {
             "label": "Payroll weakness is the leading edge, not noise",
             "prob": "25%",
-            "impact": "Major"
-          },
-          {
-            "label": "Hormuz re-escalation rebuilds the risk premium",
-            "prob": "20%",
             "impact": "Major"
           }
         ]

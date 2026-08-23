@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-Aug 17–23 was a bond week, and equities were the collateral. The 30-year Treasury yield touched **5.339% on Aug 18**, its highest since June 2007, as US national debt crossed **$40 trillion** — and the selloff was global, with the UK 50-year gilt at a record 5.392%, France's 10-year at a post-2008 high and Japan's 5-year JGB at an all-time high. Treasury's Aug 19 surprise — at least doubling long-end buybacks to $4bn per operation — bought a one-day rally that was fully round-tripped inside 48 hours, and the Dow shed 700 points on Aug 20 as the fix was priced as temporary. Five significant events drove the week. The S&P 500 closed **7,674.37, −1.4%**, snapping a three-week winning streak; the Nasdaq lost **2.0%** to 26,180.45 on a duration-driven de-rating of AI names. The tell was where money went instead: gold **+~5% to ~$4,590**, silver above **$69**, bitcoin **+22% to $76,943.90** — the debasement trade, back in size.
+Aug 17–23 was a bond week, and equities were the collateral. The 30-year Treasury yield touched **5.339% on Aug 18**, its highest since June 2007, as US national debt crossed **$40 trillion** — and the selloff was global, with the UK 50-year gilt at a record 5.392%, France's 10-year at a post-2008 high and Japan's 5-year JGB at an all-time high. Treasury's Aug 19 surprise — at least doubling long-end buybacks to $4bn per operation — bought a one-day rally that was fully round-tripped inside 48 hours, and the Dow shed 700 points on Aug 20 as the fix was priced as temporary. Five significant events drove the week. The S&P 500 closed **7,674.37, −1.4%**, snapping a three-week winning streak; the Nasdaq lost **2.0%** to 26,180.45 on a duration-driven de-rating of AI names. The tell was where money went instead: gold **+~5% to ~$4,590**, silver above **$69**, bitcoin **+22% to $76,943.90** — the debasement trade, back in size. Friday supplied the counter-signal: a flash composite PMI of **56.0**, the fastest US business growth since April 2022, with input costs at a six-month low.
 
 ## Market Impact Rankings
 
@@ -32,7 +32,7 @@ On Aug 18 the 30-year Treasury yield briefly hit **5.339%**, the highest since J
 - **Bonds (Aug 20):** Fully reversed — 30-year back to ~**5.2%**, roughly pre-announcement
 - **Equities (Aug 18):** Two-week lows; S&P IT sector **−2.1%**, Philadelphia Semiconductor Index **−5.4%**, Nvidia **−2.4%**, Meta **−3%**
 - **Equities (Aug 20):** Dow **−700 points**
-- **Week:** S&P 500 **7,674.37 (−1.4%)**; Nasdaq **26,180.45 (−2.0%)**; Dow **53,277.01 (−0.85%)**, a second straight weekly loss. Friday rebounded (Dow +517.80, +1.0%) as yields stabilized. VIX **15.13**
+- **Week:** S&P 500 **7,674.37 (−1.4%)**; Nasdaq **26,180.45 (−2.0%)**; Dow **53,277.01 (−0.85%)**, a second straight weekly loss. Friday rebounded (Dow +517.80, +1.0%) as yields stabilized *and* a strong flash PMI landed with cooling price components (see Forward-Looking). VIX **15.13**
 
 **Global Sovereigns:** UK 50-year gilt at a **record 5.392%**; France 10-year **4.105%**, highest since Nov 2008; German Bund highest since 2011; Japan 5-year JGB **2.18%** (record) and 10-year **2.9494%**, highest since Sept 1996.
 
@@ -97,7 +97,7 @@ US–Iran talks faltered over the weekend and deteriorated through the week. Ira
 
 **Counter-Signal:** EIA weekly inventories showed crude stocks rising **more than expected** with gasoline supplies unexpectedly higher — crude rallied nearly 7% against bearish domestic fundamentals for a second consecutive week.
 
-**Follow-Through:** Sustained. Prices held near highs into Friday.
+**Follow-Through:** Sustained, but capped Friday when Iranian President **Pezeshkian said "it would be better to end the war now"** — the week's only de-escalation signal, which knocked crude off its highs. Bessent has scheduled a **Monday Aug 24 press conference** to detail the sanctions package.
 
 **Pattern Comparison:** **Amplified.** As with the prior week, the move is almost entirely risk premium rather than physical tightness. The distinction matters: premium-driven rallies unwind violently on de-escalation headlines.
 
@@ -138,6 +138,8 @@ Walmart posted its slowest US comparable-sales growth in more than six years: **
 
 #### Sector-Specific Impacts
 The causal chain closes the loop with Event 3: Hormuz premium → pump prices → discretionary wallet compression at the largest US retailer. That is the mechanism by which a geopolitical event becomes a domestic demand event.
+
+**An EPS-quality caveat on the rest of the group.** Target's headline EPS doubled to $4.11, but **$1.65 of that was IEEPA tariff refunds** — ex-refunds, growth was +20%, not +100%. Lowe's booked an **$80mn refund worth $0.11**, against flat EPS of $4.27 on +0.2% comps. Home Depot beat cleanly (comps +1.7% vs +0.9% expected) and reaffirmed guidance. Following the Supreme Court's IEEPA ruling, roughly **$165bn** of refunds are flowing to 330,000+ importers, so a one-off, non-operating item is now inflating reported retail earnings across the index. Underwrite the sector on comps and traffic, not headline EPS.
 
 ### 5. July FOMC Minutes: 9–3 Hold, "Several" Wanted a Hike (Impact Score: 10.0)
 
@@ -191,12 +193,16 @@ Strongly **reinforcing and sequential**. Hormuz (3) lifted oil, which lifted inf
 ## Forward-Looking Implications
 
 ### Market Positioning Insights
+**The bull case arrived late and was under-weighted.** Friday's S&P Global flash composite PMI printed **56.0** — the fastest US business growth since April 2022 — with services at **56.8** (a 20-month high) against a manufacturing miss at 53.2, implying roughly **3.0% annualized Q3 growth versus 1.5% in Q2**. Critically, input-cost inflation was the **slowest since February** and prices charged rose the least since November. That combination — accelerating growth with decelerating pricing power — is the single strongest argument that the long-end selloff is a supply-and-credibility problem rather than an inflation problem, and it is what produced Friday's 517-point Dow reversal.
+
 The equity complex is priced for the duration shock to be temporary; the bond and metals complexes are priced for it to be structural. Both cannot be right. With VIX at 15 against a record-high debt stock and a failed intervention, convexity is cheap relative to the distribution of outcomes. The AI-issuance-versus-Treasury-demand conflict is now a first-order equity risk, not a curiosity.
 
 ### Upcoming Catalysts
 - **Jackson Hole Symposium, Aug 27–29** — Warsh's **debut keynote as Chair** on Aug 28. With forward guidance abandoned under this Fed and 69% of BofA-surveyed managers expecting a neutral tone, neutral is priced and the surprise distribution is unusually wide in both directions. The single most important event on the calendar.
+- **Nvidia Q2 FY27 earnings, Aug 26 (after the close)** — consensus revenue ~$93–95bn, roughly +67% y/y. The most direct test of whether the AI complex can carry a 5%+ long bond, in the same week semis fell 5.4%.
+- **Bessent Iran sanctions press conference, Mon Aug 24** — details of the "toughest sanctions in history," including secondary sanctions on any country trading with Tehran. An immediate crude catalyst.
 - **Treasury buyback operations begin Sept 9** — the first live test of whether $4bn per operation moves the long end at all.
-- **September FOMC** — currently ~30–40% hike / 60–70% hold.
+- **September FOMC, Sept 16** — currently ~30–40% hike / 60–70% hold.
 
 ### Risk Scenarios
 1. **Disorderly long-end repricing (30Y > 5.50%):** Probability ~30%. Impact **Severe**. The buyback failure removed the perceived backstop; a weak auction into a $40tn debt stock forces multiple compression across all equity duration.

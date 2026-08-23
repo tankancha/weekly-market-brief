@@ -14,7 +14,7 @@
       "title": "Weekly Market News — 08/23/2026",
       "path": "reports/2026/weekly-market-news-08232026.md",
       "brief": {
-        "headline": "The bond market stopped taking direction from the Fed and started taking it from the Treasury's balance sheet. The 30-year yield touched 5.339% on Aug 18, its highest since June 2007, as US debt crossed $40 trillion — and Treasury's surprise doubling of long-end buybacks to $4bn per operation was fully round-tripped inside 48 hours, sending the Dow down 700 points on Aug 20. The S&P 500 closed 7,674.37, −1.4%, snapping a three-week winning streak, while capital rotated into fixed-supply assets: gold ~$4,590 (+~5%), silver above $69 and bitcoin +22% to $76,943.90.",
+        "headline": "The bond market stopped taking direction from the Fed and started taking it from the Treasury's balance sheet. The 30-year yield touched 5.339% on Aug 18, its highest since June 2007, as US debt crossed $40 trillion — and Treasury's surprise doubling of long-end buybacks to $4bn per operation was fully round-tripped inside 48 hours, sending the Dow down 700 points on Aug 20. The S&P 500 closed 7,674.37, −1.4%, snapping a three-week winning streak, while capital rotated into fixed-supply assets: gold ~$4,590 (+~5%), silver above $69 and bitcoin +22% to $76,943.90. Friday's flash PMI of 56.0 — the fastest US growth since April 2022, with input costs at a six-month low — supplied the counter-signal.",
         "regime": {
           "tone": "mixed",
           "label": "Hard-asset rotation, not risk-off",
@@ -95,9 +95,10 @@
           }
         ],
         "catalysts": [
+          "Nvidia Q2 FY27 earnings · Aug 26, after the close",
+          "Bessent Iran sanctions press conference · Mon Aug 24",
           "Jackson Hole · Warsh debut keynote as Chair, Aug 28",
-          "Treasury buyback operations begin · Sept 9",
-          "September FOMC · ~30–40% hike odds priced"
+          "September FOMC · Sept 16, ~30–40% hike odds priced"
         ],
         "risks": [
           {

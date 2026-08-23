@@ -1,8 +1,123 @@
 {
   "schema": 1,
   "site": "Weekly Market Brief",
-  "updated": "2026-08-16T18:45:00+07:00",
+  "updated": "2026-08-23T18:30:00+07:00",
   "reports": [
+    {
+      "id": "2026-08-23",
+      "generated": "2026-08-23",
+      "coverageStart": "2026-08-17",
+      "coverageEnd": "2026-08-23",
+      "weekOfLabel": "Week of Aug 17–23, 2026",
+      "year": 2026,
+      "month": 8,
+      "title": "Weekly Market News — 08/23/2026",
+      "path": "reports/2026/weekly-market-news-08232026.md",
+      "brief": {
+        "headline": "The bond market stopped taking direction from the Fed and started taking it from the Treasury's balance sheet. The 30-year yield touched 5.339% on Aug 18, its highest since June 2007, as US debt crossed $40 trillion — and Treasury's surprise doubling of long-end buybacks to $4bn per operation was fully round-tripped inside 48 hours, sending the Dow down 700 points on Aug 20. The S&P 500 closed 7,674.37, −1.4%, snapping a three-week winning streak, while capital rotated into fixed-supply assets: gold ~$4,590 (+~5%), silver above $69 and bitcoin +22% to $76,943.90.",
+        "regime": {
+          "tone": "mixed",
+          "label": "Hard-asset rotation, not risk-off",
+          "evidence": "Equities −1.4% with defensives bid, yet VIX only 15.13 and bitcoin +22% — capital is leaving duration, not leaving risk, with gold, silver and copper all higher and the dollar at a 2.5-month low"
+        },
+        "stats": [
+          {
+            "label": "S&P 500",
+            "value": "7,674.37 (−1.4% wk)",
+            "dir": "down"
+          },
+          {
+            "label": "Nasdaq",
+            "value": "26,180.45 (−2.0% wk)",
+            "dir": "down"
+          },
+          {
+            "label": "30Y Treasury",
+            "value": "5.339% peak (19-yr high)",
+            "dir": "up"
+          },
+          {
+            "label": "WTI",
+            "value": "$87.06 (+6.86% wk)",
+            "dir": "up"
+          },
+          {
+            "label": "Gold",
+            "value": "~$4,590 (+~5% wk)",
+            "dir": "up"
+          },
+          {
+            "label": "Bitcoin",
+            "value": "$76,943.90 (+22% wk)",
+            "dir": "up"
+          }
+        ],
+        "events": [
+          {
+            "rank": 1,
+            "title": "Global duration shock — 30Y at a 19-year high, Treasury buyback intervention fails",
+            "score": 45.0,
+            "assets": "Rates·Eq·FX·Global Sovereigns",
+            "reaction": "30Y hit 5.339% Aug 18; buyback rally round-tripped in 48h; Dow −700 Aug 20; S&P −1.4% on the week",
+            "detail": "The 30-year Treasury yield touched 5.339%, its highest since June 2007, amid a synchronized global long-end selloff — UK 50-year gilt at a record 5.392%, France's 10-year at a post-2008 high, Japan's 5-year JGB at an all-time high. Treasury's Aug 19 surprise doubling of buybacks to $4bn per operation cut the 30Y 9bp for one session, then decayed entirely as the market read $4bn as immaterial against a $40tn debt stock."
+          },
+          {
+            "rank": 2,
+            "title": "Debasement trade returns as US debt tops $40 trillion",
+            "score": 30.0,
+            "assets": "Gold·Crypto·FX·Metals",
+            "reaction": "Gold ~$4,590 (+~5% wk, third straight gain); silver >$69; bitcoin +22% to $76,943.90; DXY to a 2.5-month low",
+            "detail": "US national debt hit a record $40 trillion, five months after crossing $39tn, and investors read the buyback expansion as a soft form of monetization. Gold advanced alongside a rising long end — breaking the normal inverse real-rate relationship, the signature of a fiscal-credibility trade rather than a rate trade."
+          },
+          {
+            "rank": 3,
+            "title": "Hormuz deadlock — Trump vows \"economic warfare\" on Iran",
+            "score": 25.0,
+            "assets": "Energy·Inflation·Eq",
+            "reaction": "WTI +6.86% to $87.06, largest weekly gain since late July; Brent $94.46, up from $88.52",
+            "detail": "US–Iran talks deteriorated, with Tehran insisting the naval blockade must be lifted before Hormuz reopens, and Trump vowing economic warfare on Aug 20. Crude rallied nearly 7% against a larger-than-expected EIA crude build and an unexpected gasoline build — pure risk premium for a second consecutive week."
+          },
+          {
+            "rank": 4,
+            "title": "Walmart posts weakest US comps in six years, guides Q3 below consensus",
+            "score": 13.1,
+            "assets": "Consumer·Eq·Staples",
+            "reaction": "WMT −9.5%, its worst single day since May 2022; contributed to the Dow's 700-point Aug 20 decline",
+            "detail": "US comparable sales rose 2.6% against 3.7% expected — the slowest in more than six years — and Q3 adjusted EPS guidance of $0.62–$0.64 missed the $0.68 consensus, with management citing shoppers pressured by higher gas prices. Revenue still beat at $187.9bn, with e-commerce +23% and advertising +38%."
+          },
+          {
+            "rank": 5,
+            "title": "July FOMC minutes: 9–3 hold, \"several\" participants favored a hike",
+            "score": 10.0,
+            "assets": "Rates·FX·Eq",
+            "reaction": "DXY fell 0.72% to a 2.5-month low on a hawkish document; September pricing settled near 30–40% hike / 60–70% hold",
+            "detail": "The most fractured vote in years saw Hammack, Kashkari and Logan each dissent for a 25bp increase, with hawkish appetite extending beyond the three dissenters. Chair Warsh separately opened a discussion on cutting FOMC meetings from eight to six per year — an under-priced structural change that raises realized volatility around each decision."
+          }
+        ],
+        "catalysts": [
+          "Jackson Hole · Warsh debut keynote as Chair, Aug 28",
+          "Treasury buyback operations begin · Sept 9",
+          "September FOMC · ~30–40% hike odds priced"
+        ],
+        "risks": [
+          {
+            "label": "Disorderly long-end repricing (30Y >5.50%)",
+            "prob": "30%",
+            "impact": "Severe"
+          },
+          {
+            "label": "Warsh hawkish surprise at Jackson Hole",
+            "prob": "30%",
+            "impact": "Major"
+          },
+          {
+            "label": "Hormuz escalation to sustained Brent >$100",
+            "prob": "25%",
+            "impact": "Severe"
+          }
+        ]
+      }
+    },
     {
       "id": "2026-08-16",
       "generated": "2026-08-16",

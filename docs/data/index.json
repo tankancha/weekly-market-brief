@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "site": "Weekly Market Brief",
-  "updated": "2026-08-30T18:30:00+07:00",
+  "updated": "2026-08-30T18:55:00+07:00",
   "reports": [
     {
       "id": "2026-08-30",
@@ -14,11 +14,11 @@
       "title": "Weekly Market News — 08/30/2026",
       "path": "reports/2026/weekly-market-news-08302026.md",
       "brief": {
-        "headline": "The Fed's reaction function inverted. Chair Warsh's hawkish Jackson Hole debut on Aug 28 moved September hike odds to 57% from 35% and sent the 2-year yield up 12bp to 4.356%, breaking gold ~3% below $4,500 and lifting the dollar to 99.65. Yet equities finished higher — S&P 500 7,711.76 (+0.5%), Nasdaq 26,402.42 (+0.9%), Dow 53,559.99 (+0.5%) — because NVIDIA's blowout quarter and ~70% FY2028 revenue guide added $442bn of market value on Aug 27. The VIX closed 14.35, a year-to-date low, on the day the Fed signalled a hike.",
+        "headline": "The Fed's reaction function inverted. Chair Warsh's hawkish Jackson Hole debut on Aug 28 moved September hike odds to ~57–60% from ~35% and sent the 2-year yield up 11bp to 4.34%, lifting the dollar 0.52% to 99.67 and reversing precious metals off pre-speech highs above $4,600. Yet equities finished higher — S&P 500 7,711.76 (+0.5%), Nasdaq 26,402.42 (+0.9%), Dow 53,559.99 (+0.5%, first winning week in three) — because NVIDIA's $96.2bn quarter (+106% YoY) and ~70% FY2028 guide added ~$435–442bn of market value on Aug 27. The VIX closed near 14.4, an intraday 14.1 and its lowest of 2026, on the day the Fed signalled a hike.",
         "regime": {
           "tone": "mixed",
           "label": "Hawkish shift equities haven't priced",
-          "evidence": "A 12bp front-end selloff, a +0.5% dollar and a 3% break in gold against index gains of +0.5% to +0.9% and a VIX at a 2026 low of 14.35 — rates and risk assets are pricing two different Septembers"
+          "evidence": "An 11bp front-end selloff, a +0.52% dollar and a sharp metals reversal against index gains of +0.5% to +0.9% and a VIX near a 2026 low — and on the week's best day the index rose while the average S&P constituent fell"
         },
         "stats": [
           {
@@ -33,22 +33,22 @@
           },
           {
             "label": "2Y Treasury",
-            "value": "4.356% (+12bp Fri)",
+            "value": "4.34% (+11bp Fri)",
             "dir": "up"
           },
           {
             "label": "Sept hike odds",
-            "value": "57% (from 35%)",
+            "value": "~57–60% (from ~35%)",
             "dir": "up"
           },
           {
-            "label": "Gold",
-            "value": "−~3% to <$4,500",
+            "label": "WTI",
+            "value": "~$83.4 (−~5% wk)",
             "dir": "down"
           },
           {
-            "label": "WTI",
-            "value": "<$83 (−~5% wk)",
+            "label": "VIX",
+            "value": "~14.4 (2026 low)",
             "dir": "down"
           }
         ],
@@ -58,47 +58,47 @@
             "title": "Warsh's Hawkish Jackson Hole Debut",
             "score": 31.5,
             "assets": "Rates·FX·Metals·Eq",
-            "reaction": "2Y +12bp to 4.356%; Sept hike odds 57%; gold −3%; DXY 99.65",
-            "detail": "In his first Jackson Hole address, Chair Kevin Warsh said recent data \"do not tell me that underlying trends have meaningfully improved\" and that the Fed has \"work to do\" — signalling hikes with the funds rate at 3.50–3.75%. The debate shifted from when the Fed cuts to whether it hikes."
+            "reaction": "2Y +11bp to 4.34%; Sept hike odds ~57–60%; DXY +0.52% to 99.67",
+            "detail": "In his first Jackson Hole keynote, Chair Kevin Warsh said summer inflation prints \"do not tell me that underlying trends have meaningfully improved\" and that the Fed has \"work to do\" — signalling hikes with the funds rate at 3.50–3.75%. The debate shifted from when the Fed cuts to whether it hikes."
           },
           {
             "rank": 2,
             "title": "NVIDIA Blowout Q2 and ~70% FY2028 Guide",
             "score": 17.5,
-            "assets": "Eq·Semis·Global Tech",
-            "reaction": "NVDA +~9%, +$442bn cap, biggest day since Apr 2025; SOX ETFs +3–3.5%",
-            "detail": "Revenue more than doubled year over year with gross margin held at 75%, but the mover was guidance: CFO Colette Kress guided ~70% revenue growth for fiscal 2028, near double consensus. Management flagged margin compression next quarter on rising memory costs."
+            "assets": "Eq·Semis·Software",
+            "reaction": "NVDA +8.7%, +~$435–442bn cap; Nasdaq +1.57%; CRM +22.6%, OKTA +28%",
+            "detail": "Revenue hit $96.2bn, +106% YoY, with Data Center at $89.0bn (+117%) and a $108bn Q3 guide. CFO Colette Kress guided ~70% revenue growth for fiscal 2028 versus ~44% expected, though gross margin was guided to trough at 71–72% on memory costs."
           },
           {
             "rank": 3,
-            "title": "Hormuz Risk Premium Deflates",
+            "title": "\"Operation Economic Outcast\" — Yet Oil Fell ~5%",
             "score": 12.0,
             "assets": "Energy·Inflation·Eq",
-            "reaction": "WTI below $83, −~5% wk; Gulf exports recover to 15–16 mb/d",
-            "detail": "Traders re-read the Iran standoff as a sanctions confrontation rather than a physical supply threat as Persian Gulf exports recovered toward 15–16 mb/d from March's 5–6 mb/d trough. OPEC cut 2026 demand growth to 580k bpd from 780k."
+            "reaction": "WTI ~$83.4, Brent ~$88.3, both −~5% wk into the toughest-ever Iran sanctions",
+            "detail": "Treasury Secretary Bessent announced sweeping secondary sanctions on Iran covering digital assets, gold, aviation and shipping, designating 60 entities and vessels. Crude fell anyway as recovering Hormuz flows displaced headline risk — sanctions on revenue redirect supply rather than removing it."
           },
           {
             "rank": 4,
-            "title": "July PCE: Core 3.3% YoY, Headline 3.7%",
+            "title": "The Data That Armed the Chair",
             "score": 10.0,
             "assets": "Rates·Eq·FX",
-            "reaction": "In line and muted day-of; became the evidence base for Warsh 48 hours later",
-            "detail": "Core PCE rose 0.2% monthly and 3.3% annually, in line with forecasts, with headline at 3.7%. Personal income rose 0.4% and spending 0.2%, both stronger than expected, while goods prices fell 0.1% on a 2.7% drop in energy goods."
+            "reaction": "Muted day-of (S&P −0.02% Aug 26); became the evidence base for Warsh",
+            "detail": "July core PCE held at 3.3% YoY with headline at 3.7%, Q2 GDP was unrevised at 1.5% and claims fell to 203,000. The dissent came from the Conference Board Expectations Index at 68.2, its weakest since January and below the 80 recession threshold."
           },
           {
             "rank": 5,
-            "title": "Q2 GDP Second Estimate: The No-Landing Case",
+            "title": "US–Canada Trade War: 50% Tariffs Meet $20bn Retaliation",
             "score": 6.0,
-            "assets": "Rates·Eq",
-            "reaction": "Minimal day-of; removed the recession argument against tightening",
-            "detail": "Real GDP was unrevised at 1.5% annualised but consumer spending was revised up to 3.4% from 3.2%. Initial jobless claims then fell 4,000 to 203,000, below the ~208,000 consensus."
+            "assets": "Trade·Eq·FX",
+            "reaction": "Cited as a drag on Monday's −0.28% S&P session; otherwise absorbed",
+            "detail": "Talks collapsed and 50% US duties took effect under Section 338 — its first-ever use — with Carney calling it a \"miscalculation.\" Canada retaliated Aug 25 on ~$20bn of US goods, some at 50%, after the Supreme Court struck down IEEPA tariffs in February."
           }
         ],
         "catalysts": [
           "FOMC decision · Sept 15–16",
-          "August jobs report · early September",
-          "August CPI · mid-September",
-          "Hormuz reopening talks · ongoing"
+          "BOJ decision · Sept 17–18",
+          "August jobs report and CPI · early-to-mid September",
+          "Section 232 expansion · comment period closed Aug 27"
         ],
         "risks": [
           {
@@ -112,8 +112,8 @@
             "impact": "Severe"
           },
           {
-            "label": "AI capex narrative cracks",
-            "prob": "20%",
+            "label": "Synchronised Fed/ECB/BOJ tightening",
+            "prob": "25%",
             "impact": "High"
           }
         ]

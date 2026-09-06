@@ -1,8 +1,124 @@
 {
   "schema": 1,
   "site": "Weekly Market Brief",
-  "updated": "2026-08-30T18:55:00+07:00",
+  "updated": "2026-09-06T18:20:00+07:00",
   "reports": [
+    {
+      "id": "2026-09-06",
+      "generated": "2026-09-06",
+      "coverageStart": "2026-08-31",
+      "coverageEnd": "2026-09-06",
+      "weekOfLabel": "Week of Aug 31 – Sep 6, 2026",
+      "year": 2026,
+      "month": 9,
+      "title": "Weekly Market News — 09/06/2026",
+      "path": "reports/2026/weekly-market-news-09062026.md",
+      "brief": {
+        "headline": "Two inflation shocks pointed the Fed the same way. The US–Iran war re-escalated — Iran struck US bases in Kuwait and the UAE on Sep 3 — sending WTI +8.3% and Brent +6.1% on the week, the biggest gain since July, with US diesel at record highs. Then August payrolls landed at +162,000 against a +53,000 consensus, tripling the estimate and lifting September hike odds to ~63–65%. Equities absorbed both: the S&P 500 closed 7,718.60 (+0.1%), the Nasdaq 26,506.99 (+0.4%), the Dow 53,414.25 (−0.3%) — with the VIX near 14.53 in the seventh month of a shooting war.",
+        "regime": {
+          "tone": "mixed",
+          "label": "Rate-constrained, not risk-off",
+          "evidence": "Tech, industrials and utilities held weekly gains and the VIX sat near 14.5, yet the 30Y reached 5.28%, oil rose 6–8% and diesel hit records — a 0.1% weekly index gain absorbing a war escalation and a 109k payroll surprise"
+        },
+        "stats": [
+          {
+            "label": "S&P 500",
+            "value": "7,718.60 (+0.1% wk)",
+            "dir": "up"
+          },
+          {
+            "label": "Nasdaq",
+            "value": "26,506.99 (+0.4% wk)",
+            "dir": "up"
+          },
+          {
+            "label": "10Y Treasury",
+            "value": "4.78% (4.804% peak)",
+            "dir": "up"
+          },
+          {
+            "label": "WTI",
+            "value": "~$92 (+8.3% wk)",
+            "dir": "up"
+          },
+          {
+            "label": "Gold",
+            "value": "~$4,429 (−1.1% Fri)",
+            "dir": "down"
+          },
+          {
+            "label": "Sept hike odds",
+            "value": "~63–65% (from ~55%)",
+            "dir": "up"
+          }
+        ],
+        "events": [
+          {
+            "rank": 1,
+            "title": "US–Iran War Re-Escalation and the Hormuz Supply Shock",
+            "score": 37.5,
+            "assets": "Energy·Inflation·Rates·Eq",
+            "reaction": "WTI +8.3%, Brent +6.1% on the week; US diesel at record highs",
+            "detail": "After a month of relative calm, US strikes resumed and Iran fired missiles and drones at US bases in Kuwait and the UAE on Sep 3, also targeting Hormuz shipping. The strikes hit military rather than energy infrastructure, so the move is a risk-premium rebuild — with Hormuz traffic already down from 100+ vessels a day to five and Gulf exports off ~47%."
+          },
+          {
+            "rank": 2,
+            "title": "August Payrolls — A 109k Upside Surprise",
+            "score": 26.3,
+            "assets": "Rates·FX·Eq·Metals",
+            "reaction": "10Y to 4.78%; hike odds ~63–65%; S&P −0.38%; gold −1.14%",
+            "detail": "Nonfarm payrolls rose 162,000 against a ~53,000 consensus with unemployment steady at 4.1%, and July was revised up to +21,000 from −23,000. The print reverses the summer hiring slowdown that underpinned the case for Fed patience."
+          },
+          {
+            "rank": 3,
+            "title": "Broadcom Q3: AI Triples, Margins Slip",
+            "score": 13.1,
+            "assets": "Semis·Eq·AI Complex",
+            "reaction": "AVGO −6% on Sep 3; NVDA higher, AMD lower — contagion muted",
+            "detail": "Revenue rose 86% to $29.6bn with AI semiconductor revenue tripling to $16.7bn (+221%), but Q4 guidance of $34.8bn missed the ~$35.03bn consensus and gross margin fell 210bp sequentially, guided to 73% from 78% a year earlier."
+          },
+          {
+            "rank": 4,
+            "title": "Waller and Williams Push Back on a September Hike",
+            "score": 10.5,
+            "assets": "Rates·Eq·Metals·FX",
+            "reaction": "Yields fell across the curve; S&P +~1.2%; gold +2.16%, silver +2.44%",
+            "detail": "Governor Waller said he leans toward holding rates at the Sep 15–16 meeting, with Williams adding dovish commentary — establishing a genuinely split Committee six days after Warsh's hawkish Jackson Hole debut. Payrolls erased the rally within 24 hours."
+          },
+          {
+            "rank": 5,
+            "title": "ISM Surveys Firm as the Long End Sells Off",
+            "score": 10.0,
+            "assets": "Rates·Eq",
+            "reaction": "10Y +8bp to 4.804% (20-month high); 30Y +13bp to 5.28%",
+            "detail": "ISM Manufacturing held at 54.6 for an eighth month of expansion while Services accelerated to 55.4 with Business Activity at 61.7. The 30Y outpacing the 2Y marks this as a term-premium move, not a policy-path move."
+          }
+        ],
+        "catalysts": [
+          "FOMC decision · Sep 15–16, priced ~63–65% for a hike",
+          "August CPI · mid-September, diesel pass-through is the swing variable",
+          "OPEC+ October quotas · met Sep 6, rollover expected",
+          "US–Iran escalation and Hormuz transit · ongoing"
+        ],
+        "risks": [
+          {
+            "label": "The Fed hikes and equities have not priced it",
+            "prob": "60%",
+            "impact": "Major"
+          },
+          {
+            "label": "Energy infrastructure, not military bases, is struck next",
+            "prob": "25%",
+            "impact": "Severe"
+          },
+          {
+            "label": "Fuel-driven inflation forces a hawkish revision",
+            "prob": "35%",
+            "impact": "Major"
+          }
+        ]
+      }
+    },
     {
       "id": "2026-08-30",
       "generated": "2026-08-30",

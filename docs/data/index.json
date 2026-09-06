@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "site": "Weekly Market Brief",
-  "updated": "2026-09-06T18:20:00+07:00",
+  "updated": "2026-09-06T19:05:00+07:00",
   "reports": [
     {
       "id": "2026-09-06",
@@ -14,11 +14,11 @@
       "title": "Weekly Market News — 09/06/2026",
       "path": "reports/2026/weekly-market-news-09062026.md",
       "brief": {
-        "headline": "Two inflation shocks pointed the Fed the same way. The US–Iran war re-escalated — Iran struck US bases in Kuwait and the UAE on Sep 3 — sending WTI +8.3% and Brent +6.1% on the week, the biggest gain since July, with US diesel at record highs. Then August payrolls landed at +162,000 against a +53,000 consensus, tripling the estimate and lifting September hike odds to ~63–65%. Equities absorbed both: the S&P 500 closed 7,718.60 (+0.1%), the Nasdaq 26,506.99 (+0.4%), the Dow 53,414.25 (−0.3%) — with the VIX near 14.53 in the seventh month of a shooting war.",
+        "headline": "A violent two-way argument about whether the Fed hikes on Sep 16, wrapped around an energy shock. The US–Iran war resumed and WTI settled at $91.48, +9.7% on the week, its strongest since mid-July, with US diesel at a record. September hike odds round-tripped from 66.1% Monday to 48.4% Thursday on Waller's \"give disinflation a chance,\" then back to ~60–65% Friday when payrolls printed +162,000 against a +53,000 consensus. Indices went nowhere while dispersion exploded: S&P 500 7,718.60 (+0.1%), Nasdaq 26,506.99 (+0.4%), Dow 53,414.25 (−0.3%) — yet Lululemon fell 17.8% and gold dropped for a second straight week.",
         "regime": {
           "tone": "mixed",
           "label": "Rate-constrained, not risk-off",
-          "evidence": "Tech, industrials and utilities held weekly gains and the VIX sat near 14.5, yet the 30Y reached 5.28%, oil rose 6–8% and diesel hit records — a 0.1% weekly index gain absorbing a war escalation and a 109k payroll surprise"
+          "evidence": "Tech, industrials and utilities held gains and the VIX closed at 14.53, yet the 30Y reached 5.28% intraweek, WTI rose 9.7% and diesel hit records — a 0.1% weekly index gain absorbing a war escalation, a 109k payroll surprise and two double-digit single-name blowups"
         },
         "stats": [
           {
@@ -32,73 +32,73 @@
             "dir": "up"
           },
           {
-            "label": "10Y Treasury",
-            "value": "4.78% (4.804% peak)",
+            "label": "WTI",
+            "value": "$91.48 (+9.7% wk)",
             "dir": "up"
           },
           {
-            "label": "WTI",
-            "value": "~$92 (+8.3% wk)",
+            "label": "10Y Treasury",
+            "value": "4.79% (+5bp wk)",
             "dir": "up"
           },
           {
             "label": "Gold",
-            "value": "~$4,429 (−1.1% Fri)",
+            "value": "~$4,376 (−2.2% Fri)",
             "dir": "down"
           },
           {
             "label": "Sept hike odds",
-            "value": "~63–65% (from ~55%)",
-            "dir": "up"
+            "value": "66.1% → 48.4% → ~60–65%",
+            "dir": "flat"
           }
         ],
         "events": [
           {
             "rank": 1,
-            "title": "US–Iran War Re-Escalation and the Hormuz Supply Shock",
+            "title": "US–Iran War Resumes and the Hormuz Supply Shock",
             "score": 37.5,
             "assets": "Energy·Inflation·Rates·Eq",
-            "reaction": "WTI +8.3%, Brent +6.1% on the week; US diesel at record highs",
-            "detail": "After a month of relative calm, US strikes resumed and Iran fired missiles and drones at US bases in Kuwait and the UAE on Sep 3, also targeting Hormuz shipping. The strikes hit military rather than energy infrastructure, so the move is a risk-premium rebuild — with Hormuz traffic already down from 100+ vessels a day to five and Gulf exports off ~47%."
+            "reaction": "WTI +9.7% to $91.48; Brent ~+7%; US diesel at an all-time record",
+            "detail": "US forces struck IRGC targets on Sep 1 and Iran retaliated Sep 3 with missiles and drones on US bases in Kuwait and the UAE; the EU joined Operation Economic Outcast on Sep 4. The strikes spared energy infrastructure, so this is a risk-premium rebuild — with only ~4 commodity vessels crossing Hormuz Thursday against a ~15 average, and Iranian exports down from ~2m bpd pre-war to ~287k bpd."
           },
           {
             "rank": 2,
             "title": "August Payrolls — A 109k Upside Surprise",
             "score": 26.3,
             "assets": "Rates·FX·Eq·Metals",
-            "reaction": "10Y to 4.78%; hike odds ~63–65%; S&P −0.38%; gold −1.14%",
-            "detail": "Nonfarm payrolls rose 162,000 against a ~53,000 consensus with unemployment steady at 4.1%, and July was revised up to +21,000 from −23,000. The print reverses the summer hiring slowdown that underpinned the case for Fed patience."
+            "reaction": "10Y to 4.79%; hike odds to ~60–65%; S&P −0.38%; gold −2.2%",
+            "detail": "Payrolls rose 162,000 against a 53,000 consensus with unemployment at 4.1% and average hourly earnings +3.1% y/y, while July was revised up 44,000 to +21,000. It landed two days after ADP showed just +38,000 — a divergence that cannot both be right, and the Fed will act on the BLS number."
           },
           {
             "rank": 3,
-            "title": "Broadcom Q3: AI Triples, Margins Slip",
+            "title": "Broadcom Q3: AI Triples, the Guide Misses",
             "score": 13.1,
             "assets": "Semis·Eq·AI Complex",
-            "reaction": "AVGO −6% on Sep 3; NVDA higher, AMD lower — contagion muted",
-            "detail": "Revenue rose 86% to $29.6bn with AI semiconductor revenue tripling to $16.7bn (+221%), but Q4 guidance of $34.8bn missed the ~$35.03bn consensus and gross margin fell 210bp sequentially, guided to 73% from 78% a year earlier."
+            "reaction": "AVGO fell on the guide; NVDA rose the same session — contagion absent",
+            "detail": "Revenue rose 86% to a record $29.59bn with AI semiconductor revenue tripling to $16.7bn (+221%), and management laid out a $58bn→$115bn→$230bn AI path through 2028. But Q4 revenue guidance of ~$34.8bn missed the ~$35.03bn consensus and Q4 gross margin was guided to 73% from 78% a year earlier."
           },
           {
             "rank": 4,
-            "title": "Waller and Williams Push Back on a September Hike",
-            "score": 10.5,
-            "assets": "Rates·Eq·Metals·FX",
-            "reaction": "Yields fell across the curve; S&P +~1.2%; gold +2.16%, silver +2.44%",
-            "detail": "Governor Waller said he leans toward holding rates at the Sep 15–16 meeting, with Williams adding dovish commentary — establishing a genuinely split Committee six days after Warsh's hawkish Jackson Hole debut. Payrolls erased the rally within 24 hours."
+            "title": "Lululemon's Tariff-Driven Guidance Slash",
+            "score": 12.5,
+            "assets": "Consumer Disc.·Retail",
+            "reaction": "LULU −17.8% to ~$100; FY revenue guide cut by roughly $650m",
+            "detail": "Comparable sales fell ~10% and the headline EPS beat existed only because it included $0.86/sh of tariff refunds. Management cut FY revenue guidance to $10.35–10.50bn assuming 20% tariffs from October, and excluded $105m of unrecovered IEEPA tariffs from guidance — a template other import-heavy retailers face into Q3."
           },
           {
             "rank": 5,
-            "title": "ISM Surveys Firm as the Long End Sells Off",
-            "score": 10.0,
-            "assets": "Rates·Eq",
-            "reaction": "10Y +8bp to 4.804% (20-month high); 30Y +13bp to 5.28%",
-            "detail": "ISM Manufacturing held at 54.6 for an eighth month of expansion while Services accelerated to 55.4 with Business Activity at 61.7. The 30Y outpacing the 2Y marks this as a term-premium move, not a policy-path move."
+            "title": "Waller Signals a Hold and Hike Odds Collapse",
+            "score": 10.5,
+            "assets": "Rates·Eq·Metals·FX",
+            "reaction": "Hike odds −15pts to 48.4%; 10Y to 4.772%; Dow +624 (+1.18%)",
+            "detail": "Governor Waller said he would be inclined to support holding rates and told markets to \"give disinflation a chance,\" conditioning it on the Sep 11 CPI, with Williams adding that inflation expectations remain anchored. Payrolls erased the rally within 24 hours."
           }
         ],
         "catalysts": [
-          "FOMC decision · Sep 15–16, priced ~63–65% for a hike",
-          "August CPI · mid-September, diesel pass-through is the swing variable",
-          "OPEC+ October quotas · met Sep 6, rollover expected",
-          "US–Iran escalation and Hormuz transit · ongoing"
+          "August CPI · Sep 11, the condition Waller attached to his hold",
+          "FOMC decision and dot plot · Sep 15–16, priced ~60–65% for a hike",
+          "ECB Sep 10, BOJ Sep 17–18, BOE Sep 17 · synchronised tightening",
+          "Canadian retaliatory tariffs · effective Sep 8, ~$27.6bn of US goods"
         ],
         "risks": [
           {
@@ -112,7 +112,7 @@
             "impact": "Severe"
           },
           {
-            "label": "Fuel-driven inflation forces a hawkish revision",
+            "label": "August CPI runs hot and Waller flips",
             "prob": "35%",
             "impact": "Major"
           }

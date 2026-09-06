@@ -2,51 +2,51 @@
 
 ## Executive Summary
 
-Aug 31–Sep 4 was a week of two shocks pulling in the same direction — war premium and wage strength — with equities absorbing both. The US–Iran conflict re-escalated after roughly a month of relative calm: US strikes resumed and Iran fired missiles and drones at American bases in Kuwait and the UAE on **Sep 3**, sending **WTI +8.3% and Brent +6.1%** on the week — the biggest weekly gain since July — to roughly **$92 and $95–97**, with US average diesel prices hitting **record highs**. Then on **Sep 4**, August payrolls came in at **+162,000 against a +53,000 consensus** with unemployment steady at **4.1%**, tripling the estimate and pushing September hike odds to roughly **63–65% from ~55%** pre-print. Five significant events drove the week. Indices round-tripped through all of it: down about **1%** Monday–Tuesday as the 10-year hit a 20-month high of **4.804%**, up about **1.7%** Wednesday–Thursday when Governor Waller signalled he leans toward holding rates, then **−0.38%** Friday on the jobs print — leaving the **S&P 500 at 7,718.60 (+0.1%)**, the **Nasdaq at 26,506.99 (+0.4%)** and the **Dow at 53,414.25 (−0.3%)**. The VIX finished near **14.53** in the seventh month of a shooting war that has cut Strait of Hormuz traffic from over 100 vessels a day to five.
+Aug 31–Sep 4 was a violent two-way argument about whether the Fed hikes on Sep 16, wrapped around an energy shock. The US–Iran war resumed after roughly a month of calm — US strikes on IRGC targets, Iranian missiles and drones on US bases in Kuwait and the UAE on **Sep 3** — and **WTI settled at $91.48, +9.7% on the week**, its strongest advance since mid-July, with Brent near **$95 (~+7%)** and US diesel at a **record high**. September hike odds round-tripped from **66.1% Monday** to **48.4% Thursday** after Governor Waller said to "give disinflation a chance," then back to roughly **60–65%** Friday when August payrolls printed **+162,000 against a +53,000 consensus**. Five significant events drove the week. Indices went nowhere while dispersion exploded: the **S&P 500 closed 7,718.60 (+0.1%)**, the **Nasdaq 26,506.99 (+0.4%)**, the **Dow 53,414.25 (−0.3%)** — down 1.04% Monday–Tuesday, up 1.52% Wednesday–Thursday, −0.38% Friday — yet **Lululemon fell 17.8%** on a tariff-driven guidance slash, Broadcom fell despite tripling AI revenue, and gold dropped for a second straight week. The VIX finished at **14.53** in the seventh month of a shooting war that has cut Strait of Hormuz commodity transits to about four vessels a day.
 
 ## Market Impact Rankings
 
 | Rank | Event | Date | Impact Score | Asset Classes Affected | Market Reaction |
 |------|-------|------|--------------|------------------------|-----------------|
-| 1 | US–Iran war re-escalates; Iran strikes Kuwait/UAE bases and Hormuz shipping | Sep 3 | 37.5 | Energy, Inflation, Rates, Equities | WTI +8.3%, Brent +6.1% on the week; diesel at record highs |
-| 2 | August payrolls +162k vs +53k consensus; unemployment 4.1% | Sep 4 | 26.3 | Rates, FX, Equities, Metals | 10Y to 4.78%; hike odds ~63–65%; S&P −0.38%; gold −1.1% |
-| 3 | Broadcom Q3: AI revenue +221% to $16.7bn, but light guide and margin slip | Sep 2 | 13.1 | Semis, Equities, AI Complex | AVGO −6% on Sep 3; NVDA higher, AMD lower — contagion muted |
-| 4 | Waller and Williams push back on a September hike | Sep 3 | 10.5 | Rates, Equities, Metals, FX | Yields fall across the curve; S&P +~1.2%; gold +2.16%, silver +2.44% |
-| 5 | ISM Services 55.4 and Manufacturing 54.6; long end sells off | Sep 1–3 | 10.0 | Rates, Equities | 10Y +8bp to 4.804% (20-month high); 30Y +13bp to 5.28% |
+| 1 | US–Iran war resumes; strikes on Kuwait/UAE bases, Hormuz near-shutdown | Sep 1–4 | 37.5 | Energy, Inflation, Rates, Equities | WTI +9.7% to $91.48; Brent ~+7%; diesel at a record |
+| 2 | August payrolls +162k vs +53k consensus; AHE +3.1% y/y | Sep 4 | 26.3 | Rates, FX, Equities, Metals | 10Y to 4.79%; hike odds to ~60–65%; S&P −0.38%; gold −2.2% |
+| 3 | Broadcom Q3: AI revenue +221% to $16.7bn, but Q4 guide misses | Sep 2 | 13.1 | Semis, Equities, AI Complex | AVGO fell on the guide; NVDA higher — contagion absent |
+| 4 | Lululemon guidance slash on tariffs; −17.8% | Sep 3–4 | 12.5 | Consumer Discretionary, Retail | LULU −17.8% to ~$100; FY revenue guide cut ~$650m |
+| 5 | Waller signals a hold; hike odds collapse to 48.4% | Sep 3 | 10.5 | Rates, Equities, Metals, FX | 10Y to 4.772%; Dow +624 (+1.18%); gold +2.2% |
 
 ## Detailed Event Analysis
 
-### 1. US–Iran War Re-Escalation and the Hormuz Supply Shock (Impact Score: 37.5)
+### 1. US–Iran War Resumes and the Hormuz Supply Shock (Impact Score: 37.5)
 
-**Event Date:** Sep 3, 2026 (strikes resumed earlier in the week)
+**Event Date:** Sep 1–4, 2026 (Iranian retaliation Sep 3)
 **Event Type:** Geopolitical / Commodity
-**News Source:** Washington Post, Reuters via CNBC, Bloomberg, Critical Threats Project (Tier 1 + specialist)
+**News Source:** Reuters via CNBC, Washington Post, Critical Threats Project (Tier 1 + specialist)
 
 #### Event Summary
-After roughly a month of relative calm, the US carried out fresh strikes against Iran and Tehran retaliated on Sep 3 with missiles and drones against US bases in Kuwait and the UAE — the Artesh said it targeted satellite communications, equipment warehouses and aircraft hangars at Ahmad al Jaber Air Base — while also targeting vessels transiting the Strait of Hormuz. Kuwaiti air defences were activated. This is the seventh month of a conflict that began with US and Israeli operations in late February 2026, and the strikes hit military rather than energy infrastructure, so the price response is a risk-premium rebuild rather than a booked barrel loss.
+The US and Iran traded fire for the first time in a month. On **Sep 1** US forces struck IRGC targets after attempts on commercial shipping and American forces near the Strait of Hormuz; on **Sep 3** Iran retaliated with missiles and drones against US bases in Kuwait and the UAE, with the Artesh naming satellite communications, warehouses and aircraft hangars at Ahmad al Jaber Air Base. Kuwaiti air defences engaged. Separately on **Sep 4** the **EU formally joined "Operation Economic Outcast,"** the US campaign announced Aug 24 to target all Iranian revenue sources. Critically, the strikes hit military rather than energy infrastructure — this is a risk-premium rebuild, not a booked barrel loss.
 
 #### Market Reaction
 
-**Immediate (Day-of and week):**
-- **Commodities:** WTI **+8.3%** on the week to roughly **$92**; Brent **+6.1%** to roughly **$95–97** — the biggest weekly gain since July. US average **diesel prices hit record highs**, compounded by Ukrainian drone attacks on Russian refineries.
-- **Equities:** No index-level risk-off; the S&P 500 still finished the week +0.1%. Energy (XLE) was among Friday's biggest decliners as the whole tape sold off on payrolls, despite crude's weekly gain.
-- **Rates:** Reinforced the back-up in yields — the fuel-price channel feeds directly into headline inflation and term premium.
+**Immediate (week):**
+- **Commodities:** WTI **+9.7% to $91.48**, the strongest weekly advance since mid-July; Brent near **$95**, roughly **+7%**. US average **diesel prices hit an all-time record**, compounded by Ukrainian strikes on Russian refining.
+- **Equities:** Contributed to the Monday–Tuesday drawdown (S&P −1.04%, Dow −419 on Sep 1 as crude hit $90). No index-level risk-off by Friday.
+- **Rates:** Reinforced the yield back-up; the 10Y touched its highest intraday level since November 2023.
 
-**Follow-Through:** Sustained. Prices held the gains into Friday's close rather than fading, and ANZ raised its short-term Brent forecast to $95 with upside risk.
+**Follow-Through:** Sustained — crude held its gains into Friday's close rather than fading.
 
-**Pattern Comparison:** **Dampened** relative to the historical template. A direct missile attack on Gulf states would classically be worth a double-digit crude spike; a 6–8% weekly move reflects that the market has spent seven months repricing this war and that the marginal barrel at risk is already gone.
+**Pattern Comparison:** **Dampened** versus the historical template. Direct missile attacks on Gulf states would classically produce a double-digit crude spike; a 7–10% weekly move reflects seven months of repricing and the fact that the at-risk barrel is already gone.
 
 #### Impact Assessment Detail
-**Price Impact:** Severe — an 8.3% weekly move in WTI is well past the ±5% severe threshold.
+**Price Impact:** Severe — a 9.7% weekly WTI move is roughly double the ±5% severe threshold.
 **Breadth:** Systemic — energy, global inflation, sovereign borrowing costs, freight and insurance, equities.
-**Forward Significance:** Trend Confirmation (+25%) — it confirms the entrenched supply-shock regime rather than establishing it.
+**Forward Significance:** Trend Confirmation (+25%) — it confirms an entrenched supply-shock regime rather than establishing one.
 **Calculated Score:** (10 × 3.0) × 1.25 = **37.5**
 
 #### Sector-Specific Impacts
-Energy producers and refiners are the direct beneficiaries; record diesel cracks are a margin windfall for refiners and a straight cost line for trucking, rail, airlines and agriculture. Defence and shipping benefit from the risk premium; consumer discretionary carries the fuel-price drag.
+Energy producers and refiners benefit directly; record diesel cracks are a refiner windfall and a straight cost line for trucking, rail, airlines and agriculture. Consumer discretionary carries the fuel drag — visible in the Lululemon print at rank 4.
 
 #### Commodity Correlation
-The binding constraint is transit, not production. Strait of Hormuz traffic has fallen from more than 100 vessels a day to about five, and Gulf crude exports are down roughly **47%** from pre-war levels — about **9 million bpd** in August 2026 versus roughly 17 million bpd in 2025. With the strait normally carrying about 25% of seaborne crude and 19% of LNG, OPEC+ spare capacity is largely stranded behind the chokepoint, which is why supply cannot arbitrage the premium away. Expect the premium to persist while strikes continue; it decays quickly only on a credible transit guarantee.
+The binding constraint is transit, not production. Only **four visible commodity vessels crossed Hormuz on Thursday against a ten-day average near fifteen**, and **Iranian exports have collapsed from roughly 2 million bpd pre-war to about 287,000 bpd in August**. With Hormuz normally carrying about 25% of seaborne crude and 19% of LNG, OPEC+ spare capacity is largely stranded behind the chokepoint, which is why supply cannot arbitrage the premium away. OPEC+ met **Sep 6** and was reported ahead of the meeting as set to leave October quotas unchanged, having completed the rollback of its 1.65m bpd voluntary cut with a 188,000 bpd September increase.
 
 ### 2. August Employment Report — A 109k Upside Surprise (Impact Score: 26.3)
 
@@ -55,21 +55,21 @@ The binding constraint is transit, not production. Strait of Hormuz traffic has 
 **News Source:** BLS (official), CNBC, Reuters (Tier 1)
 
 #### Event Summary
-Nonfarm payrolls rose **162,000** in August against a consensus near **53,000**, roughly tripling the estimate, while the unemployment rate held at **4.1%** as expected. Revisions compounded the hawkish read: July was revised up to **+21,000** from **−23,000**, swinging positive, and June to **+31,000**. Leisure and hospitality led with **+62,000**; information and financial activities declined. The print reverses the summer hiring slowdown that had underpinned the case for patience.
+Nonfarm payrolls rose **162,000** against a **53,000** consensus — roughly triple the estimate — with unemployment steady at **4.1%** and average hourly earnings **+0.3% m/m and +3.1% y/y**, a tenth above expectations. Revisions compounded the hawkish read: **July was revised up 44,000 to +21,000**, flipping from a reported loss, and June up 11,000 to +31,000, putting summer employment **55,000 higher** than first reported. **Leisure and hospitality led with +62,000**; information and financial activities declined. The print reverses the summer hiring slowdown that underpinned the case for patience — and it landed two days after **ADP showed just +38,000 private jobs**, the weakest since January.
 
 #### Market Reaction
 
 **Immediate (Day-of):**
-- **Equities:** S&P 500 **−0.38% to 7,718.60**; Nasdaq **−0.29% to 26,506.99**; Dow **−0.51% to 53,414.25**.
-- **Bonds:** 10Y jumped to **4.78%**; 2Y to **4.37%**.
-- **FX:** DXY **+0.16% to 99.16**.
-- **Commodities:** Gold **−1.14% to ~$4,429**, silver **−1.22% to ~$66.17**.
-- **Volatility:** VIX **14.53, +1.47%** — still historically subdued.
-- **Rates pricing:** September hike odds to roughly **63–65%** from about **55%** pre-print.
+- **Equities:** S&P 500 **−0.38% to 7,718.60**; Nasdaq **−0.29% to 26,506.99**; Dow **−0.51% to 53,414.25**. Breadth was narrow — only technology, industrials and utilities finished green.
+- **Bonds:** 10Y to **4.79%**; 2Y to **4.37%**.
+- **FX:** DXY **99.10, +0.13%**.
+- **Commodities:** Spot gold **−2.2% to $4,376**; silver **−3% to $64.92**.
+- **Volatility:** VIX **14.53, +1.47%** — near the low end of its month-long 13.80–18.43 range.
+- **Rates pricing:** September hike odds to roughly **60–65%** from **48.4%** the prior day.
 
-**Follow-Through:** Held into the close; the equity decline was orderly rather than a de-risking event.
+**Follow-Through:** Held into the close; an orderly repricing rather than a de-risking event.
 
-**Pattern Comparison:** **Consistent** with the "good news is bad news" template that governs a market where the next Fed move is a hike. Magnitude was dampened on the equity side — a 109k beat historically deserves more than a 0.38% index decline.
+**Pattern Comparison:** **Consistent** with the "good news is bad news" template that now governs a market whose next Fed move is a hike — but **dampened** on equities. A 109k beat historically deserves more than a 0.38% index decline.
 
 #### Impact Assessment Detail
 **Price Impact:** Major — decisive moves in rates, dollar and metals; equity move moderate.
@@ -78,135 +78,144 @@ Nonfarm payrolls rose **162,000** in August against a consensus near **53,000**,
 **Calculated Score:** (7 × 3.0) × 1.25 = **26.3**
 
 #### Sector-Specific Impacts
-Rate-sensitive sectors — housing, utilities, small caps — carry the burden of a 4.78% 10-year. Financials get a steeper curve and better net interest income, offset Friday by the broad tape. Leisure and hospitality's 62,000 gain is a genuine services-demand signal against a fuel-cost headwind.
+Rate-sensitive sectors — housing, utilities, small caps — bear a 4.79% ten-year. Financials gain from a steeper curve. The **ADP/BLS divergence (38k versus 162k)** is the week's most important unresolved question: the two surveys have not disagreed this sharply in months, and the Fed will act on the BLS number.
 
-### 3. Broadcom Q3 FY2026: AI Triples, Margins Slip (Impact Score: 13.1)
+### 3. Broadcom Q3 FY2026: AI Triples, the Guide Misses (Impact Score: 13.1)
 
 **Event Date:** Sep 2, 2026, after the close
 **Event Type:** Earnings
 **News Source:** Broadcom IR (official), CNBC (Tier 1)
 
 #### Event Summary
-Revenue rose **86% to $29.6 billion** with adjusted EPS of **$3.32**, both above consensus, as AI semiconductor revenue **tripled to $16.7 billion, +221% YoY** — a 14th consecutive quarter of AI-centric growth. CEO Hock Tan guided Q4 AI revenue to **$21.7 billion, +236% YoY**. The problem was everything else: total Q4 revenue guidance of **$34.8 billion** landed below the roughly **$35.03–35.05 billion** consensus on soft software, and gross margin fell **210bp sequentially** with Q4 guided to **73%** versus 78% a year earlier.
+Revenue rose **86% to a record $29.59 billion** against $29.36bn consensus, with adjusted EPS of **$3.32** versus $3.24, as **AI semiconductor revenue tripled to $16.7 billion, +221% YoY**. Operating margin hit a record **67.9%**. CEO Hock Tan guided Q4 AI revenue to **$21.7 billion, +236%**, and laid out a multi-year path of **$58bn (FY2026) → $115bn (2027) → $230bn (2028)**, naming Anthropic and OpenAI among demand drivers. The problem was the rest: **Q4 total revenue guidance of ~$34.8 billion missed the ~$35.03 billion consensus** on soft software, with Q4 gross margin guided to **73%** against 78% a year earlier.
 
 #### Market Reaction
 
-**Immediate (Day-of):** AVGO **−6%** on Sep 3 despite the beat. NVIDIA edged higher and AMD slipped — the read-across was selective rather than sector-wide.
+**Immediate:** AVGO fell in extended trading and again on Sep 3 despite the beat — a decline of roughly 3–6% depending on the window measured. NVIDIA rose the same session and AMD slipped; the read-across was selective rather than sector-wide.
 
-**Follow-Through:** Contained. The Nasdaq rose about 1.2% on Sep 3 as Waller's remarks overwhelmed the semiconductor story.
+**Follow-Through:** Contained. The Nasdaq rose 1.4% on Sep 3 as Waller's remarks overwhelmed the semiconductor story.
 
-**Pattern Comparison:** **Consistent** with the late-cycle AI earnings template now well established: hyperscale demand is not in question, but revenue mix shifting toward lower-margin custom accelerators means each incremental AI dollar earns less. A 221% growth rate is no longer sufficient when the guide misses by $250 million.
+**Pattern Comparison:** **Consistent** with the late-cycle AI earnings template: hyperscale demand is not in question, but a mix shift toward lower-margin custom accelerators means each incremental AI dollar earns less. A 221% growth rate is no longer sufficient when the total guide misses by $250 million.
 
 #### Impact Assessment Detail
-**Price Impact:** Major — a 6% single-day decline in a trillion-dollar-scale semiconductor name.
+**Price Impact:** Major — a mid-single-digit decline in a trillion-dollar-scale semiconductor name.
 **Breadth:** Sector-Wide — semis and the AI supply chain, with contagion notably absent.
 **Forward Significance:** Trend Confirmation (+25%) — AI capex is intact; the margin trajectory is the new variable.
 **Calculated Score:** (7 × 1.5) × 1.25 = **13.1**
 
 #### Sector-Specific Impacts
-Custom-ASIC and networking suppliers inherit the margin question directly. That NVIDIA rose on the same session argues the market reads this as a Broadcom mix issue rather than an AI demand issue — a distinction worth watching, since it is the same distinction that failed to hold in prior semiconductor drawdowns.
+Custom-ASIC and networking suppliers inherit the margin question. **Ciena corroborated the demand side the next day** — revenue +37% YoY, FY26 guidance raised to +35%, with management citing "compounding waves of network investment." That NVIDIA rose while Broadcom fell argues the market reads this as a Broadcom mix issue, not an AI demand issue.
 
-### 4. Waller and Williams Push Back on a September Hike (Impact Score: 10.5)
+### 4. Lululemon's Tariff-Driven Guidance Slash (Impact Score: 12.5)
 
-**Event Date:** Sep 3, 2026
-**Event Type:** Monetary Policy
-**News Source:** CNBC, Bloomberg (Tier 1)
+**Event Date:** Sep 3, 2026, after the close
+**Event Type:** Earnings / Trade Policy
+**News Source:** CNBC, Yahoo Finance (Tier 1)
 
 #### Event Summary
-Governor Christopher Waller said he is leaning toward keeping rates unchanged at the September 15–16 meeting, with New York Fed President John Williams adding dovish commentary. Coming six days after Chair Warsh's hawkish Jackson Hole debut, the remarks established that the Committee is genuinely split heading into the meeting rather than converging on a hike.
+Q2 revenue fell **4% to $2.42 billion**, missing $2.46bn consensus, with **global comparable sales down about 10%** and leggings sales **down 20%**. Headline adjusted EPS of $2.92 beat the $1.82 consensus only because it included **$0.86 per share of tariff refunds and interest** — ex-refund EPS was roughly **$2.06**. Management cut FY revenue guidance to **$10.35–10.50 billion from $11.0–11.15 billion** and EPS to **$9.48–9.73 from $10.95–11.15**, assuming tariffs of **10–12.5% through September then 20% for the remainder of the year**. The company has paid roughly **$230 million in IEEPA tariffs** and recovered **$135 million**, with the remaining **$105 million excluded from guidance** on recovery uncertainty.
 
 #### Market Reaction
 
-**Immediate (Day-of):** Treasury yields fell across the curve from the 20-month high set earlier in the week. The S&P 500 rose roughly **1.2%** to about **7,748**, its best session of the week. Gold rose as much as **3%** intraday, settling **+2.16% at $4,480**, with silver **+2.44% to $66.37**. The dollar weakened.
+**Immediate:** LULU fell about **20% premarket** and closed Sep 4 near **$100.13, −17.8%** — the week's largest single-name move. No apparel contagion: American Eagle rose sharply on the same day.
 
-**Follow-Through:** **Reversed within 24 hours** by the payrolls print — the cleanest illustration of the week that rate expectations, not earnings, are setting the tape.
+**Follow-Through:** Contained to the name.
 
-**Pattern Comparison:** **Amplified.** Routine Fedspeak rarely moves the S&P more than 1%; it did here because positioning had crowded into the hawkish side after Jackson Hole, leaving the market short-gamma to any dovish surprise.
+**Pattern Comparison:** **Amplified** versus the standard guidance-cut template, because two negatives compounded — genuine core-category demand deterioration plus a tariff cost structure management could not underwrite.
 
 #### Impact Assessment Detail
-**Price Impact:** Major — a 1.2% index session plus a 3% intraday gold move.
+**Price Impact:** Severe — a 17.8% single-day decline is well past the ±10% threshold.
+**Breadth:** Stock-Specific — no sector transmission, evidenced by American Eagle's gain.
+**Forward Significance:** Trend Confirmation (+25%) — it confirms tariff pass-through reaching consumer margins.
+**Calculated Score:** (10 × 1.0) × 1.25 = **12.5**
+
+#### Sector-Specific Impacts
+The signal that travels is the **accounting treatment of IEEPA refunds**. Post-Supreme-Court refund receipts are flattering headline EPS across import-heavy retail while the underlying cost structure resets higher — and Lululemon's decision to exclude $105 million of unrecovered tariffs from guidance is a template other retailers will face into Q3 reporting.
+
+### 5. Waller Signals a Hold and Hike Odds Collapse (Impact Score: 10.5)
+
+**Event Date:** Sep 3, 2026
+**Event Type:** Monetary Policy
+**News Source:** Federal Reserve (official speech text), CNBC (Tier 1)
+
+#### Event Summary
+Governor Christopher Waller said that if incoming data hold, "**I would be inclined to support holding the target for the federal funds rate at its current setting**," citing "slow but continued progress" toward 2% and telling markets to "**give disinflation a chance**." He made it conditional on the **Sep 11 August CPI**. New York Fed President John Williams added that inflation expectations "remain well anchored." Coming six days after Chair Warsh's hawkish Jackson Hole debut, the remarks established a genuinely split Committee heading into Sep 15–16.
+
+#### Market Reaction
+
+**Immediate (Day-of):** September hike odds fell roughly **15 points to 48.4%**. The 10Y dropped to **4.772%**. The **Dow rose 624 points, +1.18%** — its best session in a month — with the S&P **+1.06%** and Nasdaq **+1.4%**. Gold rose as much as 3% intraday and silver nearly 4%. The dollar weakened.
+
+**Follow-Through:** **Reversed within 24 hours** by payrolls — the cleanest illustration of the week that rate expectations, not earnings, set the tape.
+
+**Pattern Comparison:** **Amplified.** Routine Fedspeak rarely moves the Dow 1.18%; it did here because positioning had crowded onto the hawkish side after Jackson Hole, leaving the market exposed to any dovish surprise.
+
+#### Impact Assessment Detail
+**Price Impact:** Major — a 1.06–1.18% index session plus a 3% intraday gold move.
 **Breadth:** Cross-Asset — equities, rates, metals, FX.
 **Forward Significance:** Contrary Signal (−25%) — it cut against the prevailing hawkish narrative and was faded the next day.
 **Calculated Score:** (7 × 2.0) × 0.75 = **10.5**
 
 #### Sector-Specific Impacts
-Long-duration growth and precious-metals equities were the day's leadership — the mirror image of Friday's rotation, and evidence that a single factor is driving both directions.
-
-### 5. ISM Surveys Firm as the Long End Sells Off (Impact Score: 10.0)
-
-**Event Date:** Sep 1–3, 2026
-**Event Type:** Economic Data
-**News Source:** ISM (official), Tier 1 wires
-
-#### Event Summary
-ISM Manufacturing registered **54.6** in August, down 1.0 point from July's 55.6 but an eighth consecutive month of expansion, with New Orders at **53.7** (from 56.7) and Production essentially flat at **58.3**. ISM Services accelerated to **55.4** from 54.1 — a 26th straight expansionary month — with Business Activity up 2.6 points to **61.7** and New Orders up 3.7 points to **60.9**. Together they describe an economy with no slack forming, which is the precondition for a hike.
-
-#### Market Reaction
-
-**Immediate:** The long end took the message. The 10Y rose **8bp to 4.804%**, a 20-month high; the 30Y rose **13bp to 5.28%**; the 2Y rose 6bp to **4.40%**. Equities fell roughly 1% across Monday and Tuesday.
-
-**Follow-Through:** Partially reversed by Waller on Thursday, then re-established Friday.
-
-**Pattern Comparison:** **Amplified** at the long end. The 30Y outpacing the 2Y is a term-premium move, not a policy-path move — consistent with fuel-driven inflation and heavier issuance rather than with a hike being priced.
-
-#### Impact Assessment Detail
-**Price Impact:** Moderate — a 13bp move in the 30Y sits at the boundary of major.
-**Breadth:** Cross-Asset — rates and equities.
-**Forward Significance:** Trend Confirmation (+25%).
-**Calculated Score:** (4 × 2.0) × 1.25 = **10.0**
+Long-duration growth and precious-metals equities led — the mirror image of Friday's rotation, and evidence that a single factor is driving both directions.
 
 ## Thematic Synthesis
 
 ### Dominant Market Narrative
-Two independent inflation impulses converged: a war premium in energy that lifts headline inflation through the fuel channel, and a labour market that refuses to slow. Both point the Fed the same way, and the market spent the week arguing about whether the Committee will act on it. Equities finished roughly flat — which is itself the story.
+Two independent inflation impulses converged — a war premium in energy and a labour market that refuses to slow — and both point the Fed the same way into a Sep 15–16 meeting that carries a fresh dot plot, with fed funds at **3.50–3.75%** after a 9–3 hold in July. The market spent the week arguing about whether the Committee acts. Equities finished flat, which is itself the story.
 
 ### Interconnected Events
-Events 1, 2 and 5 are **reinforcing**: record diesel prices, a 162k payroll print and expanding ISM surveys all strengthen the hike case, which is why the 10-year reached a 20-month high mid-week. Event 4 is **offsetting** and lost — Waller's pushback bought a one-day rally that payrolls erased. Event 3 is largely **independent**, and its containment is informative: an AI bellwether fell 6% without dragging the complex down, because rates were the dominant factor all week.
+Events 1, 2 and the ISM surveys are **reinforcing**: record diesel, a 162k payroll print and firm activity data all strengthen the hike case. Event 5 is **offsetting** and lost — Waller bought a one-day rally that payrolls erased. Events 3 and 4 are **independent**, and their containment is the tell: an AI bellwether and a well-known consumer name fell hard in the same week without dragging their sectors down, because rates dominated everything.
+
+**The week's most underweighted datapoint** is the ISM pair. Manufacturing held at **54.6** (eighth month of expansion) while **Services accelerated to 55.4** on Business Activity of 61.7 and New Orders of 60.9 — but with **Services employment at 47.8, a second consecutive contraction, and Prices Paid at 72.6, a multi-year high** on tariff and energy costs. Booming demand, shrinking services employment and prices at multi-year highs is a textbook stagflationary signature, and it is why the long end sold off before payrolls even arrived.
 
 ### Market Regime Assessment
 **Risk Appetite:** Mixed
-**Evidence:** Technology, industrials and utilities held weekly gains and the VIX sat near 14.5, yet the 30-year yield reached 5.28%, oil rose 6–8%, diesel hit records and the Dow fell. The tape is not risk-off; it is rate-constrained, absorbing a war escalation and a hawkish data surprise with a 0.1% weekly index gain.
-**Sector Rotation:** Technology led on the week with industrials and utilities holding gains. Friday inverted Thursday's leadership almost exactly — a market rotating on one factor, the rate path, rather than on fundamentals.
+**Evidence:** Technology, industrials and utilities held gains and the VIX closed at 14.53, yet the 30Y reached 5.28% intraweek, WTI rose 9.7%, diesel hit records and the Dow fell. The tape is not risk-off; it is rate-constrained, absorbing a war escalation, a hawkish data surprise and two double-digit single-name blowups with a 0.1% weekly index gain.
+**Sector Rotation:** Technology led the week; Friday inverted Thursday's leadership almost exactly. A market rotating on one factor — the rate path — rather than on fundamentals.
 
 ### Commodity Deep Dive
-- **Energy:** WTI ~**$92 (+8.3% wk)**, Brent ~**$95–97 (+6.1% wk)** — the biggest weekly gain since July. Drivers are transit risk and the Hormuz chokepoint, not production loss. US diesel at record highs is the most economically consequential print of the week, and OPEC+ met Sep 6 with a rollover of October quotas widely expected after completing its 1.65m bpd cut rollback with a 188,000 bpd September increase.
-- **Precious Metals:** A volatile round trip — sharply lower Tuesday on the hawkish repricing, **+2.16% to $4,480** Thursday on Waller, **−1.14% to ~$4,429** Friday on payrolls, closing out a modest weekly gain. Silver tracked it to about **$66.17**. Gold is trading the Fed path, not the war.
-- **Base Metals:** No confirmed copper print for the week; the industrial-demand signal from ISM was constructive but not corroborated in metals pricing.
-- **Agricultural:** Record diesel prices are a direct input-cost shock to planting, harvest and freight — the transmission channel to watch into Q4.
+- **Energy:** WTI **$91.48 (+9.7% wk)**, Brent ~**$95 (~+7%)** — the strongest week since mid-July. Drivers are transit risk and the Hormuz chokepoint, not production loss. **US diesel at an all-time record** is the most economically consequential print of the week.
+- **Precious Metals:** **Gold fell for a second consecutive week**, dropping **2.2% to $4,376** Friday on payrolls after a Waller-driven +2.2% Thursday — down from above **$4,600** in late August. Silver fell **3% to $64.92** Friday, roughly −4% to −6% on the week. Gold is trading the Fed path, not the war, and remains far below its **$5,597 record set January 29, 2026**.
+- **Base Metals:** Copper **$6.60/lb**, +0.30% on Friday and **+47.6% year-on-year**, supported by Chilean output falling 9.4% in July. No reliable weekly change.
+- **Agricultural:** Record diesel is a direct input-cost shock to planting, harvest and freight — the Q4 transmission channel to watch.
 
 ### Anomalies and Surprises
-Three worth flagging. **Gold fell on a week of war escalation** — safe-haven demand was overwhelmed by real rates, an inversion of the classic geopolitical correlation. **Equities gained on the week** despite an 8% oil move and a 109k payroll surprise, with the VIX near 14.5 in the seventh month of a shooting war. And **Broadcom's 6% decline did not become a semiconductor event**, with NVIDIA rising the same session — a degree of dispersion inside the AI complex that has not been present in prior AI-driven drawdowns.
+Four worth flagging. **Gold fell during a week of war escalation** — safe-haven demand overwhelmed by real rates, inverting the classic geopolitical correlation. **Equities gained** despite a 9.7% oil move and a 109k payroll surprise, with the VIX at 14.53. **ADP said +38k while BLS said +162k** — a divergence that cannot both be right. And **two severe single-name declines produced zero sector contagion**: NVIDIA rose as Broadcom fell, American Eagle rose as Lululemon fell 17.8%. Dispersion this high inside a flat index is characteristic of a market pricing macro, not micro.
+
+### Global Policy Context
+Three major central banks meet within days of the Fed, all leaning tighter. The **ECB (Sep 10)** faces eurozone flash HICP at **3.3% y/y** for August, a 2026 high driven by energy at +14.3%, with a hike now the base case. The **BOJ (Sep 17–18)** is heavily priced for a 25bp move after **Governor Ueda signalled on Sep 2** he would decide "with upside price risks in mind"; **the yen gained about 2.5% to 155.72**, its strongest week since late July, after Japanese benchmark borrowing costs hit a 30-year high. The **BOE (Sep 17)** is expected to hold. Simultaneous global tightening into an energy shock is the macro risk the equity tape is not pricing.
 
 ## Forward-Looking Implications
 
 ### Market Positioning Insights
-A VIX near 14.5 alongside a 5.28% 30-year yield, record diesel and a coin-flip FOMC is the week's central tension: volatility is priced for calm while the macro inputs are not. Equity index resilience is masking heavy factor concentration — Thursday and Friday were near-mirror images driven purely by the rate path. Positioning appears crowded on the hawkish side, which is precisely what made Waller's remarks worth 1.2% on the index.
+A VIX of 14.53 alongside a 5.2%-plus 30-year yield, record diesel, ISM prices paid at 72.6 and a coin-flip FOMC is the central tension: volatility is priced for calm while the macro inputs are not. Index resilience masks extreme factor concentration — Thursday and Friday were near-mirror images driven purely by the rate path. Positioning appears crowded on the hawkish side, which is precisely what made Waller's remarks worth 1.18% on the Dow.
 
 ### Upcoming Catalysts
-- **FOMC decision, Sep 15–16** — the first genuine hike-or-hold in this cycle, priced at roughly 63–65%
-- **August CPI, mid-September** — the fuel pass-through from record diesel is the swing variable
-- **OPEC+ outcome and October quotas** — met Sep 6, rollover expected
-- **US–Iran escalation path and Hormuz transit** — the dominant tail on both directions
+- **August CPI · Sep 11** — Waller made his hold explicitly conditional on it; the diesel pass-through is the swing variable
+- **FOMC decision and dot plot · Sep 15–16** — priced at roughly 60–65% for a hike
+- **ECB Sep 10, BOJ Sep 17–18, BOE Sep 17** — synchronised global tightening
+- **Canadian retaliatory tariffs effective Sep 8** — 15–50% on over 700 US goods covering ~$27.6bn
 
 ### Risk Scenarios
 1. **The Fed hikes and equities have not priced it.** Probability ~60%. Impact Major — a VIX near 14.5 leaves no cushion for a hawkish surprise plus dot-plot revisions.
-2. **Energy infrastructure, not military bases, is struck next.** Probability ~25%. Impact Severe — the Sep 3 strikes deliberately spared oil facilities; a Gulf export terminal or refinery hit against 9m bpd of already-impaired flow is a double-digit crude move.
-3. **Fuel-driven inflation forces a hawkish revision.** Probability ~35%. Impact Major — record diesel feeding August and September CPI would validate Warsh and extend the tightening path beyond one hike.
+2. **Energy infrastructure, not military bases, is struck next.** Probability ~25%. Impact Severe — the Sep 3 strikes deliberately spared oil facilities; a Gulf export terminal hit against already-impaired flow is a double-digit crude move.
+3. **August CPI runs hot and Waller flips.** Probability ~35%. Impact Major — he conditioned his hold on the Sep 11 print; record diesel and ISM prices paid at a multi-year high both argue against him.
+4. **The ADP/BLS divergence resolves toward ADP.** Probability ~30%. Impact Moderate — a downward revision after a September hike would be the worst sequencing available to the Fed.
 
 ## Data Sources & Methodology
 
 ### News Sources Consulted
-- **Official:** BLS (Employment Situation), Institute for Supply Management, Federal Reserve, Broadcom Investor Relations
-- **Tier 1 Financial News:** Reuters, Bloomberg, CNBC, Washington Post, Fox Business
-- **Specialized:** Critical Threats Project (Iran), Al Jazeera (Hormuz shipping data), USAGOLD, EnergyConnects, Trading Economics
+- **Official:** BLS (Employment Situation), Institute for Supply Management, Federal Reserve (Waller speech text), Eurostat, Broadcom Investor Relations, ADP
+- **Tier 1 Financial News:** Reuters, Bloomberg, CNBC, Washington Post, Fox Business, Yahoo Finance
+- **Specialized:** Critical Threats Project (Iran), Al Jazeera (Hormuz shipping data), USAGOLD, Mansfield Energy, Trading Economics
 
 ### Analysis Period
 - **Start Date:** 2026-08-31
 - **End Date:** 2026-09-06
-- **Total Days:** 7 (5 US trading sessions; Labor Day falls Sep 7, outside this window)
+- **Total Days:** 7 (5 US trading sessions; Labor Day falls Mon Sep 7, outside this window)
 
 ### Data Confidence
-Index closes are arithmetically self-consistent: the Aug 28 closes reconcile to the Sep 2 and Sep 4 prints and to the reported weekly changes within 0.05pp — high confidence. **Weekly crude percentages vary by source** (Brent +6.1% to ~8%, WTI +8.3% to ~10%); the Reuters figures are used here and the range is disclosed. **Gold and silver levels differ across spot, futures and proxy quotes** ($4,429–4,480 for gold on Sep 3–4) and are reported as a directional round trip rather than settles. The 10Y peak is variously described as a 20-month and a three-year high; the level of 4.804% is consistent across sources. September hike odds ranged 60.4–66.1% across CME FedWatch, Kalshi and Polymarket during the week. Copper and natural gas prints could not be retrieved. The OPEC+ Sep 6 outcome was not published at the time of writing.
+Daily index closes are arithmetically self-consistent: each session's reported percentage reconciles to the level series within 0.01pp, and the Aug 28 baseline ties to the weekly changes within 0.02pp — high confidence. Where sources conflict, ranges are disclosed rather than resolved silently. **Brent's weekly gain is reported variously at 6.6%, 7%, 7.6% and ~8%** depending on contract-roll basis; ~7% is used. **Gold's weekly change is genuinely disputed** — Reuters put it near −1% (a second straight weekly decline), a dealer series implies about −4%, and one wire headline argued for a modest gain; the direction is down and the magnitude is left as a range. Friday gold and silver levels differ across spot, futures and dealer quotes ($4,376–$4,432 for gold); Reuters spot is used. **Broadcom's post-earnings decline is reported between roughly 3% and 6%** across different measurement windows. The 10Y intraweek high is described both as a 20-month high and as the highest since November 2023. September hike odds ranged 48.4–66.1% across CME FedWatch, Kalshi and Polymarket during the week. **Not verified and therefore not stated:** DXY, EUR/USD and VIX weekly changes; copper and natural gas weekly changes; Nasdaq-100 weekly change; IG/HY spread levels; the actual OPEC+ Sep 6 outcome, which was not published at the time of writing.
 
 ### Knowledge Base References
 - `market_event_patterns.md`, `geopolitical_commodity_correlations.md`, `corporate_news_impact.md`, `trusted_news_sources.md`

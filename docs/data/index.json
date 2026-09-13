@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "site": "Weekly Market Brief",
-  "updated": "2026-09-13T18:30:00+07:00",
+  "updated": "2026-09-13T19:05:00+07:00",
   "reports": [
     {
       "id": "2026-09-13",
@@ -14,11 +14,11 @@
       "title": "Weekly Market News — 09/13/2026",
       "path": "reports/2026/weekly-market-news-09132026.md",
       "brief": {
-        "headline": "The week the inflation argument stopped being an argument. August CPI ran 0.4% m/m and 3.4% y/y with PPI at +5.4% y/y — diesel alone +24.1% m/m — while the US–Iran conflict became an outright tanker war and WTI settled at $100.05, its first weekly close above $100 since May. September 16 hike odds jumped from ~60% to 85–90%. Indices fell for four straight sessions before a CPI-day rally: S&P 500 7,656.98 (−0.8%), Nasdaq 26,333.03 (−0.7%), Dow 52,573.29 (−1.6%). The real stress sat in metals — copper −5.4%, silver −2.6%, and gold's third consecutive weekly loss during a naval war in the Persian Gulf.",
+        "headline": "A naval war repriced the global cost of energy and two central banks moved with it. WTI settled at $100.05 (+9.4% wk), its first close above $100 since May, as the US destroyed three Iranian tankers and Hormuz transits collapsed to 7 vessels from 18 — and US diesel broke $6.00/gal for the first time ever at $6.05, up ~63% y/y. That shock is already in the data: PPI +5.4% y/y with diesel +24.1% m/m, CPI +3.4%. The ECB hiked 25bp to 2.50% unanimously and Sep 16 Fed hike odds ran 62.4% → ~90%. Equities fell four straight sessions then rallied: S&P 500 7,656.98 (−0.8%), Nasdaq 26,333.04 (−0.7%), Dow 52,573.29 (−1.6%), Russell 2000 −2.4%, with the 30Y at 5.36%, its highest since 2007. The complication: core CPI at 2.4% y/y is the lowest since March 2021. This is an energy shock, not a broadening inflation.",
         "regime": {
           "tone": "mixed",
-          "label": "Hawkish tilt, stress in commodities not equities",
-          "evidence": "Four consecutive down sessions and the Dow's longest losing streak since April argue risk-off, yet the VIX closed 15.84, nine of eleven sectors rose Friday and the S&P gained 0.86% on a hot CPI — while the 30Y reached 5.36% and copper broke 5.4%"
+          "label": "Hawkish tilt; stress in commodities, small caps and the long end",
+          "evidence": "Four consecutive down sessions, the Dow's worst week since March and the Russell 2000 −2.4% argue risk-off, yet the VIX closed 15.84, nine of eleven sectors rose Friday and HY OAS held 2.84 — while the 30Y reached a 19-year high and diesel set a record"
         },
         "stats": [
           {
@@ -28,7 +28,7 @@
           },
           {
             "label": "Nasdaq",
-            "value": "26,333.03 (−0.7% wk)",
+            "value": "26,333.04 (−0.7% wk)",
             "dir": "down"
           },
           {
@@ -37,18 +37,18 @@
             "dir": "up"
           },
           {
-            "label": "10Y Treasury",
-            "value": "4.96% (+17bp wk)",
+            "label": "US diesel",
+            "value": "$6.05/gal (record)",
             "dir": "up"
           },
           {
-            "label": "Copper",
-            "value": "$6.5160/lb (−5.4%)",
-            "dir": "down"
+            "label": "30Y Treasury",
+            "value": "5.36% (since 2007)",
+            "dir": "up"
           },
           {
             "label": "Sept hike odds",
-            "value": "~60% → 85–90%",
+            "value": "62.4% → ~90%",
             "dir": "up"
           }
         ],
@@ -58,47 +58,47 @@
             "title": "US–Iran Tanker War and WTI's Return Above $100",
             "score": 37.5,
             "assets": "Energy·Inflation·Rates·Eq",
-            "reaction": "WTI +9.4% to $100.05, first weekly close above $100 since May; Brent $104.61 (~+9%)",
-            "detail": "The seven-month conflict shifted to sea: the US struck three Iranian oil tankers, Iran hit tankers and fired a ballistic missile toward US warships near Hormuz, and UKMTO reported four projectiles striking two vessels off Khasab, Oman on Sep 11. The distinction that held all summer — military targets, not energy infrastructure — has eroded, because the targets are now the barrels."
+            "reaction": "WTI +9.4% to $100.05; Brent +8.7% to $104.61; diesel $6.05/gal, a record",
+            "detail": "The US destroyed three Iranian tankers overnight on Sep 9; Iran struck vessels near Hormuz and fired a ballistic missile toward US warships, and transits collapsed to 7 vessels Thursday from 18 Tuesday. The distinction that held all summer — military targets, not energy infrastructure — has collapsed, because the tankers now are the targets."
           },
           {
             "rank": 2,
-            "title": "August CPI and PPI Lock In a September Hike",
+            "title": "August CPI and PPI Make September 16 a Live Hike",
             "score": 31.5,
             "assets": "Rates·FX·Eq·Metals",
-            "reaction": "Hike odds to 85–90%; 10Y 4.96% (+17bp); yet stocks rallied +0.86% and the VIX fell 11.2%",
-            "detail": "CPI rose 0.4% m/m and 3.4% y/y with core at 0.3%/2.4%, a day after PPI printed +0.4% m/m and +5.4% y/y with final-demand energy +4.2% and diesel +24.1% m/m. Gasoline at +27.4% y/y did the heavy lifting, leaving the Fed set to tighten into a supply shock it cannot tighten away."
+            "reaction": "Hike odds 62.4% → ~90%; 30Y 5.36%, highest since 2007; yet stocks rallied and the VIX fell 11.2%",
+            "detail": "CPI rose 0.4% m/m and 3.4% y/y in line, with core 0.3% m/m hotter than expected but core y/y falling to 2.4%, the lowest since March 2021. PPI ran +5.4% y/y, over three-quarters of it energy, with diesel +24.1% m/m — leaving the Fed set to tighten into a supply shock while core inflation is still falling."
           },
           {
             "rank": 3,
-            "title": "Rate Repricing Routs the Metals Complex",
-            "score": 25.0,
+            "title": "Metals Reverse Off Records",
+            "score": 20.0,
             "assets": "Base Metals·Precious·Miners",
-            "reaction": "Comex copper fell as much as 5.4% to $6.5160/lb; silver −2.6% to $64.90; gold's third straight weekly loss",
-            "detail": "The metals took the hit equities refused, and the mining-equity rally stopped abruptly. Gold falling for a third consecutive week during an escalating naval war in the Persian Gulf is the week's cleanest correlation breakdown — the real-rate channel is now overwhelming the geopolitical bid."
+            "reaction": "Copper reversed off a record high; silver and gold lower; the mining-equity rally halted",
+            "detail": "Copper fell off a record on reports the US is reconsidering tariffs on refined copper products — a policy event, not a demand signal. Only gold's third consecutive weekly loss during an escalating naval war belongs to the real-rate story, and that correlation breakdown is the one worth watching."
           },
           {
             "rank": 4,
-            "title": "Oracle FQ1: RPO $664bn, Up $209bn Year Over Year",
+            "title": "Oracle and Adobe Report the Same Night, Opposite Verdicts",
             "score": 13.1,
             "assets": "Software·AI Complex·Eq",
-            "reaction": "ORCL +7.2%; CoreWeave and Nebius each about +4%",
-            "detail": "Revenue of $19.35bn (+30% y/y) and adjusted EPS of $1.92 both beat, with cloud infrastructure up 93% to $5.8bn, more than $30bn of new AI cloud contracts booked and over 300,000 GPUs delivered. The same print moved the stock 36% a year ago — an identical backlog surprise now buys 7%."
+            "reaction": "ORCL +7% after hours; ADBE −2.3% to $243.08 despite a beat and a raise",
+            "detail": "Oracle posted revenue of $19.35bn (+30%), cloud infrastructure of $7.4bn (+121%) and RPO of $664bn, up $209bn y/y — yet the same print moved the stock 36% a year ago. Adobe beat, raised guidance and announced a CEO transition, and fell anyway: the market is paying for sold AI capacity and discounting monetized AI software."
           },
           {
             "rank": 5,
-            "title": "Adobe FQ3: Record Revenue, Shares Fall Anyway",
-            "score": 7.5,
-            "assets": "Software·Eq",
-            "reaction": "ADBE −2.3% in session and a further −2.1% after hours to $243.50",
-            "detail": "Adobe beat with record quarterly revenue of $6.76bn (+13% y/y) and AI-first ARR more than tripling past $500m, but a cautious near-term outlook sank the stock. Against Oracle the same night, the market paid +7.2% for sold AI capacity and −4.4% for monetized AI software."
+            "title": "The ECB Hikes to 2.50%, Unanimously",
+            "score": 12.0,
+            "assets": "EU Rates·FX·Global Policy",
+            "reaction": "Expected, so modest on the day — but markets moved to price further hikes",
+            "detail": "The ECB raised the deposit rate 25bp to 2.50% in a unanimous vote, its second hike since the Iran war began, with Lagarde calling it 'a no brainer' and 'robust against all three scenarios.' The signal is synchronization: the ECB has hiked twice, the Fed is ~90% priced, and the BoJ is expected to move Friday."
           }
         ],
         "catalysts": [
           "FOMC decision, dot plot and Warsh presser · Wed Sep 16",
-          "Bank of Japan · Thu Sep 17, ~62% priced for 25bp",
-          "Quadruple witching · Fri Sep 18, record-size expiry",
-          "US retail sales and import/export prices · Sep 15–16"
+          "US August retail sales · Wed Sep 16",
+          "Bank of England · Thu Sep 17, consensus hold at 3.75%",
+          "BoJ hike into record quad witching · Fri Sep 18"
         ],
         "risks": [
           {
@@ -112,9 +112,9 @@
             "impact": "Severe"
           },
           {
-            "label": "Copper is signaling growth, not rates",
-            "prob": "30%",
-            "impact": "Major"
+            "label": "BoJ hikes into a record quad witching",
+            "prob": "35%",
+            "impact": "Moderate to Major"
           }
         ]
       }

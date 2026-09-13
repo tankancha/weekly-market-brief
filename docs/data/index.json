@@ -1,8 +1,124 @@
 {
   "schema": 1,
   "site": "Weekly Market Brief",
-  "updated": "2026-09-06T19:05:00+07:00",
+  "updated": "2026-09-13T18:30:00+07:00",
   "reports": [
+    {
+      "id": "2026-09-13",
+      "generated": "2026-09-13",
+      "coverageStart": "2026-09-07",
+      "coverageEnd": "2026-09-13",
+      "weekOfLabel": "Week of Sep 7–13, 2026",
+      "year": 2026,
+      "month": 9,
+      "title": "Weekly Market News — 09/13/2026",
+      "path": "reports/2026/weekly-market-news-09132026.md",
+      "brief": {
+        "headline": "The week the inflation argument stopped being an argument. August CPI ran 0.4% m/m and 3.4% y/y with PPI at +5.4% y/y — diesel alone +24.1% m/m — while the US–Iran conflict became an outright tanker war and WTI settled at $100.05, its first weekly close above $100 since May. September 16 hike odds jumped from ~60% to 85–90%. Indices fell for four straight sessions before a CPI-day rally: S&P 500 7,656.98 (−0.8%), Nasdaq 26,333.03 (−0.7%), Dow 52,573.29 (−1.6%). The real stress sat in metals — copper −5.4%, silver −2.6%, and gold's third consecutive weekly loss during a naval war in the Persian Gulf.",
+        "regime": {
+          "tone": "mixed",
+          "label": "Hawkish tilt, stress in commodities not equities",
+          "evidence": "Four consecutive down sessions and the Dow's longest losing streak since April argue risk-off, yet the VIX closed 15.84, nine of eleven sectors rose Friday and the S&P gained 0.86% on a hot CPI — while the 30Y reached 5.36% and copper broke 5.4%"
+        },
+        "stats": [
+          {
+            "label": "S&P 500",
+            "value": "7,656.98 (−0.8% wk)",
+            "dir": "down"
+          },
+          {
+            "label": "Nasdaq",
+            "value": "26,333.03 (−0.7% wk)",
+            "dir": "down"
+          },
+          {
+            "label": "WTI",
+            "value": "$100.05 (+9.4% wk)",
+            "dir": "up"
+          },
+          {
+            "label": "10Y Treasury",
+            "value": "4.96% (+17bp wk)",
+            "dir": "up"
+          },
+          {
+            "label": "Copper",
+            "value": "$6.5160/lb (−5.4%)",
+            "dir": "down"
+          },
+          {
+            "label": "Sept hike odds",
+            "value": "~60% → 85–90%",
+            "dir": "up"
+          }
+        ],
+        "events": [
+          {
+            "rank": 1,
+            "title": "US–Iran Tanker War and WTI's Return Above $100",
+            "score": 37.5,
+            "assets": "Energy·Inflation·Rates·Eq",
+            "reaction": "WTI +9.4% to $100.05, first weekly close above $100 since May; Brent $104.61 (~+9%)",
+            "detail": "The seven-month conflict shifted to sea: the US struck three Iranian oil tankers, Iran hit tankers and fired a ballistic missile toward US warships near Hormuz, and UKMTO reported four projectiles striking two vessels off Khasab, Oman on Sep 11. The distinction that held all summer — military targets, not energy infrastructure — has eroded, because the targets are now the barrels."
+          },
+          {
+            "rank": 2,
+            "title": "August CPI and PPI Lock In a September Hike",
+            "score": 31.5,
+            "assets": "Rates·FX·Eq·Metals",
+            "reaction": "Hike odds to 85–90%; 10Y 4.96% (+17bp); yet stocks rallied +0.86% and the VIX fell 11.2%",
+            "detail": "CPI rose 0.4% m/m and 3.4% y/y with core at 0.3%/2.4%, a day after PPI printed +0.4% m/m and +5.4% y/y with final-demand energy +4.2% and diesel +24.1% m/m. Gasoline at +27.4% y/y did the heavy lifting, leaving the Fed set to tighten into a supply shock it cannot tighten away."
+          },
+          {
+            "rank": 3,
+            "title": "Rate Repricing Routs the Metals Complex",
+            "score": 25.0,
+            "assets": "Base Metals·Precious·Miners",
+            "reaction": "Comex copper fell as much as 5.4% to $6.5160/lb; silver −2.6% to $64.90; gold's third straight weekly loss",
+            "detail": "The metals took the hit equities refused, and the mining-equity rally stopped abruptly. Gold falling for a third consecutive week during an escalating naval war in the Persian Gulf is the week's cleanest correlation breakdown — the real-rate channel is now overwhelming the geopolitical bid."
+          },
+          {
+            "rank": 4,
+            "title": "Oracle FQ1: RPO $664bn, Up $209bn Year Over Year",
+            "score": 13.1,
+            "assets": "Software·AI Complex·Eq",
+            "reaction": "ORCL +7.2%; CoreWeave and Nebius each about +4%",
+            "detail": "Revenue of $19.35bn (+30% y/y) and adjusted EPS of $1.92 both beat, with cloud infrastructure up 93% to $5.8bn, more than $30bn of new AI cloud contracts booked and over 300,000 GPUs delivered. The same print moved the stock 36% a year ago — an identical backlog surprise now buys 7%."
+          },
+          {
+            "rank": 5,
+            "title": "Adobe FQ3: Record Revenue, Shares Fall Anyway",
+            "score": 7.5,
+            "assets": "Software·Eq",
+            "reaction": "ADBE −2.3% in session and a further −2.1% after hours to $243.50",
+            "detail": "Adobe beat with record quarterly revenue of $6.76bn (+13% y/y) and AI-first ARR more than tripling past $500m, but a cautious near-term outlook sank the stock. Against Oracle the same night, the market paid +7.2% for sold AI capacity and −4.4% for monetized AI software."
+          }
+        ],
+        "catalysts": [
+          "FOMC decision, dot plot and Warsh presser · Wed Sep 16",
+          "Bank of Japan · Thu Sep 17, ~62% priced for 25bp",
+          "Quadruple witching · Fri Sep 18, record-size expiry",
+          "US retail sales and import/export prices · Sep 15–16"
+        ],
+        "risks": [
+          {
+            "label": "Fed hikes and the dots shift higher",
+            "prob": "40%",
+            "impact": "Major"
+          },
+          {
+            "label": "A Gulf energy facility is struck",
+            "prob": "20%",
+            "impact": "Severe"
+          },
+          {
+            "label": "Copper is signaling growth, not rates",
+            "prob": "30%",
+            "impact": "Major"
+          }
+        ]
+      }
+    },
     {
       "id": "2026-09-06",
       "generated": "2026-09-06",

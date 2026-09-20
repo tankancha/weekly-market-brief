@@ -1,8 +1,124 @@
 {
   "schema": 1,
   "site": "Weekly Market Brief",
-  "updated": "2026-09-13T19:05:00+07:00",
+  "updated": "2026-09-20T19:05:00+07:00",
   "reports": [
+    {
+      "id": "2026-09-20",
+      "generated": "2026-09-20",
+      "coverageStart": "2026-09-14",
+      "coverageEnd": "2026-09-20",
+      "weekOfLabel": "Week of Sep 14–20, 2026",
+      "year": 2026,
+      "month": 9,
+      "title": "Weekly Market News — 09/20/2026",
+      "path": "reports/2026/weekly-market-news-09202026.md",
+      "brief": {
+        "headline": "The Warsh Fed stopped signalling and moved: a 25bp hike to 3.75%–4.00%, the first since 2023, 12-0 with no dissents — and a SEP that moved more than the rate, with the 2027 median up 50bp to 4.1% and 16 of 18 participants expecting another hike this year. The market paid for that credibility in breadth. The Dow fell 1.69% to 51,682.64 while the Nasdaq rose 0.72% to 26,522.55, leaving the S&P 500 at 7,650.50 — flat by arithmetic, not by health. The 10Y touched 5.041% Tuesday, its highest since 2007; the dollar had its best week since June (+1.1%); banks took the damage with KBE −2.6% Wednesday, its worst day since February. The energy shock went quiet — WTI settled $100.30, roughly flat, as the Saudi East–West pipeline outage proved less disruptive than feared. The tell is Friday: into a ~$7 trillion triple witching, the cap-weighted S&P gained +0.10% while the equal-weighted index fell −1.33%.",
+        "regime": {
+          "tone": "mixed",
+          "label": "Narrowing risk appetite; credibility bid in tech, damage everywhere else",
+          "evidence": "The VIX fell to 14.81 from 15.84 and the Nasdaq rose — yet the Dow lost 1.69%, the equal-weighted S&P fell 1.33% Friday, banks had their worst day since February and the 10Y hit a 19-year high; low volatility in a narrow market is fragility, not calm"
+        },
+        "stats": [
+          {
+            "label": "Dow",
+            "value": "51,682.64 (−1.69% wk)",
+            "dir": "down"
+          },
+          {
+            "label": "Nasdaq",
+            "value": "26,522.55 (+0.72% wk)",
+            "dir": "up"
+          },
+          {
+            "label": "S&P 500",
+            "value": "7,650.50 (−0.08% wk)",
+            "dir": "flat"
+          },
+          {
+            "label": "Fed funds",
+            "value": "3.75–4.00% (+25bp)",
+            "dir": "up"
+          },
+          {
+            "label": "10Y Treasury",
+            "value": "5.01% (5.041% high, since 2007)",
+            "dir": "up"
+          },
+          {
+            "label": "WTI",
+            "value": "$100.30 (~flat wk)",
+            "dir": "flat"
+          }
+        ],
+        "events": [
+          {
+            "rank": 1,
+            "title": "The Fed Hikes, and the Dots Move More Than the Rate",
+            "score": 31.5,
+            "assets": "Rates·FX·Eq·Financials",
+            "reaction": "Dow −631pts (−1.21%); KBE −2.6%, worst since February; 10Y back to ~5%; DXY +1.1% on the week",
+            "detail": "The FOMC raised the target range 25bp to 3.75%–4.00%, its first hike since 2023, on a 12-0 vote, with the 2027 median dot up 50bp to 4.1% and 16 of 18 participants expecting another hike this year. Warsh — who submitted no dot — said inflation \"continues to be sticky\" in the shortest post-meeting press conference on record, roughly 30 minutes."
+          },
+          {
+            "rank": 2,
+            "title": "Frontier-AI Slowdown Call and a 5.9% Day in Semis",
+            "score": 18.8,
+            "assets": "Semis·Global Eq",
+            "reaction": "PHLX Semiconductor Index −5.9% in one session; NVDA −3.4%; MU −5%; fully reversed by Friday",
+            "detail": "Dario Amodei's essay calling for an industry-wide slowdown in frontier AI development was publicly echoed by Altman and Musk over the weekend, and Monday was the market's first chance to price it. A −5.9% SOX session on a narrative with no revenue attached — round-tripped by Friday — says positioning, not fundamentals."
+          },
+          {
+            "rank": 3,
+            "title": "The BoJ Hikes to a 31-Year High and the Yen Falls",
+            "score": 12.0,
+            "assets": "FX·JGBs·Japan Eq·Carry",
+            "reaction": "Yen weakened past 157/USD; 10Y JGB yield slipped; Nikkei +1.5% to ~65,350",
+            "detail": "The BoJ raised its policy rate 25bp to 1.25%, the highest since 1995, on a 7–2 vote and only three months after the prior hike. The split vote and Ueda's refusal to commit to further tightening were read as dovish, so the carry trade was rebuilt rather than unwound — defusing last week's quad-witching tail risk by guidance, not by decision."
+          },
+          {
+            "rank": 4,
+            "title": "Strong Data Pushes the 10Y to a 19-Year High",
+            "score": 10.0,
+            "assets": "Rates·Eq·FX",
+            "reaction": "10Y at 5.041% Tuesday, highest since 2007; Dow −328pts; bond proxies hit, then the curve bull-flattened Thursday",
+            "detail": "August retail sales rose 1.2% m/m to $773.9bn against 0.8% consensus, with the control group +1.4% and real sales +0.8% — not merely the gasoline effect. Initial claims then printed 196,000 versus 208,000 expected, with continuing claims at their lowest since January 2024."
+          },
+          {
+            "rank": 5,
+            "title": "A $7 Trillion Expiry Exposes the Breadth Problem",
+            "score": 7.5,
+            "assets": "Eq·Derivatives",
+            "reaction": "Cap-weighted S&P +0.10% versus equal-weighted −1.33% — a 1.43-point dispersion in one session",
+            "detail": "Roughly $7 trillion of US options notional expired, about a quarter of the market and the second-largest triple witching on record. Semis led the gainers while Meta −2.4% and Oracle −2% were sold specifically on debt-issuance-for-capex concerns — the market starting to price the balance sheet, not just the backlog."
+          }
+        ],
+        "catalysts": [
+          "Trump–Xi summit, Washington · Wed Sep 23 – Fri Sep 25",
+          "S&P Global flash PMIs, US/eurozone/UK · Wed Sep 23",
+          "Micron Q4 FY26 · Wed Sep 30",
+          "FOMC, non-SEP meeting · Wed Oct 28"
+        ],
+        "risks": [
+          {
+            "label": "A second hike on Oct 28 with no dot plot to cushion it",
+            "prob": "55%",
+            "impact": "Major"
+          },
+          {
+            "label": "The breadth divergence resolves downward",
+            "prob": "35%",
+            "impact": "Major"
+          },
+          {
+            "label": "Trump–Xi disappoints and the 7.5% tariff report lands",
+            "prob": "25%",
+            "impact": "Major"
+          }
+        ]
+      }
+    },
     {
       "id": "2026-09-13",
       "generated": "2026-09-13",

@@ -2,15 +2,15 @@
 
 ## Executive Summary
 
-Sep 21–25 was the week the **bond market**, not the Fed, did the tightening. **S&P Global's flash PMIs on Sep 23 came in at a 62-month high (composite 58.4), with manufacturing at 57.0 against 53.6 expected and input-cost inflation the hottest since October 2022** — and the long end broke. The **30Y hit its highest since June 2004** and the **10Y reached 5.223%, a level unseen since June 2007**, with October hike odds climbing to **~64%** from 57.6% a week earlier. Equities absorbed it anyway, for two reasons: **Meta rose 11% on Monday and 36% on the month** on its Muse AI launch, and **WTI collapsed 7.9% to $92.41** as Iran offered to reopen the Strait of Hormuz. The result was another lopsided tape — **Nasdaq 27,068.72 (+2.06%)**, **S&P 500 7,743.41 (+1.21%)**, **Dow 51,828.62 (+0.28%)**, the Dow snapping a three-week losing streak — with the **VIX at 14.87, unchanged on the week**. Two tells: the WTI–Brent spread blew out to **−$11.91** as Brent held above $104, and **gold fell more than 2% while silver fell ~4%** in the middle of a shooting war. Trump rejected Iran's Hormuz proposal on Saturday.
+Sep 21–25 was the week the **bond market**, not the Fed, did the tightening. **S&P Global's flash PMIs on Sep 23 came in at a 62-month high (composite 58.4), with manufacturing at 57.0 against 53.6 expected and input-cost inflation the hottest since October 2022** — and the long end broke. The **30Y hit its highest since June 2004** and the **10Y reached 5.223%, a level unseen since June 2007**, with **October hike odds reaching 75.8% on CME FedWatch by Friday** — a jump from 53% on Wednesday to 77.5% on Thursday. Equities absorbed it anyway, for two reasons: **a broad AI-chip melt-up on Monday took the Nasdaq to a record close** — Meta +11% on its Muse launch, Arm +17.2%, Intel +12.1%, AMD +10% through a $1trn market cap for the first time — and **WTI collapsed 7.9% to $92.41** as Iran offered to reopen the Strait of Hormuz. The result was another lopsided tape — **Nasdaq 27,068.72 (+2.06%)**, **S&P 500 7,743.41 (+1.21%)**, **Dow 51,828.62 (+0.28%)**, the Dow snapping a three-week losing streak — with the **VIX at 14.87, unchanged on the week**. Three tells: the **Russell 2000 fell ~0.8% on the week** while the Nasdaq gained 2%, the WTI–Brent spread blew out to **−$11.91** as Brent held above $104, and **gold fell more than 2% with silver down 3–4%** in the middle of a shooting war. Trump rejected Iran's Hormuz proposal on Saturday.
 
 ## Market Impact Rankings
 
 | Rank | Event | Date | Impact Score | Asset Classes Affected | Market Reaction |
 |------|-------|------|--------------|------------------------|-----------------|
-| 1 | Flash PMIs blow out; 10Y to 5.223% and 30Y to a 22-year high | Sep 23–25 | 31.5 | Rates, FX, Equities, Metals | 10Y +~17bp wk; 30Y highest since 2004; DXY 8-week high; Oct hike odds 43%→64% |
+| 1 | Flash PMIs blow out; 10Y to 5.223% and 30Y to a 22-year high | Sep 23–25 | 31.5 | Rates, FX, Equities, Metals | 10Y +~17bp wk; 30Y highest since 2004; DXY 8-week high; Oct hike odds 53%→77.5% in a day |
 | 2 | Iran offers to reopen Hormuz; WTI −7.9% while Brent holds $104 | Sep 23–26 | 25.0 | Energy, Equities, Rates | WTI $92.41 (−$7.89 wk); WTI–Brent spread −$11.91; Friday relief rally |
-| 3 | Meta's Muse breakout: +11% Monday, +36% on the month | Sep 21, 25 | 18.8 | Mega-cap Tech, Nasdaq | META $777.59 (+4.50% Fri); Nasdaq +2.06% wk on narrow leadership |
+| 3 | Muse sparks a broad AI-chip melt-up; Nasdaq record, AMD tops $1trn | Sep 21, 25 | 18.8 | Mega-cap Tech, Semis, Nasdaq | META +11%, Arm +17.2%, Intel +12.1%, AMD +10%; SOX +4.3%; Nasdaq +2.06% wk |
 | 4 | Trump–Xi summit: $30bn tariff cut, two-month truce extension | Sep 23–25 | 10.0 | Equities, FX, Ags, Consumer | Modest relief; the 7.5% "excess capacity" tariff tail risk did not land |
 | 5 | Gold −2%+ and silver −4% as the dollar hits an 8-week high | Week | 7.9 | Precious Metals, FX | Gold $4,280.19; silver $64.04; safe-haven bid fails mid-conflict |
 
@@ -28,24 +28,24 @@ S&P Global's September flash PMIs did not beat expectations so much as invalidat
 #### Market Reaction
 
 **Immediate (Day-of and through Thursday):**
-- **Bonds:** the **10Y surged more than 10bp on Thursday to 5.223%**, its highest since June 2007, with a **5.228% print Friday**; it closed the week near **5.18%**. The **30Y reached its highest since June 2004** — Bloomberg puts the Thursday level at 5.44%, with one vendor showing a 5.501% intraday print.
+- **Bonds:** the **10Y surged more than 10bp on Thursday to 5.223%**, its highest since June 2007, with a **5.228% print Friday**; it closed the week near **5.18%**. The **30Y reached its highest since June 2004** — Bloomberg puts the Thursday level at 5.44% and reported it topping 5.5% intraday, with Friday quotes clustering at 5.46–5.49%.
 - **Currencies:** the **DXY rose for four straight sessions to hold above 101**, an eight-week high and a second consecutive weekly advance.
 - **Equities:** mixed-to-lower Wednesday and Thursday as yields ripped; the VIX rose to 15.67 Thursday from 15.18.
 - **Metals:** the immediate casualty — gold and silver both broke down (Rank 5).
-- **Policy pricing:** **October 28 hike odds moved to ~64%** on CME FedWatch, from 57.6% a week earlier and 43.1% a month earlier.
+- **Policy pricing:** **October 28 hike odds jumped from 53% Wednesday to 77.5% Thursday, settling at 75.8% Friday** on CME FedWatch — the single clearest measure of what the data did. Fed Governor Barr's remarks and the hot price components were cited together by CNBC on Sep 23 as moving the market to an October hike. (Polymarket carried a lower ~64%; see Data Notes.)
 
 **Follow-Through:** **Sustained in rates, reversed in equities.** Yields held their gains; stocks recovered on Friday for an unrelated reason (oil, Rank 2). This is not a resolution — it is two different markets pricing two different shocks.
 
 **Pattern Comparison: Amplified.** Strong PMIs normally lift equities and yields together. Here the growth signal was overwhelmed by the price and wage components, so the data was read purely as a Fed input. Context amplified it: the **IIF flagged total global debt above $365trn in H1 2026**, with US, Japanese, French and UK long-end yields all at decade-plus highs. Duration is being repriced globally, not just in Washington.
 
 #### Impact Assessment Detail
-**Price Impact:** Major — a >10bp single-session move in the 10Y, ~+17bp on the week, 19- and 22-year yield highs.
+**Price Impact:** Major — a >10bp single-session move in the 10Y, ~+17bp on the week, 19- and 22-year yield highs, and a 24-point single-day jump in October hike odds.
 **Breadth:** Systemic — rates, FX, equities, metals, global sovereign curves.
-**Forward Significance:** Regime Change — a second hike moved from possible to consensus, and the long end is now setting the terminal rate.
+**Forward Significance:** Regime Change — a second hike moved from coin-flip to three-in-four odds in two sessions, and the long end is now setting the terminal rate.
 **Calculated Score:** (7 × 3) × 1.5 = **31.5**
 
 #### Sector-Specific Impacts
-Rate-sensitives and bond proxies bore it. The supporting data cut the same way: **initial jobless claims fell to near 57-year lows** (Sep 24), and **core capital-goods orders rose 1.6%** even as headline durable goods were flat (Sep 25) — business investment accelerating into a tightening cycle. The one crack is housing, where **new home sales required price reductions** to clear against ~5.2% 10Y-linked mortgage funding.
+Rate-sensitives and bond proxies bore it. The supporting data cut the same way: **initial jobless claims fell to near 57-year lows** (Sep 24), and core capital-goods orders reportedly rose while headline durable goods were roughly flat — business investment accelerating into a tightening cycle, though the durable-goods figures are single-source and are not relied on here (see Data Notes). The one crack is housing, where **new home sales required price reductions** to clear against ~5.2% 10Y-linked mortgage funding.
 
 ### 2. Hormuz on the Table: WTI −7.9%, Brent +0.4% (Impact Score: 25.0)
 
@@ -76,18 +76,20 @@ Negotiators met in New York around the UN General Assembly on a **phased deal to
 #### Commodity Correlation
 Hormuz has been effectively closed since February; the entire crude term structure carries a closure premium. A verified reopening plausibly removes $15–25 from Brent, which is precisely why Brent would not follow WTI down on an unsigned offer. Duration of any shock now depends on a political decision, not a supply curve — and diesel remains the tightest link in the chain.
 
-### 3. Meta's Muse and the Narrowest Rally of the Quarter (Impact Score: 18.8)
+### 3. Muse Sparks a Chip Melt-Up — and the Narrowest Rally of the Quarter (Impact Score: 18.8)
 
 **Event Date:** Monday, Sep 21 and Friday, Sep 25
 **Event Type:** Corporate / Sector sentiment
-**News Source:** Yahoo Finance, TipRanks, GuruFocus, TheStreet (Tier 1/2)
+**News Source:** Bloomberg, Yahoo Finance, TipRanks, GuruFocus, TheStreet (Tier 1/2)
 
 #### Event Summary
-**Meta rose more than 11% on Monday.** Two catalysts: Wells Fargo's Ken Gawrelski **raised his target to $796 from $640**, and Meta's **Muse AI assistant took the number-one free-app spot on the US App Store with 2.5–2.8mn downloads in 12 days**. After a further **+4.50% Friday to $777.59**, Meta has gained **~36% in September — its best month in years**. Friday's move ran alongside Musk detailing an Nvidia chip expansion at Colossus 2 (**NVDA +2.19%**) and Google preparing to test AI inference chips in orbit via SpaceX.
+**Meta rose more than 11% on Monday.** Two catalysts: Wells Fargo's Ken Gawrelski **raised his target to $796 from $640**, and Meta's **Muse AI assistant took the number-one free-app spot on the US App Store with 2.5–2.8mn downloads in 12 days**. After a further **+4.50% Friday to $777.59**, Meta has gained **~36% in September — its best month in years**.
+
+The second-order move was larger than the first. Monday's read-through — that agentic AI means more inference silicon — drove **Arm +17.2%, Intel +12.1% and AMD +10%, the last closing above a $1trn market capitalization for the first time**. The **Philadelphia Semiconductor Index rose 4.3% for a fifth consecutive advance**, all of the Magnificent 7 closed higher, and the **Nasdaq finished at a record**. Helpfully for the tape, oil and yields both fell that session. Friday added Musk detailing an Nvidia chip expansion at Colossus 2 (**NVDA +2.19%**) and Google preparing to test AI inference chips in orbit via SpaceX.
 
 #### Market Reaction
 
-**Immediate:** **Nasdaq +2.06% on the week to 27,068.72** against the **Dow's +0.28%** — a 178bp spread driven by a handful of names. The **Russell 2000 closed 2,844.32, +0.31% Friday**, and market breadth deteriorated through the week even as the indices rose.
+**Immediate:** **Nasdaq +2.06% on the week to 27,068.72** against the **Dow's +0.28%** — a 178bp spread driven by a handful of names. Underneath, breadth went the other way: the **Russell 2000 closed 2,837.55 (+0.1% Friday) and fell ~0.8% on the week**, dropping **1.77% on Sep 23 alone**, and the equal-weighted S&P is reported down **0.56%** on the week against **SPY +1.27%**.
 
 **Follow-Through:** **Sustained**, and that is the problem. This is the same concentration that produced last week's equal-weight/cap-weight divergence, now with a month-long +36% move in a ~$2trn constituent layered on.
 
@@ -95,12 +97,12 @@ Hormuz has been effectively closed since February; the entire crude term structu
 
 #### Impact Assessment Detail
 **Price Impact:** Severe for a mega-cap — +11% in one session with direct index effect.
-**Breadth:** Sector-Wide — mega-cap tech and AI complex; not systemic.
+**Breadth:** Sector-Wide — mega-cap tech and the semiconductor complex; not systemic, and explicitly not shared by small caps.
 **Forward Significance:** Trend Confirmation — reinforces AI leadership and index concentration.
 **Calculated Score:** (10 × 1.5) × 1.25 = **18.8**
 
 #### Sector-Specific Impacts
-Communication services and semis led; the AI monetization narrative rotated from infrastructure spend toward consumer product proof. The corollary is that the S&P's +1.21% week is not evidence of health — it is evidence of weight.
+Communication services and semis led; the AI monetization narrative rotated from infrastructure spend toward consumer-product proof, and then straight back into silicon demand. The corollary is that the S&P's +1.21% week is not evidence of health — with small caps and the equal-weighted index both negative, it is evidence of weight.
 
 ### 4. Trump–Xi: A Two-Month Truce and $30bn (Impact Score: 10.0)
 
@@ -132,14 +134,14 @@ Xi arrived Sep 23 for a state visit; economic officials **extended the tariff tr
 **News Source:** USAGOLD, Texas Precious Metals, Bloomberg (Tier 1/2)
 
 #### Event Summary
-**Gold spot closed at $4,280.19 (+0.12% Friday) but fell more than 2% on the week**, and **silver at $64.04 (+0.33% Friday) fell roughly 4%** — both crushed by the dollar's eight-week high and long-end yields at multi-decade peaks. Platinum was the outlier, surging.
+**Gold spot closed at $4,280.19 (+0.12% Friday) but fell more than 2% on the week**, and **silver at $64.04 (+0.33% Friday) fell 3–4%** — both crushed by the dollar's eight-week high and long-end yields at multi-decade peaks. Platinum was the outlier, surging.
 
 #### Market Reaction
 
 **Pattern Comparison: Inverse — and this is the week's most important anomaly.** Gold fell during an active Middle East war, with global debt above $365trn and a central bank that has just declared inflation sticky. Every classical driver said buy. Real rates said sell, and real rates won. When a 30Y Treasury pays 5.44%, the opportunity cost of a zero-coupon hedge becomes the dominant term — and silver's industrial beta doubled the damage.
 
 #### Impact Assessment Detail
-**Price Impact:** Major — gold −2%+, silver ~−4% weekly.
+**Price Impact:** Major — gold −2%+, silver −3 to −4% weekly.
 **Breadth:** Sector-Wide — precious metals complex, mining equities, FX-linked.
 **Forward Significance:** Contrary Signal — contradicts the prevailing safe-haven-bid narrative.
 **Calculated Score:** (7 × 1.5) × 0.75 = **7.9**
@@ -154,12 +156,12 @@ Xi arrived Sep 23 for a state visit; economic officials **extended the tariff tr
 
 ### Market Regime Assessment
 **Risk Appetite:** Mixed, narrowing further.
-**Evidence:** VIX flat at 14.87 and indices higher, against a 178bp Nasdaq–Dow spread, deteriorating breadth, a 5.44% 30Y, an 8-week-high dollar and a failed safe-haven bid. Low realized volatility with this much dispersion underneath is fragility, not calm.
+**Evidence:** VIX flat at 14.87 and the headline indices higher, against a 178bp Nasdaq–Dow spread, a Russell 2000 down ~0.8% and an equal-weighted S&P down ~0.56% on the same week, a 5.44% 30Y, an 8-week-high dollar and a failed safe-haven bid. Low realized volatility with this much dispersion underneath is fragility, not calm.
 **Sector Rotation:** Mega-cap tech and AI over everything; bond proxies, precious metals and rate-sensitives penalized; agricultural exporters and consumer-goods importers marginal winners from the tariff deal.
 
 ### Commodity Deep Dive
 - **Energy:** WTI $92.41 (−7.87% wk), Brent $104.32 (+0.43% wk) — the −$11.91 spread is the Hormuz premium made visible. Houthi attacks on Saudi Arabia continued throughout.
-- **Precious Metals:** gold $4,280.19 (−2%+), silver $64.04 (−4%); real rates beat geopolitics decisively.
+- **Precious Metals:** gold $4,280.19 (−2%+), silver $64.04 (−3 to −4%); real rates beat geopolitics decisively. Copper was quiet at ~$6.71/lb.
 - **Base Metals / Ags:** no standalone shock; the tariff deal is a modest positive for US agricultural exports into China.
 
 ### Anomalies and Surprises
@@ -176,17 +178,17 @@ The market is long two specific trades: mega-cap AI and a short-hiking-cycle rat
 - **August PCE · Wed Sep 30** — the first inflation print since the hike, against PMI input costs at a four-year high
 - **Micron Q4 FY26 · Wed Sep 30** — the cleanest read on AI memory order books
 - **Nike and Accenture · Thu Oct 1** — margin and enterprise-spend reads
-- **FOMC · Tue–Wed Oct 27–28** — non-SEP meeting, ~64% priced for a hike
+- **FOMC · Tue–Wed Oct 27–28** — non-SEP meeting, 75.8% priced for a hike
 
 ### Risk Scenarios
 1. **Iran's rejected offer hardens into re-escalation.** Probability ~40%. Impact **Severe** — Friday's equity rally and the entire WTI move are priced on a proposal Trump has already refused; Brent never believed it.
-2. **PCE confirms the PMI price signal and the 10Y breaks 5.25%.** Probability ~45%. Impact **Major** — takes the Oct 28 hike to near-certainty and forces the equity discount rate higher with no offset.
+2. **PCE confirms the PMI price signal and the 10Y breaks 5.25%.** Probability ~45%. Impact **Major** — takes an already 75.8%-priced Oct 28 hike to near-certainty and forces the equity discount rate higher with no offset.
 3. **The AI concentration trade reverses.** Probability ~30%. Impact **Major** — a +36% month in one mega-cap is carrying an index whose breadth is deteriorating; Micron on Sep 30 is the first test.
 
 ## Data Sources & Methodology
 
 ### News Sources Consulted
-- **Official:** S&P Global Market Intelligence (flash PMIs), US Census Bureau (durable goods, new home sales), Department of Labor (claims), CME FedWatch, Institute of International Finance
+- **Official (via secondary reporting):** S&P Global Market Intelligence (flash PMIs), US Census Bureau (durable goods, new home sales), Department of Labor (claims), CME FedWatch, Institute of International Finance
 - **Tier 1 Financial News:** Bloomberg, Reuters, CNBC, Axios, Yahoo Finance, Washington Post, CBS News, Fox News, Nikkei Asia
 - **Specialized:** USAGOLD, Texas Precious Metals, EnergyNow, Iran International, The National, company investor relations (Costco, Meta)
 
@@ -196,7 +198,17 @@ The market is long two specific trades: mega-cap AI and a short-hiking-cycle rat
 - **Total Days:** 7
 
 ### Data Notes
-Friday index prints follow the CNBC/Yahoo settlement set (S&P 7,743.41, Nasdaq 27,068.72, Dow 51,828.62); one vendor carried higher figures (7,760.13 / 27,080.23 / 51,999.84) that appear to be intraday. Weekly percentages are computed from the prior Friday's settlements. One vendor reported the Dow down 0.28% and the Nasdaq up 3.2% on the week; both conflict with the closing levels and are not used. The 30Y Thursday high is quoted at 5.44% per Bloomberg, with a 5.501% intraday print from one vendor. Costco EPS is stated as $6.75 vs $6.53 expected per the earnings-call transcript and three corroborating outlets; a single preview source carried $6.60 vs $6.66. No PCE report was released this week — the August print is due Sep 30.
+This week's figures rest on secondary reporting: direct page fetches to primary sources (federalreserve.gov, bea.gov, home.treasury.gov) and to Tier 1 outlets were blocked by the execution environment's network policy, so **no number here was verified against a primary document.** Multiply-corroborated and arithmetically self-consistent figures are preferred throughout, and material disputes are disclosed rather than resolved silently.
+
+**Index levels and weekly changes.** Friday prints follow the CNBC/Yahoo/AP settlement set (S&P 7,743.41, Nasdaq 27,068.72, Dow 51,828.62, Russell 2000 2,837.55); one vendor carried higher figures (7,760.13 / 27,080.23 / 51,999.84) that appear to be intraday, and another gave the Russell at 2,844.32. Four incompatible sets of weekly percentages circulate. The set used here (+1.21% / +2.06% / +0.28%) is computed from the prior Friday's settlements as published in last week's brief and is independently corroborated. A competing calculation giving +1.38% / +2.46% / +0.10% derives from Sep 18 closes of 7,637.76 / 26,418.30 / 51,778.04; those levels and their day-moves match **Thursday Sep 17** as reported at the time, so they appear misdated by one session. A third set (Dow −0.28%, Nasdaq +3.2%) contradicts the closing levels outright and is not used.
+
+**Rates.** The 10Y Friday close is quoted across sources at 5.163%–5.19%; ~5.18% is used. The 30Y Thursday level is 5.44% per Bloomberg, which also reported it topping 5.5% intraday; Friday quotes cluster at 5.46%–5.49%. No Sep 18 closing levels for any tenor could be sourced, so the ~+17bp weekly move in the 10Y is an estimate, not a computed change.
+
+**Policy pricing.** CME FedWatch put the Oct 28 hike at 75.8% on Sep 25 (77.5% Sep 24, ~53% Sep 23); Polymarket carried roughly 64%, and one outlet attributed a 64% figure to FedWatch. The CME series is used.
+
+**Commodities and FX.** The WTI $92.41 / Brent $104.32 settlements and their weekly percentages trace to a single source cluster. Silver's weekly decline is given as −2.9% by one source and ~−4% by another, and $64.33 versus $64.04 likely reflects futures versus spot; a range is quoted. No gold weekly settlement level, no Henry Hub settlement and no precise DXY weekly percentage could be corroborated, so the dollar is described qualitatively (above 101, an eight-week high, a second consecutive weekly gain).
+
+**Excluded as prior-year contamination.** Search results circulating within this window but belonging to earlier years — an OpenAI–Nvidia 10GW partnership (Sep 2025), a Q2 GDP third-estimate revision to +3.8% (Sep 2025), an August durable-goods print of +2.9%, and two Treasury auction results arithmetically impossible against a 5.17% 10Y — are excluded. The durable-goods and jobless-claims details retained above are single-source and flagged accordingly. Costco EPS is stated as $6.75 vs $6.53 expected per the earnings-call transcript and three corroborating outlets; a single preview source carried $6.60 vs $6.66. Breadth figures for the equal-weighted S&P are single-source. No PCE report was released this week — the August print is due Sep 30.
 
 ### Knowledge Base References
 - `market_event_patterns.md`, `geopolitical_commodity_correlations.md`, `corporate_news_impact.md`, `trusted_news_sources.md`

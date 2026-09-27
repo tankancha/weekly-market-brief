@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "site": "Weekly Market Brief",
-  "updated": "2026-09-27T18:45:00+07:00",
+  "updated": "2026-09-27T19:20:00+07:00",
   "reports": [
     {
       "id": "2026-09-27",
@@ -14,11 +14,11 @@
       "title": "Weekly Market News — 09/27/2026",
       "path": "reports/2026/weekly-market-news-09272026.md",
       "brief": {
-        "headline": "Sep 21–25 was the week the bond market, not the Fed, did the tightening. S&P Global's flash PMIs hit a 62-month high (composite 58.4, manufacturing 57.0 vs 53.6 expected) with input-cost inflation the hottest since October 2022, and the long end broke: the 30Y reached its highest since June 2004 and the 10Y touched 5.223%, a level unseen since June 2007, pushing October hike odds to ~64% from 57.6% a week earlier. Equities absorbed it on two concentrated supports — Meta rose 11% Monday and ~36% on the month on its Muse AI launch, and WTI collapsed 7.9% to $92.41 as Iran offered to reopen the Strait of Hormuz. Nasdaq 27,068.72 (+2.06%), S&P 500 7,743.41 (+1.21%), Dow 51,828.62 (+0.28%) snapping a three-week losing streak, with the VIX flat at 14.87. Two tells: the WTI–Brent spread blew out to −$11.91 as Brent held above $104, and gold fell more than 2% while silver fell ~4% in the middle of a shooting war. Trump rejected Iran's Hormuz proposal on Saturday, after the close that priced it.",
+        "headline": "Sep 21–25 was the week the bond market, not the Fed, did the tightening. S&P Global's flash PMIs hit a 62-month high (composite 58.4, manufacturing 57.0 vs 53.6 expected) with input-cost inflation the hottest since October 2022, and the long end broke: the 30Y reached its highest since June 2004 and the 10Y touched 5.223%, a level unseen since June 2007, while October hike odds jumped from 53% Wednesday to 77.5% Thursday and settled at 75.8%. Equities absorbed it on two concentrated supports — a broad AI-chip melt-up on Monday that took the Nasdaq to a record close (Meta +11% on Muse, Arm +17.2%, Intel +12.1%, AMD +10% through a $1trn market cap for the first time) and WTI collapsing 7.9% to $92.41 as Iran offered to reopen the Strait of Hormuz. Nasdaq 27,068.72 (+2.06%), S&P 500 7,743.41 (+1.21%), Dow 51,828.62 (+0.28%) snapping a three-week losing streak, VIX flat at 14.87. Three tells: the Russell 2000 fell ~0.8% on the week and the equal-weighted S&P ~0.56% while the Nasdaq gained 2%; the WTI–Brent spread blew out to −$11.91 as Brent held above $104; and gold fell more than 2% with silver down 3–4% in the middle of a shooting war. Trump rejected Iran's Hormuz proposal on Saturday, after the close that priced it.",
         "regime": {
           "tone": "mixed",
           "label": "Narrowing risk appetite; the long end now sets the terminal rate",
-          "evidence": "The VIX was flat at 14.87 and the indices rose — yet the Nasdaq–Dow spread was 178bp, breadth deteriorated through the week, the 30Y hit a 22-year high, the dollar an 8-week high, and gold fell during an active war; low realized volatility with this much dispersion underneath is fragility, not calm"
+          "evidence": "The VIX was flat at 14.87 and the headline indices rose — yet the Nasdaq–Dow spread was 178bp, the Russell 2000 fell ~0.8% and the equal-weighted S&P ~0.56% on the same week, the 30Y hit a 22-year high, the dollar an 8-week high, and gold fell during an active war; low realized volatility with this much dispersion underneath is fragility, not calm"
         },
         "stats": [
           {
@@ -32,9 +32,9 @@
             "dir": "up"
           },
           {
-            "label": "Dow",
-            "value": "51,828.62 (+0.28% wk)",
-            "dir": "up"
+            "label": "Russell 2000",
+            "value": "2,837.55 (−0.8% wk)",
+            "dir": "down"
           },
           {
             "label": "10Y Treasury",
@@ -42,13 +42,13 @@
             "dir": "up"
           },
           {
-            "label": "WTI",
-            "value": "$92.41 (−7.87% wk)",
-            "dir": "down"
+            "label": "Oct 28 hike odds",
+            "value": "75.8% (from 53% Wed)",
+            "dir": "up"
           },
           {
-            "label": "Gold",
-            "value": "$4,280.19 (−2%+ wk)",
+            "label": "WTI",
+            "value": "$92.41 (−7.87% wk)",
             "dir": "down"
           }
         ],
@@ -58,8 +58,8 @@
             "title": "The Data Broke the Long End",
             "score": 31.5,
             "assets": "Rates·FX·Eq·Metals",
-            "reaction": "10Y +~17bp wk to 5.18%; 30Y highest since June 2004; DXY to an 8-week high above 101; Oct hike odds 43%→64%",
-            "detail": "S&P Global's September flash PMIs did not beat expectations so much as invalidate them: manufacturing 57.0 (52-month high) vs 53.6 expected, services 58.7, composite 58.4 — a 62-month high accelerating for a fourth month. Employment grew at the fastest pace since June 2022 and input-cost inflation hit its highest since October 2022, which for a committee that hiked on Sep 16 to stop a price shock broadening was precisely the broadening."
+            "reaction": "10Y +~17bp wk to 5.18%; 30Y highest since June 2004, topping 5.5% intraday; DXY to an 8-week high above 101; Oct 28 hike odds 53%→77.5% in a single session",
+            "detail": "S&P Global's September flash PMIs did not beat expectations so much as invalidate them: manufacturing 57.0 (52-month high) vs 53.6 expected, services 58.7, composite 58.4 — a 62-month high accelerating for a fourth month. Employment grew at the fastest pace since June 2022 and input-cost inflation hit its highest since October 2022, which for a committee that hiked on Sep 16 to stop a price shock broadening was precisely the broadening. CME FedWatch ended the week pricing the Oct 28 hike at 75.8%."
           },
           {
             "rank": 2,
@@ -71,11 +71,11 @@
           },
           {
             "rank": 3,
-            "title": "Meta's Muse and the Narrowest Rally of the Quarter",
+            "title": "Muse Sparks a Chip Melt-Up — and the Narrowest Rally of the Quarter",
             "score": 18.8,
-            "assets": "MegaTech·Nasdaq",
-            "reaction": "META +11% Monday, +4.50% Friday to $777.59, ~+36% on the month; Nasdaq +2.06% wk vs Dow +0.28% on deteriorating breadth",
-            "detail": "Wells Fargo raised its Meta target to $796 from $640 as the company's Muse AI assistant took the top free-app spot on the US App Store with 2.5–2.8mn downloads in 12 days. The reversal is the point: three weeks ago Meta was sold for funding AI capex with debt; it is now bought for the output of that capex — and a +36% month in one mega-cap is carrying an index whose breadth is weakening."
+            "assets": "MegaTech·Semis·Nasdaq",
+            "reaction": "META +11% Monday and ~+36% on the month; Arm +17.2%, Intel +12.1%, AMD +10% through $1trn; SOX +4.3% for a fifth straight gain and a record Nasdaq close — while the Russell 2000 fell ~0.8% on the week",
+            "detail": "Wells Fargo raised its Meta target to $796 from $640 as the company's Muse AI assistant took the top free-app spot on the US App Store with 2.5–2.8mn downloads in 12 days — and the second-order move was larger than the first, as the read-through that agentic AI means more inference silicon lifted the whole chip complex and carried AMD above a $1trn market capitalization for the first time. The reversal is the point: three weeks ago Meta was sold for funding AI capex with debt; it is now bought for the output of that capex — and this leadership was not shared, with small caps and the equal-weighted index both negative on the week."
           },
           {
             "rank": 4,
@@ -98,7 +98,7 @@
           "August PCE · Wed Sep 30",
           "Micron Q4 FY26 · Wed Sep 30",
           "Nike and Accenture · Thu Oct 1",
-          "FOMC · Tue–Wed Oct 27–28 (~64% priced for a hike)"
+          "FOMC · Tue–Wed Oct 27–28 (75.8% priced for a hike)"
         ],
         "risks": [
           {

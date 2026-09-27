@@ -1,8 +1,124 @@
 {
   "schema": 1,
   "site": "Weekly Market Brief",
-  "updated": "2026-09-20T19:05:00+07:00",
+  "updated": "2026-09-27T18:45:00+07:00",
   "reports": [
+    {
+      "id": "2026-09-27",
+      "generated": "2026-09-27",
+      "coverageStart": "2026-09-21",
+      "coverageEnd": "2026-09-27",
+      "weekOfLabel": "Week of Sep 21–27, 2026",
+      "year": 2026,
+      "month": 9,
+      "title": "Weekly Market News — 09/27/2026",
+      "path": "reports/2026/weekly-market-news-09272026.md",
+      "brief": {
+        "headline": "Sep 21–25 was the week the bond market, not the Fed, did the tightening. S&P Global's flash PMIs hit a 62-month high (composite 58.4, manufacturing 57.0 vs 53.6 expected) with input-cost inflation the hottest since October 2022, and the long end broke: the 30Y reached its highest since June 2004 and the 10Y touched 5.223%, a level unseen since June 2007, pushing October hike odds to ~64% from 57.6% a week earlier. Equities absorbed it on two concentrated supports — Meta rose 11% Monday and ~36% on the month on its Muse AI launch, and WTI collapsed 7.9% to $92.41 as Iran offered to reopen the Strait of Hormuz. Nasdaq 27,068.72 (+2.06%), S&P 500 7,743.41 (+1.21%), Dow 51,828.62 (+0.28%) snapping a three-week losing streak, with the VIX flat at 14.87. Two tells: the WTI–Brent spread blew out to −$11.91 as Brent held above $104, and gold fell more than 2% while silver fell ~4% in the middle of a shooting war. Trump rejected Iran's Hormuz proposal on Saturday, after the close that priced it.",
+        "regime": {
+          "tone": "mixed",
+          "label": "Narrowing risk appetite; the long end now sets the terminal rate",
+          "evidence": "The VIX was flat at 14.87 and the indices rose — yet the Nasdaq–Dow spread was 178bp, breadth deteriorated through the week, the 30Y hit a 22-year high, the dollar an 8-week high, and gold fell during an active war; low realized volatility with this much dispersion underneath is fragility, not calm"
+        },
+        "stats": [
+          {
+            "label": "S&P 500",
+            "value": "7,743.41 (+1.21% wk)",
+            "dir": "up"
+          },
+          {
+            "label": "Nasdaq",
+            "value": "27,068.72 (+2.06% wk)",
+            "dir": "up"
+          },
+          {
+            "label": "Dow",
+            "value": "51,828.62 (+0.28% wk)",
+            "dir": "up"
+          },
+          {
+            "label": "10Y Treasury",
+            "value": "5.18% (5.228% high, since 2007)",
+            "dir": "up"
+          },
+          {
+            "label": "WTI",
+            "value": "$92.41 (−7.87% wk)",
+            "dir": "down"
+          },
+          {
+            "label": "Gold",
+            "value": "$4,280.19 (−2%+ wk)",
+            "dir": "down"
+          }
+        ],
+        "events": [
+          {
+            "rank": 1,
+            "title": "The Data Broke the Long End",
+            "score": 31.5,
+            "assets": "Rates·FX·Eq·Metals",
+            "reaction": "10Y +~17bp wk to 5.18%; 30Y highest since June 2004; DXY to an 8-week high above 101; Oct hike odds 43%→64%",
+            "detail": "S&P Global's September flash PMIs did not beat expectations so much as invalidate them: manufacturing 57.0 (52-month high) vs 53.6 expected, services 58.7, composite 58.4 — a 62-month high accelerating for a fourth month. Employment grew at the fastest pace since June 2022 and input-cost inflation hit its highest since October 2022, which for a committee that hiked on Sep 16 to stop a price shock broadening was precisely the broadening."
+          },
+          {
+            "rank": 2,
+            "title": "Hormuz on the Table: WTI −7.9%, Brent +0.4%",
+            "score": 25.0,
+            "assets": "Energy·Eq·Rates",
+            "reaction": "WTI settled $92.41, −$7.89 on the week — its first weekly decline since late August; WTI–Brent blew out to −$11.91; Friday's equity rally came straight off crude breaking $100",
+            "detail": "Negotiators met in New York on a phased deal to end the seven-month US–Iran conflict: a seven-day cessation of regional hostilities, release of at least $12bn in frozen assets and an end to the naval blockade, with Hormuz reopening on day seven. Trump rejected the proposal on Saturday, after the close — so Friday's relief rally is priced on an offer that no longer stands, and Brent, still bid on Houthi attacks and tight diesel, never believed it."
+          },
+          {
+            "rank": 3,
+            "title": "Meta's Muse and the Narrowest Rally of the Quarter",
+            "score": 18.8,
+            "assets": "MegaTech·Nasdaq",
+            "reaction": "META +11% Monday, +4.50% Friday to $777.59, ~+36% on the month; Nasdaq +2.06% wk vs Dow +0.28% on deteriorating breadth",
+            "detail": "Wells Fargo raised its Meta target to $796 from $640 as the company's Muse AI assistant took the top free-app spot on the US App Store with 2.5–2.8mn downloads in 12 days. The reversal is the point: three weeks ago Meta was sold for funding AI capex with debt; it is now bought for the output of that capex — and a +36% month in one mega-cap is carrying an index whose breadth is weakening."
+          },
+          {
+            "rank": 4,
+            "title": "Trump–Xi: A Two-Month Truce and $30bn",
+            "score": 10.0,
+            "assets": "Eq·FX·Ags·Consumer",
+            "reaction": "Muted — absorbed by the bond selloff; the cleanest read is that the prepared 7.5% 'excess capacity' tariff never landed",
+            "detail": "Xi's Washington state visit produced reciprocal tariff cuts on ~$30bn of non-sensitive goods — US agriculture, seafood, wood, cosmetics and medical devices into China; Chinese small appliances, toys and car seats into the US — plus a two-month truce extension and a fledgling AI dialogue. Three days of pomp delivered little else, and the extension moves the Busan expiry only to late November."
+          },
+          {
+            "rank": 5,
+            "title": "Safe Havens Fail: Gold −2%, Silver −4%",
+            "score": 7.9,
+            "assets": "Metals·FX",
+            "reaction": "Gold spot $4,280.19 and silver $64.04 both fell hard on the week despite an active Middle East war; platinum was the outlier, surging",
+            "detail": "Every classical driver said buy gold — a shooting war, global debt above $365trn, a central bank calling inflation sticky. Real rates said sell, and real rates won: when a 30Y Treasury pays 5.44%, the opportunity cost of a zero-coupon hedge becomes the dominant term, and silver's industrial beta doubled the damage. This is the week's most important anomaly."
+          }
+        ],
+        "catalysts": [
+          "August PCE · Wed Sep 30",
+          "Micron Q4 FY26 · Wed Sep 30",
+          "Nike and Accenture · Thu Oct 1",
+          "FOMC · Tue–Wed Oct 27–28 (~64% priced for a hike)"
+        ],
+        "risks": [
+          {
+            "label": "Iran's rejected offer hardens into re-escalation",
+            "prob": "40%",
+            "impact": "Severe"
+          },
+          {
+            "label": "PCE confirms the PMI price signal; 10Y breaks 5.25%",
+            "prob": "45%",
+            "impact": "Major"
+          },
+          {
+            "label": "The AI concentration trade reverses (Micron Sep 30 is the first test)",
+            "prob": "30%",
+            "impact": "Major"
+          }
+        ]
+      }
+    },
     {
       "id": "2026-09-20",
       "generated": "2026-09-20",

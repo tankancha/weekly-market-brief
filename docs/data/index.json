@@ -1,8 +1,124 @@
 {
   "schema": 1,
   "site": "Weekly Market Brief",
-  "updated": "2026-09-27T19:20:00+07:00",
+  "updated": "2026-10-04T18:45:00+07:00",
   "reports": [
+    {
+      "id": "2026-10-04",
+      "generated": "2026-10-04",
+      "coverageStart": "2026-09-28",
+      "coverageEnd": "2026-10-04",
+      "weekOfLabel": "Week of Sep 28 – Oct 4, 2026",
+      "year": 2026,
+      "month": 10,
+      "title": "Weekly Market News — 10/04/2026",
+      "path": "reports/2026/weekly-market-news-10042026.md",
+      "brief": {
+        "headline": "Sep 28–Oct 2 was the week the market priced the Fed out of hiking and the long end sold off anyway. A cooler August PCE on Wednesday (headline 3.4% y/y, core 3.0%) and John Williams saying there was \"no need for urgency\" cut October 28 hike odds from roughly 70% to 41.5% in 24 hours; Friday's September payrolls — +29,000 against +84,000 expected, unemployment up to 4.2%, average hourly earnings +0.1% m/m and 60,000 jobs revised out of prior months — finished the job, taking the hike to 17% on CME FedWatch and pushing the expected move to December 9. Bonds did not rally. The 10Y rose 11bp on the week to 5.28% after an intraday 5.344%, its highest since April 3, 2002, and the 30Y touched 5.636%, a 24-year high, closing at 5.61% — a ~30bp bear steepening in eight sessions. That is the whole story: this is term premium, not policy path, and a Fed that will not defend against 3.4% inflation is worse for a 30-year bond than one that will. Equities split along the same seam — Nasdaq 27,190.86 (+0.45% wk) with an intraday record 27,353.68 on a record Nvidia and a Micron blowout, against S&P 500 7,722.72 (−0.27%), Dow 51,176.96 (−1.26%), Russell 2000 −0.2%, and a median S&P 500 stock down 0.9%. Twenty-eight stocks now account for the entire S&P 500 YTD return, AI hardware for 58% of it. VIX 15.31.",
+        "regime": {
+          "tone": "mixed",
+          "label": "The escape valve became the problem; the long end now sets the discount rate",
+          "evidence": "VIX at 15.31 and a Nasdaq intraday record against a 171bp Dow–Nasdaq weekly spread, a median S&P 500 stock down 0.9%, a Russell 2000 down 0.2%, a 30Y at a 24-year high and gold falling on a dovish print; 28 stocks carrying 100% of the index's YTD return is not a bull market in equities but a bull market in roughly 28 balance sheets"
+        },
+        "stats": [
+          {
+            "label": "S&P 500",
+            "value": "7,722.72 (−0.27% wk)",
+            "dir": "down"
+          },
+          {
+            "label": "Nasdaq",
+            "value": "27,190.86 (+0.45% wk)",
+            "dir": "up"
+          },
+          {
+            "label": "Dow",
+            "value": "51,176.96 (−1.26% wk)",
+            "dir": "down"
+          },
+          {
+            "label": "30Y Treasury",
+            "value": "5.61% (5.636% intraday, 24-yr high)",
+            "dir": "up"
+          },
+          {
+            "label": "Oct 28 hike odds",
+            "value": "17% (from ~70%)",
+            "dir": "down"
+          },
+          {
+            "label": "WTI",
+            "value": "$91.11 (−1.4% wk)",
+            "dir": "down"
+          }
+        ],
+        "events": [
+          {
+            "rank": 1,
+            "title": "The Long End Went Up While the Fed Went Away",
+            "score": 45.0,
+            "assets": "Rates·FX·Eq·Metals",
+            "reaction": "10Y +11bp wk to 5.28% (5.344% intraday, since 2002); 30Y 5.636% intraday; curve +~30bp in 8 sessions; Dow −1.26%",
+            "detail": "The 30Y closed at 5.56% on Sep 28, its highest since June 2004, then printed 5.636% intraday — a 24-year high — while the 10Y reached 5.344%, its highest since April 3, 2002. It happened as the market removed an October hike: the front end rallied and the long end sold off into it, a ~30bp bear steepening in eight sessions, with Barclays flagging the risk of a 6% 30Y."
+          },
+          {
+            "rank": 2,
+            "title": "Payrolls at +29k Take the October Hike to 17%",
+            "score": 31.5,
+            "assets": "Rates·Eq·FX·Metals",
+            "reaction": "Hike odds ~70%→17%; S&P +0.73%, Nasdaq +1.19% on the day; U3 4.2%; gold −0.90% on a dovish print",
+            "detail": "September nonfarm payrolls rose just +29,000 against a +84,000 consensus, unemployment rose to 4.2%, average hourly earnings gained only 0.1% m/m and 3.0% y/y, and 60,000 jobs were revised out of prior months. October 28 hike odds fell to 17% on CME FedWatch and the expected move shifted to December 9 — the first unambiguous crack in the labor market the Fed had been hiking against."
+          },
+          {
+            "rank": 3,
+            "title": "G7 Opens the Reserves; Trump Trades Away the Diesel Ban",
+            "score": 21.0,
+            "assets": "Energy·Eq·Rates",
+            "reaction": "Brent to ~$101 (−~1.5% wk); WTI $91.11 (−1.4% wk); diesel in the first 20 days",
+            "detail": "The G7 agreed to release up to 100 million barrels of crude and product over four months, IEA-coordinated, beginning with substantial diesel volumes in the first 20 days, triggered by slowdowns in Strait of Hormuz throughput. The US contribution runs through a DOE offer of up to 40 million SPR barrels via exchange with November–December delivery, and Trump dropped his threatened diesel export ban as a condition."
+          },
+          {
+            "rank": 4,
+            "title": "Micron's Record Quarter, Accenture's Best Day Ever, and 28 Stocks",
+            "score": 18.8,
+            "assets": "Semis·Mega-cap Tech·Nasdaq",
+            "reaction": "MU EPS $33.42 vs $31.61, DRAM +343% y/y at 84.9% margins; ACN +16%; NVDA record $237.88; median S&P stock −0.9%",
+            "detail": "Micron's FQ4 delivered adjusted EPS of $33.42 against $31.61 expected on $54.23bn revenue, an 84.9% gross margin and DRAM revenue of $39.8bn — up 343% year-over-year and 73% of sales. Accenture beat and closed up about 16% after a 22% intraday gain, its best day ever, while Nvidia, AMD, CrowdStrike and Palo Alto set records — yet the S&P 500 still finished the week lower, with 28 stocks accounting for its entire YTD return."
+          },
+          {
+            "rank": 5,
+            "title": "PCE Cools and Williams Says There Is No Hurry",
+            "score": 17.5,
+            "assets": "Rates·FX·Eq",
+            "reaction": "Core PCE 3.0% y/y; hike odds −27pp in 24h to 41.5%; ISM mfg 54.5 vs 54.8; the 30Y ignored it",
+            "detail": "August PCE rose 0.3% m/m and held at 3.4% y/y with core at 3.0%, cooler than expected and a direct contradiction of the prior week's four-year-high PMI input costs, alongside a BEA price-measurement revision. New York Fed President Williams said there was \"no need for urgency,\" cutting hike odds 27 percentage points in a single session — and the long end refused to rally."
+          }
+        ],
+        "catalysts": [
+          "ISM Services · Mon Oct 5",
+          "September CPI · mid-October",
+          "Q3 earnings season opens, banks · from ~Oct 13",
+          "FOMC · Tue–Wed Oct 27–28, ~17% priced for a hike"
+        ],
+        "risks": [
+          {
+            "label": "The long end keeps going without the Fed; Barclays flags 6% on the 30Y",
+            "prob": "35%",
+            "impact": "Severe"
+          },
+          {
+            "label": "The labor crack confirms into a growth scare with no rate-cut offset",
+            "prob": "40%",
+            "impact": "Major"
+          },
+          {
+            "label": "The AI concentration trade unwinds; 28 stocks carry the index",
+            "prob": "30%",
+            "impact": "Severe"
+          }
+        ]
+      }
+    },
     {
       "id": "2026-09-27",
       "generated": "2026-09-27",

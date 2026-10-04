@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "site": "Weekly Market Brief",
-  "updated": "2026-10-04T18:45:00+07:00",
+  "updated": "2026-10-04T19:10:00+07:00",
   "reports": [
     {
       "id": "2026-10-04",
@@ -14,11 +14,11 @@
       "title": "Weekly Market News — 10/04/2026",
       "path": "reports/2026/weekly-market-news-10042026.md",
       "brief": {
-        "headline": "Sep 28–Oct 2 was the week the market priced the Fed out of hiking and the long end sold off anyway. A cooler August PCE on Wednesday (headline 3.4% y/y, core 3.0%) and John Williams saying there was \"no need for urgency\" cut October 28 hike odds from roughly 70% to 41.5% in 24 hours; Friday's September payrolls — +29,000 against +84,000 expected, unemployment up to 4.2%, average hourly earnings +0.1% m/m and 60,000 jobs revised out of prior months — finished the job, taking the hike to 17% on CME FedWatch and pushing the expected move to December 9. Bonds did not rally. The 10Y rose 11bp on the week to 5.28% after an intraday 5.344%, its highest since April 3, 2002, and the 30Y touched 5.636%, a 24-year high, closing at 5.61% — a ~30bp bear steepening in eight sessions. That is the whole story: this is term premium, not policy path, and a Fed that will not defend against 3.4% inflation is worse for a 30-year bond than one that will. Equities split along the same seam — Nasdaq 27,190.86 (+0.45% wk) with an intraday record 27,353.68 on a record Nvidia and a Micron blowout, against S&P 500 7,722.72 (−0.27%), Dow 51,176.96 (−1.26%), Russell 2000 −0.2%, and a median S&P 500 stock down 0.9%. Twenty-eight stocks now account for the entire S&P 500 YTD return, AI hardware for 58% of it. VIX 15.31.",
+        "headline": "Sep 28–Oct 2 was the week the market deferred the Fed's hike and sold the long end anyway. A cooler August core PCE on Wednesday (3.0% y/y vs 3.3% expected) and Williams and Jefferson signalling patience cut October 28 hike odds from ~70% toward 44%; Friday's September payrolls — +29,000 against +84,000 expected, unemployment to 4.2%, average hourly earnings +3.0% y/y (slowest since May 2021) and 60,000 jobs revised out of prior months — took the October hike to 17%. The hike was not cancelled, only moved: December 9 carries 65% odds. Bonds never rallied. The 30Y reached 5.64% Wednesday, its highest since June 2002, the 10Y closed 5.281% (+~10bp wk), and on Friday yields fell on the weak print and then reversed higher — while the 2Y fell to 4.84%. A bear steepener to ~77bp on 2s30s, driven by term premium, heavy corporate and Treasury supply, and an inflation signal the dovish headlines concealed: ISM Prices Paid jumped 6.8 points to 77.9, the highest since the Iran war began, and consumer confidence collapsed to a 12-year low of 81.9 with inflation expectations at 6.1%. Equities split along the same seam — Nasdaq 27,190.86 (+0.45% wk) on a record Nvidia and a Micron blowout, against S&P 500 7,722.72 (−0.27%), Dow 51,176.96 (−1.26%), Russell 2000 2,832.90 (−0.16%), and an equal-weighted S&P down a seventh consecutive week, its longest streak since the 2022 bear market. VIX 15.31.",
         "regime": {
           "tone": "mixed",
           "label": "The escape valve became the problem; the long end now sets the discount rate",
-          "evidence": "VIX at 15.31 and a Nasdaq intraday record against a 171bp Dow–Nasdaq weekly spread, a median S&P 500 stock down 0.9%, a Russell 2000 down 0.2%, a 30Y at a 24-year high and gold falling on a dovish print; 28 stocks carrying 100% of the index's YTD return is not a bull market in equities but a bull market in roughly 28 balance sheets"
+          "evidence": "VIX at 15.31 in its 15th percentile and a Nasdaq up on the week, against a 171bp Dow–Nasdaq spread, an equal-weighted S&P down a seventh straight week, a median S&P stock down 0.9% on the index's best day, a 30Y at a 24-year high, a dollar at a 17-month high versus the euro, gold down a second consecutive week and consumer confidence at a 12-year low; 28 stocks carrying 100% of the index's YTD return is not a bull market in equities but a bull market in roughly 28 balance sheets"
         },
         "stats": [
           {
@@ -38,18 +38,18 @@
           },
           {
             "label": "30Y Treasury",
-            "value": "5.61% (5.636% intraday, 24-yr high)",
+            "value": "5.61% (5.64% Wed, since Jun 2002)",
             "dir": "up"
           },
           {
-            "label": "Oct 28 hike odds",
-            "value": "17% (from ~70%)",
+            "label": "Oct 28 / Dec 9 hike odds",
+            "value": "17% / 65%",
             "dir": "down"
           },
           {
-            "label": "WTI",
-            "value": "$91.11 (−1.4% wk)",
-            "dir": "down"
+            "label": "Brent",
+            "value": "$102.25 (~flat wk, $108.83 Mon high)",
+            "dir": "flat"
           }
         ],
         "events": [
@@ -58,47 +58,47 @@
             "title": "The Long End Went Up While the Fed Went Away",
             "score": 45.0,
             "assets": "Rates·FX·Eq·Metals",
-            "reaction": "10Y +11bp wk to 5.28% (5.344% intraday, since 2002); 30Y 5.636% intraday; curve +~30bp in 8 sessions; Dow −1.26%",
-            "detail": "The 30Y closed at 5.56% on Sep 28, its highest since June 2004, then printed 5.636% intraday — a 24-year high — while the 10Y reached 5.344%, its highest since April 3, 2002. It happened as the market removed an October hike: the front end rallied and the long end sold off into it, a ~30bp bear steepening in eight sessions, with Barclays flagging the risk of a 6% 30Y."
+            "reaction": "10Y 5.281% (+~10bp wk); 30Y 5.64% Wed; 2Y fell to 4.84%; 2s30s ~77bp; Dow −1.26%",
+            "detail": "The 30Y rose for a sixth straight session to 5.61% Tuesday — its highest since June 2002 — and reached 5.64% Wednesday, while the 10Y hit a 19-year high Monday and closed the week at 5.281%. The 2Y fell to 4.84%, a textbook bear steepener, with Bloomberg and CNBC citing heavy corporate-debt supply, Treasury issuance, fiscal concerns and high oil rather than policy expectations. The decisive tell came Friday: yields fell on the weak payrolls print, then reversed higher."
           },
           {
             "rank": 2,
-            "title": "Payrolls at +29k Take the October Hike to 17%",
+            "title": "Payrolls at +29k Move the Hike to December, Not Away",
             "score": 31.5,
             "assets": "Rates·Eq·FX·Metals",
-            "reaction": "Hike odds ~70%→17%; S&P +0.73%, Nasdaq +1.19% on the day; U3 4.2%; gold −0.90% on a dovish print",
-            "detail": "September nonfarm payrolls rose just +29,000 against a +84,000 consensus, unemployment rose to 4.2%, average hourly earnings gained only 0.1% m/m and 3.0% y/y, and 60,000 jobs were revised out of prior months. October 28 hike odds fell to 17% on CME FedWatch and the expected move shifted to December 9 — the first unambiguous crack in the labor market the Fed had been hiking against."
+            "reaction": "Oct odds ~70%→17%, Dec 9 at 65%; S&P +0.73% on the day; gold fell; yields reversed higher",
+            "detail": "September payrolls rose +29,000 against +84,000 expected with 60,000 revised out of prior months, unemployment at 4.2% and average hourly earnings +3.0% y/y, the slowest since May 2021. But the signal is mixed: the U3 rise was only 0.03pp and not statistically significant, participation rose to 61.8%, U-6 fell to its lowest since January 2025, ADP had beaten at +90k, and claims hit 197k with continuing claims at a three-year low."
           },
           {
             "rank": 3,
-            "title": "G7 Opens the Reserves; Trump Trades Away the Diesel Ban",
+            "title": "Oil's Two-Sided War: Rejection, China's Halt, Then the Reserves",
             "score": 21.0,
             "assets": "Energy·Eq·Rates",
-            "reaction": "Brent to ~$101 (−~1.5% wk); WTI $91.11 (−1.4% wk); diesel in the first 20 days",
-            "detail": "The G7 agreed to release up to 100 million barrels of crude and product over four months, IEA-coordinated, beginning with substantial diesel volumes in the first 20 days, triggered by slowdowns in Strait of Hormuz throughput. The US contribution runs through a DOE offer of up to 40 million SPR barrels via exchange with November–December delivery, and Trump dropped his threatened diesel export ban as a condition."
+            "reaction": "Brent $108.83 Mon → $102.25 Fri (−$6.58 peak-to-close, ~flat wk); WTI $91.11 (−1.41%); diesel futures slumped",
+            "detail": "Three shocks in four sessions: Trump rejected Iran's Hormuz-for-sanctions package Monday (Brent +3% to $108.83 intraday) and again Thursday; Chinese refiners then suspended most October fuel exports with diesel inventories ~20mn bbl below pre-war levels; and Friday the G7 agreed to release up to 100mn bbl of crude and product over four months, IEA-coordinated, diesel first. Brent still ended roughly flat — the release bought time, not barrels."
           },
           {
             "rank": 4,
-            "title": "Micron's Record Quarter, Accenture's Best Day Ever, and 28 Stocks",
+            "title": "Micron's Record Quarter, a 32-Year Semis Streak, and a Seventh Week of Narrowing",
             "score": 18.8,
             "assets": "Semis·Mega-cap Tech·Nasdaq",
-            "reaction": "MU EPS $33.42 vs $31.61, DRAM +343% y/y at 84.9% margins; ACN +16%; NVDA record $237.88; median S&P stock −0.9%",
-            "detail": "Micron's FQ4 delivered adjusted EPS of $33.42 against $31.61 expected on $54.23bn revenue, an 84.9% gross margin and DRAM revenue of $39.8bn — up 343% year-over-year and 73% of sales. Accenture beat and closed up about 16% after a 22% intraday gain, its best day ever, while Nvidia, AMD, CrowdStrike and Palo Alto set records — yet the S&P 500 still finished the week lower, with 28 stocks accounting for its entire YTD return."
+            "reaction": "MU rev $54.23bn +379% y/y, DRAM +343%; SOX 16-session streak, longest in 32 years; NVDA ~$5.7trn; equal-weight −7th wk",
+            "detail": "Micron's FQ4 delivered EPS $33.42 vs $31.61 on revenue up 379% y/y, with FY26 revenue of $133.2bn at an 81.1% gross margin and EPS +811%. Nvidia set its first record since May at $237.88 intraday, Accenture closed up ~16% in its best day ever, and Tesla beat on deliveries — yet the equal-weighted S&P fell for a seventh straight week, its longest streak since the 2022 bear market, with 28 stocks accounting for the entire index YTD return."
           },
           {
             "rank": 5,
-            "title": "PCE Cools and Williams Says There Is No Hurry",
+            "title": "The Dovish Data Had a Hawkish Twin",
             "score": 17.5,
             "assets": "Rates·FX·Eq",
-            "reaction": "Core PCE 3.0% y/y; hike odds −27pp in 24h to 41.5%; ISM mfg 54.5 vs 54.8; the 30Y ignored it",
-            "detail": "August PCE rose 0.3% m/m and held at 3.4% y/y with core at 3.0%, cooler than expected and a direct contradiction of the prior week's four-year-high PMI input costs, alongside a BEA price-measurement revision. New York Fed President Williams said there was \"no need for urgency,\" cutting hike odds 27 percentage points in a single session — and the long end refused to rally."
+            "reaction": "Core PCE 3.0% vs 3.3% exp; ISM Prices Paid 77.9 (+6.8); confidence 81.9, a 12-year low; the 30Y ignored it",
+            "detail": "August core PCE cooled to 3.0% y/y — though BEA methodology changes trimmed roughly 0.18pp per RBC — and Williams said there was \"no need for urgency\" while allowing one more hike late this year. The market ignored the hawkish twin: ISM Prices Paid jumped 6.8 points to 77.9, the highest since the Iran war began, and Conference Board confidence fell to a 12-year low of 81.9 with inflation expectations at 6.1%."
           }
         ],
         "catalysts": [
           "ISM Services · Mon Oct 5",
+          "FOMC minutes ~Oct 7 and the 30Y auction · Oct 8",
           "September CPI · mid-October",
-          "Q3 earnings season opens, banks · from ~Oct 13",
-          "FOMC · Tue–Wed Oct 27–28, ~17% priced for a hike"
+          "FOMC · Oct 27–28 (~17%); Dec 9 at 65%"
         ],
         "risks": [
           {
@@ -107,14 +107,14 @@
             "impact": "Severe"
           },
           {
-            "label": "The labor crack confirms into a growth scare with no rate-cut offset",
+            "label": "Stagflation confirms: Prices Paid leads CPI while payrolls stay soft",
             "prob": "40%",
-            "impact": "Major"
+            "impact": "Severe"
           },
           {
-            "label": "The AI concentration trade unwinds; 28 stocks carry the index",
-            "prob": "30%",
-            "impact": "Severe"
+            "label": "Hormuz re-escalates or the G7 release expires unresolved",
+            "prob": "40%",
+            "impact": "Major"
           }
         ]
       }

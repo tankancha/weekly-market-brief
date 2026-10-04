@@ -2,17 +2,17 @@
 
 ## Executive Summary
 
-Sep 28–Oct 2 was the week the market **priced the Fed out of hiking and the long end sold off anyway.** A cooler August PCE on Wednesday (**headline 3.4% y/y, core 3.0%**) and John Williams saying there was **"no need for urgency"** cut October 28 hike odds from roughly **70% to 41.5% in 24 hours**; Friday's September payrolls — **+29,000 against +84,000 expected, unemployment up to 4.2%, average hourly earnings +0.1% m/m and 60,000 jobs revised out of prior months** — finished the job, taking the hike to **17% on CME FedWatch** and pushing the expected move to December 9. Bonds did not rally. The **10Y rose 11bp on the week to 5.28% after an intraday 5.344%, its highest since April 3, 2002**, and the **30Y touched 5.636%, a 24-year high**, closing at 5.61% — a **~30bp bear steepening in eight sessions**. That is the whole story: this is term premium, not policy path, and a Fed that will not defend against 3.4% inflation is worse for a 30-year bond than one that will. Equities split along the same seam — **Nasdaq 27,190.86 (+0.45% wk)** with an **intraday record 27,353.68** on a **record Nvidia** and a **Micron blowout**, against **S&P 500 7,722.72 (−0.27%)**, **Dow 51,176.96 (−1.26%)**, **Russell 2000 −0.2%**, and a **median S&P 500 stock down 0.9%**. **Twenty-eight stocks now account for the entire S&P 500 YTD return**, AI hardware for 58% of it. VIX 15.31.
+Sep 28–Oct 2 was the week the market **deferred the Fed's hike and sold the long end anyway.** A cooler August core PCE on Wednesday (**3.0% y/y vs 3.3% expected**) and Williams and Jefferson signalling patience on Tuesday cut October 28 hike odds from **~70%** toward 44%; Friday's September payrolls — **+29,000 against +84,000 expected**, unemployment to **4.2%**, average hourly earnings **+3.0% y/y, the slowest since May 2021**, and **60,000 jobs revised out of prior months** — took the October hike to **17%**. The hike was not cancelled, only moved: **December 9 carries 65% odds**, and 72% price at least one more before 2027. Bonds never rallied. The **30Y reached 5.64% on Wednesday, its highest since June 2002**, the **10Y closed 5.281% (+~10bp wk)** after a 19-year high on Monday, and on Friday **yields fell on the weak print and then reversed higher** — while the **2Y fell to 4.84%**. That is the week: a bear steepener to ~77bp on 2s30s, driven by term premium, heavy corporate and Treasury supply, and an inflation signal the dovish headlines concealed — **ISM Prices Paid jumped 6.8 points to 77.9, the highest since the Iran war began**, and **consumer confidence collapsed to a 12-year low of 81.9** with inflation expectations at **6.1%**. Equities split along the same seam: **Nasdaq 27,190.86 (+0.45% wk)** on a record Nvidia and a Micron blowout, against **S&P 500 7,722.72 (−0.27%)**, **Dow 51,176.96 (−1.26%)**, **Russell 2000 2,832.90 (−0.16%)**, and an **equal-weighted S&P down for a seventh consecutive week — its longest streak since the 2022 bear market.** VIX 15.31.
 
 ## Market Impact Rankings
 
 | Rank | Event | Date | Impact Score | Asset Classes Affected | Market Reaction |
 |------|-------|------|--------------|------------------------|-----------------|
-| 1 | Global bond rout: 30Y to a 24-year high, 10Y to its highest since 2002 | Sep 28–Oct 2 | 45.0 | Rates, FX, Equities, Metals | 10Y +11bp wk to 5.28% (5.344% intraday); 30Y 5.636% intraday; curve +~30bp in 8 sessions; Dow −1.26% |
-| 2 | September payrolls collapse to +29k; October hike priced out | Oct 2 | 31.5 | Rates, Equities, FX, Metals | Hike odds ~70%→17%; S&P +0.73%, Nasdaq +1.19% on the day; U3 4.2%; long end still rose |
-| 3 | G7/IEA to release up to 100mn bbl of reserves; Trump drops diesel export ban | Oct 2 | 21.0 | Energy, Equities, Rates | Brent to ~$101 (−~1.5% wk); WTI $91.11 (−1.4% wk); diesel first 20 days |
-| 4 | Micron's record quarter and Accenture's best day ever vs collapsing breadth | Sep 30–Oct 2 | 18.8 | Semis, Mega-cap Tech, Nasdaq | MU EPS $33.42 vs $31.61, DRAM +343% y/y; ACN +16%; NVDA record $237.88; median S&P stock −0.9% |
-| 5 | August PCE cools and Williams signals patience | Sep 30 | 17.5 | Rates, FX, Equities | Core PCE 3.0% y/y; hike odds −27pp in 24h; ISM mfg 54.5 vs 54.8 (Oct 1) |
+| 1 | Global bond rout: 30Y to its highest since June 2002, curve bear-steepens | Sep 28–Oct 2 | 45.0 | Rates, FX, Equities, Metals | 10Y 5.281% (+~10bp wk); 30Y 5.64% Wed; 2Y *fell* to 4.84%; 2s30s ~77bp; Dow −1.26% |
+| 2 | September payrolls at +29k; October hike priced out, December priced in | Oct 2 | 31.5 | Rates, Equities, FX, Metals | Oct odds ~70%→17%, Dec 65%; S&P +0.73% on the day; yields reversed *higher* |
+| 3 | Oil's two-sided war: Iran rejection, China's export halt, then the G7 release | Sep 28–Oct 2 | 21.0 | Energy, Equities, Rates | Brent $108.83 Mon → $102.25 Fri (−$6.58 peak-to-close, ~flat wk); WTI $91.11 (−1.41%) |
+| 4 | Micron's record quarter and a 32-year semis streak against collapsing breadth | Sep 30–Oct 2 | 18.8 | Semis, Mega-cap Tech, Nasdaq | MU rev +379% y/y; SOX 16-session streak, longest ever; NVDA ~$5.7trn; equal-weight −7th wk |
+| 5 | The dovish data had a hawkish twin: PCE cools, Prices Paid hits a war-era high | Sep 29–Oct 1 | 17.5 | Rates, FX, Equities | Core PCE 3.0%; ISM Prices Paid 77.9 (+6.8); confidence 81.9, a 12-year low |
 
 ## Detailed Event Analysis
 
@@ -20,177 +20,173 @@ Sep 28–Oct 2 was the week the market **priced the Fed out of hiking and the lo
 
 **Event Date:** Monday Sep 28 through Friday Oct 2
 **Event Type:** Rates / Term-premium repricing
-**News Source:** Treasury market reporting via Bloomberg, CNBC, Reuters, Wolf Street, Trading Economics (Tier 1 / specialized)
+**News Source:** CNBC, Bloomberg, Reuters, Semafor, Seeking Alpha (Tier 1)
 
 #### Event Summary
-The **30Y closed at 5.56% on Monday Sep 28, its highest since June 2004**, then printed **5.636% intraday — a 24-year high** — before ending the week at **5.61%**. The **10Y reached 5.344% intraday, its highest since April 3, 2002**, and closed the week at **5.28%, up 11bp**. The 2Y rose roughly 8bp to about 4.92%. The curve **bear-steepened ~30bp in eight sessions**. Barclays publicly flagged the risk of a **6% 30Y**. This happened *while* the market removed an October hike — the front end rallied on the dovish data and the long end sold off into it.
+The **10Y hit a 19-year high near 5.20% on Monday**, then **5.282% Tuesday** (session high above 5.29%), closing the week at **5.281%, up roughly 10bp**. The **30Y rose for a sixth straight session to 5.61% on Tuesday — its highest since June 2002 — and reached 5.64% on Wednesday** before easing to 5.61%. Crucially, the **2Y fell to 4.84%** from 4.934% on Tuesday, leaving **2s30s near 77bp**: a textbook bear steepener. Drivers cited by Bloomberg and CNBC were not policy expectations but **heavy corporate-debt supply, heavy Treasury issuance, fiscal-health concerns, high oil and a global bond selloff**.
 
 #### Market Reaction
 
 **Immediate (through the week):**
-- **Bonds:** 10Y 5.28% (+11bp wk); 30Y 5.61% (24-year intraday high); 2s30s steepening ~30bp over eight sessions
-- **Equities:** the **Dow fell 1.26%** and the **S&P 500 0.27%**, both explicitly attributed to the bond rout; the Nasdaq was the only major index higher
-- **Currencies:** DXY **102.10 on Oct 1 (+0.64%)** before easing to **101.89** Friday as the hike came out
-- **Metals:** gold capped near **$4,167** by "the highest Treasury yields in two decades" despite a dovish policy repricing
-- **Volatility:** VIX **15.31**, up only modestly from 14.87 — equity vol did not price what rates vol was doing
+- **Bonds:** 10Y 5.281% (+~10bp wk); 30Y peak 5.64%, a 24-year high; 2Y −9bp from Tuesday's peak to 4.84%
+- **Equities:** the **Dow fell 1.26%** and the **S&P 500 0.27%**, with Monday's broad decline (S&P −0.77%, Dow −0.67%, Nasdaq −0.92%) and Wednesday's **Dow −443.87** both laid to the long end
+- **Currencies:** DXY rose roughly **0.9% on the week — a third consecutive advance** — to a **17-month high against the euro** and a **fourth straight weekly gain** versus EUR
+- **Metals:** gold fell **2–3.4% on the week, a second consecutive weekly decline**, explicitly on "a strong dollar and elevated Treasury yields"
+- **Volatility:** VIX **15.31**, up only 0.44 on the week and sitting at its **15th percentile**, with VVIX at its 9th and 30-day realized vol at 10.51
 
-**Follow-Through:** **Sustained.** Friday's dovish data produced an equity rally and a front-end rally, but the 30Y still ended the week at a level last seen in 2002–04. Nothing about the long end was repaired.
+**Follow-Through:** **Sustained, and self-reinforcing.** The decisive tell came Friday: yields **initially fell on the weak payrolls print and then reversed higher**, closing up on the day. A long end that rises on dovish news has stopped taking direction from the FOMC.
 
-**Pattern Comparison: Inverse.** The textbook response to a 53-percentage-point collapse in hike odds is a rally across the curve. Instead the long end sold off. The mechanism is term premium — the compensation demanded for holding long-dated sovereign debt, a function of the deficit path, debt supply, energy-driven inflation and the capital demands of the AI build-out. Chair **Warsh abolished forward guidance** earlier this year and told the bond market to price it itself; with no anchor, a Fed declining to lean against **3.4% headline inflation** is read by a 30-year holder as inflationary, not accommodative. Dovish Fed, higher long yields. That is the inversion.
+**Pattern Comparison: Inverse.** A 53-point collapse in October hike odds should rally the curve. The front end obliged; the long end did the opposite. The mechanism is term premium — compensation for deficit path, debt supply, energy-driven inflation and the capital demands of the AI build-out. Chair **Warsh abolished forward guidance** and told the bond market to price it itself; with no anchor, and with **ISM Prices Paid at a war-era high** (Rank 5), a Fed declining to lean against 3.4% headline inflation reads to a 30-year holder as inflationary rather than accommodative. This is a global phenomenon: the ECB raised rates Sep 10, the BOJ hiked to 1.25% Sep 18, and the euro took the brunt of the rout.
 
 #### Impact Assessment Detail
-**Price Impact:** Severe — 24-year highs in the 30Y and a 2002-vintage 10Y print, with a ~30bp curve move in eight sessions.
+**Price Impact:** Severe — a 24-year high in the 30Y, a 19-year high in the 10Y, and a six-session consecutive climb at the long end.
 **Breadth:** Systemic — rates, FX, equities and metals all took direction from it.
-**Forward Significance:** Regime Change — the long end, not the FOMC, is setting the discount rate, and the usual policy-easing escape valve now makes it worse.
+**Forward Significance:** Regime Change — the long end sets the discount rate, and the usual policy-easing escape valve now makes it worse.
 **Calculated Score:** (10 × 3.0) × 1.50 = **45.0**
 
 #### Sector-Specific Impacts
-Rate-sensitives and bond proxies were penalized: the Dow's 1.26% decline against the Nasdaq's +0.45% is a **171bp spread** in a week with no negative tech news. Utilities, REITs and dividend compounders carry a 5.3% risk-free alternative. Only assets with a demonstrable non-linear earnings path — AI hardware — outran the discount rate.
+The Dow's 1.26% decline against the Nasdaq's +0.45% is a **171bp weekly spread** with no negative tech news. **Health Care −2.7%, Financials −2.5% and Communication Services −2.3%** led the decliners against **Technology +1.8% and Energy +1.5%**. September closed with the **Dow −4.3%** against the **Nasdaq +1.9%**; Q3 ended **S&P +2.0%, Nasdaq +2.5%, Dow −2.7%**.
 
-### 2. Payrolls at +29k Take the October Hike to 17% (Impact Score: 31.5)
+### 2. Payrolls at +29k Move the Hike to December, Not Away (Impact Score: 31.5)
 
 **Event Date:** Friday Oct 2, 8:30am ET
 **Event Type:** Economic Data → Monetary Policy repricing
-**News Source:** Bureau of Labor Statistics via CNBC, Bloomberg, Morningstar, Benzinga (official via Tier 1)
+**News Source:** BLS via CNBC, Bloomberg, Fox Business (official via Tier 1)
 
 #### Event Summary
-September nonfarm payrolls rose **+29,000 against a +84,000 consensus** (some desks carried +90,000). The **unemployment rate rose to 4.2% from an expected 4.1%**. **Average hourly earnings rose just 0.1% m/m and 3.0% y/y**, below forecast. And **60,000 jobs were revised out of prior months**. Taken together it is the first unambiguous crack in a labor market the Fed had been hiking against.
+September nonfarm payrolls rose **+29,000 against +84,000 expected** (Bloomberg's survey carried +90,000), below the prior 12-month average of +45,000, with **July and August revised down a combined 60,000**. The **unemployment rate rose to 4.2%** from 4.1%. **Average hourly earnings rose 0.1% m/m and 3.0% y/y — the slowest since May 2021.** But the report was not uniformly weak, and this matters: the **U3 increase was only 0.03pp**, just enough to round up and **not statistically significant**; **labor force participation rose 0.2pp to 61.8%, the highest since May**; and **U-6 fell to 7.6%, its lowest since January 2025**. Earlier in the week **ADP had beaten at +90,000 against +68,000 expected**, **initial claims fell to 197,000, the lowest since July**, and **continuing claims hit a three-year low**.
 
 #### Market Reaction
 
 **Immediate (Day-of):**
-- **Policy pricing:** October 28 hike odds fell to **17% on CME FedWatch**, from ~70% at the start of the week and 41.5% on Sep 30; the expected hike moved to **December 9**
-- **Equities:** **S&P 500 +0.73% to 7,722.72**, **Nasdaq +1.19% (+319.27) to 27,190.86** with an intraday record **27,353.68**, **Dow +0.49% to 51,176.96**, **Russell 2000 +0.9%**
-- **Commodities:** gold **−0.90% to $4,140.19** — down, on a dovish print
-- **Currencies:** DXY eased to **101.89 (−0.20%)**
-- **Bonds:** the front end rallied; the **long end did not** (Rank 1)
+- **Policy pricing:** October 28 hike odds fell to **17% on CME FedWatch** (hold 84%) from ~70% at the start of the week. **The hike moved rather than vanished: December 9 carries 65%, and 72% price at least one more hike before 2027.**
+- **Equities:** **S&P 500 +0.73% to 7,722.72**, **Nasdaq +1.20% (+319.27) to 27,190.86**, **Dow +0.49% to 51,176.96**, **Russell 2000 +0.90%**
+- **Bonds:** yields fell on the print, then **reversed higher** — the 10Y closed up about 5bp
+- **Commodities:** gold around **$4,140** spot, with COMEX December settling **$4,172.10 (−0.72%)** — lower, on a dovish print
+- **Currencies:** DXY eased on the day to **101.7–101.9** but held a ~0.9% weekly gain
 
-**Follow-Through:** One session. The read-through is next week's ISM Services and the October CPI.
+**Follow-Through:** One session. ISM Services on Oct 5 and the October CPI are the confirmation tests.
 
-**Pattern Comparison: Amplified in rates, Inverse in gold.** A weak payrolls print normally reads as a growth concern first and a Fed concern second; here the Fed channel dominated completely and equities rallied on bad news. Gold falling on a dovish surprise is the anomaly — real yields, not the policy path, are setting the metal.
+**Pattern Comparison: Amplified in rates, Inverse in gold.** Per `market_event_patterns.md`, a weak payrolls print reads first as a growth concern; here the Fed channel dominated and equities rallied on bad news. Two anomalies: **gold fell on a dovish surprise**, and **the long end rose on it**. The labor signal itself is genuinely mixed — a soft headline and slowing wages against an ADP beat, claims at multi-month lows, rising participation and a falling U-6. One print, not a trend.
 
 #### Impact Assessment Detail
-**Price Impact:** Major — a 53-percentage-point swing in policy odds, with cross-asset follow-through.
-**Breadth:** Systemic — rates, equities, FX and metals.
-**Forward Significance:** Regime Change — flips the Fed from hiking to on hold and replaces the inflation debate with a labor debate.
+**Price Impact:** Major — a 53-point swing in policy odds with cross-asset follow-through.
+**Breadth:** Systemic — rates, equities, FX, metals.
+**Forward Significance:** Regime Change — reframes the Fed debate from how fast to hike to whether the labor market can take it, without removing the hike.
 **Calculated Score:** (7 × 3.0) × 1.50 = **31.5**
 
-### 3. G7 Opens the Reserves; Trump Trades Away the Diesel Ban (Impact Score: 21.0)
+### 3. Oil's Two-Sided War: Rejection, China's Halt, Then the Reserves (Impact Score: 21.0)
 
-**Event Date:** Friday Oct 2 (US DOE solicitation Sep 29)
+**Event Date:** Monday Sep 28; Thursday Oct 1; Friday Oct 2
 **Event Type:** Geopolitical / Commodity policy
-**News Source:** NPR, Yahoo/Reuters, Time, IEA statements (Tier 1)
+**News Source:** Al Jazeera, Reuters, Bloomberg, NPR, Washington Post, OilPrice (Tier 1 / specialized)
 
 #### Event Summary
-The **G7 agreed to release up to 100 million barrels of crude and refined product over four months**, **IEA-coordinated** across Canada, France, Germany, Italy, Japan, the UK and the US, beginning immediately with **"substantial" diesel volumes in the first 20 days**. The trigger is explicit: **slowdowns in oil passage through the Strait of Hormuz**, through which roughly 20% of global supply moves. The US contribution runs through the **DOE offering up to 40 million barrels of SPR crude via exchange** — recipients return the same volume plus a premium, with **deliveries scheduled for November and December 2026**. Critically, **Trump dropped his threatened diesel export ban as a condition of the agreement.**
+Three shocks in four sessions, in opposite directions. **Monday:** Trump rejected Iran's UNGA proposal — reopen the Strait of Hormuz within seven days in exchange for releasing roughly **$12bn** in frozen funds, lifting oil sanctions and ending the naval blockade. **Brent rose more than 3% to $108.83 intraday, settling $105.28; WTI reached $96.54, settling $92.60.** Araqchi re-floated the package Thursday; **Trump rejected it again on Oct 1**, with the nuclear file the sticking point and Tehran holding that Hormuz stays shut. **Thursday:** **Chinese refiners suspended most refined-fuel exports for October**, PetroChina cancelling gasoline and jet cargoes, with Kpler estimating China's diesel inventories roughly **20mn bbl below pre-war levels** — oil surged. **Friday:** the **G7 agreed to release up to 100mn bbl of crude and product over four months, IEA-coordinated, diesel first in the first 20 days**, after Trump threatened to ban all US diesel exports if Europe would not release its own. The US contribution runs through a **DOE offer of up to 40mn SPR barrels via exchange**, returnable with a premium in **November–December**.
 
 #### Market Reaction
-- **Energy:** **Brent fell to around $101** Friday, settling near **$102.70 (−~1.5% wk)**; **WTI $91.11 (−1.4% wk)**. Context matters more than the week: Brent is **+7.52% on the month and +59.15% year-over-year**, WTI +49.66% y/y.
-- **Equities/Rates:** marginally supportive — cheaper distillate is the only live disinflationary impulse, and it argues the same direction as the payrolls miss.
+- **Energy:** **WTI settled $91.11 (−1.90% Friday, −1.41% on the week)**; **Brent settled $102.25**, roughly **flat on the week (+0.11%)** once the Nov→Dec roll is accounted for. The honest measure of the G7's effect is **peak-to-Friday: Brent −$6.58, WTI −$5.43.** European and US **diesel futures slumped**.
+- **Spread:** the **WTI–Brent discount narrowed to −$11.14** from −$11.91 — the Hormuz premium persists in the structure.
+- **Rates/Equities:** cheaper distillate is the only live disinflationary impulse, arguing the same direction as the payrolls miss and against Prices Paid at 77.9.
 
-**Pattern Comparison: Dampened.** Coordinated reserve releases historically produce a sharp initial break and then fade within weeks, because inventory substitutes for barrels without adding production. A 100mn bbl release against a chokepoint constriction bought roughly a 1.5% price decline — the market is treating it as four months of time, not a supply fix.
-
-#### Impact Assessment Detail
-**Price Impact:** Major — a coordinated multilateral intervention plus the removal of an export-ban tail risk.
-**Breadth:** Cross-Asset — energy, with a direct inflation and therefore rates channel.
-**Forward Significance:** Regime Change — strategic reserves are now an active price-management tool under political pressure.
-**Calculated Score:** (7 × 2.0) × 1.50 = **21.0**
+**Pattern Comparison: Dampened.** `geopolitical_commodity_correlations.md` sets Iran-driven Hormuz tension at +5–15% for oil; Monday's 3% move and fading settle show a market seven months into the crisis and desensitized to headline risk. Reserve releases historically produce a sharp break that fades, because inventory substitutes for barrels without adding production.
 
 #### Commodity Correlation
-The Hormuz premium persists in the structure rather than the headline price. Last week's WTI–Brent dislocation reflected the same chokepoint: Brent, seaborne and exposed, holds above $100 while landlocked WTI trades at a double-digit discount. Diesel is the acute shortage — hence product, not just crude, in the release. Expected duration of relief: weeks, not quarters. The reserves are finite and must be repurchased, with the US exchange barrels due back with a premium in November–December.
+The binding shortage is **diesel, not crude** — hence product in the release. Two supply sources are structurally impaired: **Ukrainian drones have struck Russian refineries 70-plus times in 2026**, pushing Russian refining to a two-decade low with **Kirishi fully shut and Volgograd and NORSI near 25% of capacity**, and China has now withdrawn its export barrels until at least **Oct 7**. The G7's 100mn bbl buys roughly four months of time against that, and the US barrels must come back with a premium in November–December. Expected duration of relief: weeks. **OPEC+ held October targets unchanged**, with the eight-country group meeting **Oct 4**; its influence is diminished while a chokepoint, not a quota, sets the price.
 
-### 4. Micron's Record Quarter, Accenture's Best Day Ever, and 28 Stocks (Impact Score: 18.8)
+### 4. Micron's Record Quarter, a 32-Year Semis Streak, and a Seventh Week of Narrowing (Impact Score: 18.8)
 
-**Event Date:** Micron Wed Sep 30 (after close); Accenture and Nike Thu Oct 1; Nvidia record Fri Oct 2
+**Event Date:** Micron Wed Sep 30; Accenture and Nike Thu Oct 1; Nvidia and Tesla Fri Oct 2
 **Event Type:** Earnings / Market structure
-**News Source:** Company releases via SEC EDGAR, CNBC, Yahoo Finance, Bloomingbit (official / Tier 1)
+**News Source:** Company releases via SEC EDGAR and GlobeNewswire, CNBC, Bloomberg (official / Tier 1)
 
 #### Event Summary
-**Micron's FQ4 was a cycle-defining print:** adjusted **EPS $33.42 vs $31.61 expected** on revenue of **$54.23bn vs $51.07bn**, at an **84.9% gross margin**, with **DRAM revenue of $39.8bn — up 343% year-over-year and 73% of total sales** — and guidance above expectations. **Accenture** beat at **EPS $3.29 vs $3.18** on **$18.68bn vs $18.03bn**, and the stock rose **more than 22% intraday before closing up about 16% — its best day ever**. **Nvidia** hit an intraday record **$237.88 (+3%)** Friday; **AMD, CrowdStrike and Palo Alto Networks** all set all-time highs. Against that, **Nike's FQ1 2027** revenue came in at **$11.2bn, −5% currency-neutral**, missing a ~$11.35–11.45bn consensus, with **Greater China revenue down 26%** and FY27 guidance for a **high-single-digit revenue decline** and adjusted EPS of **$1.15–1.35**; the stock fell about **8% after hours**.
+**Micron's FQ4 was cycle-defining:** adjusted **EPS $33.42 vs $31.61 expected** on revenue of **$54.23bn vs $51.07bn — up 31% q/q and 379% y/y**, a sixth consecutive record quarter, with **DRAM revenue $39.8bn, +343% y/y and 73% of sales** and data-centre SSD revenue above $10bn. **FY26 revenue reached $133.2bn (+256%) at an 81.1% gross margin, with EPS +811%**, and FQ1 guidance of **~$61.5bn and $38.15** cleared the Street. The **PHLX Semiconductor Index had run +38.7% over a 16-session winning streak — the longest in its 32-year history — and +77% YTD**. **Nvidia** set an all-time intraday record **$237.88** Friday, its first record since May, carrying market value to roughly **$5.7trn**, and closed the week up about 4%; **Broadcom +3.35%, AMD +2.95%, Oracle +3.1%** on Friday. **Accenture** beat at **EPS $3.29 vs $3.18** on **$18.68bn** and rose **22% intraday before closing up about 16% — its best day ever**. **Tesla** delivered **486,532 vehicles against 461,974 expected**, closing **+4.65% at $370.59**. **Carnival** beat and jumped **13.41%**, taking Royal Caribbean +7% and Norwegian +5%. Against all of it, **Nike's** FQ1 2027 revenue of **$11.2bn (−4% y/y)** missed a $11.32bn consensus — **Greater China −26%**, Sportswear down low double digits — with FY27 guided to a **high-single-digit revenue decline**, offset by a new **$2.5bn "Pace" savings programme**.
 
 #### Market Reaction
-- **Nasdaq:** +0.45% on the week, the only major index up, with an intraday record
-- **Breadth:** the **median S&P 500 stock fell about 0.9%**; **28 stocks account for the entire S&P 500 YTD return of +12.81%**, with **AI hardware delivering 58% of it**
-- **Russell 2000:** −0.2% on the week despite a +0.9% Friday
+- **Nasdaq:** +0.45% on the week, the only major index higher
+- **Breadth, the defining feature:** the **equal-weighted S&P 500 fell for a seventh consecutive week — the longest streak since the mid-2022 bear market — and sits roughly 7% below its 52-week high**, while the cap-weighted index is about 2.1% from its peak. The **median S&P 500 stock fell about 0.9%** on Friday even as the Nasdaq surged. **Twenty-eight stocks account for the entire S&P 500 YTD return**, with AI hardware delivering 58% of it. Weekly ETFs: **SPY −0.22%, QQQ +0.68%, IWM −0.16%**.
 
-**Pattern Comparison: Consistent in the names, Dampened at the index.** Per `corporate_news_impact.md`, a semiconductor beat-and-raise of this magnitude should pull the Nasdaq 1–2% and the sector 3–5%. It did roughly that in the affected names, and the **S&P 500 still finished the week lower** — the index absorbed a 343% DRAM growth number and a 16% Accenture day and went nowhere, because 472 of its members were being discounted at 5.3%.
+**Pattern Comparison: Consistent in the names, Dampened at the index.** Per `corporate_news_impact.md`, a beat-and-raise of Micron's magnitude should lift the Nasdaq 1–2% and the sector 3–5%. It did roughly that in the affected names — and the **S&P 500 still finished the week lower**, because a 379% revenue growth rate and a 16% Accenture day could not outvote 472 members being discounted at 5.3%.
 
 #### Impact Assessment Detail
-**Price Impact:** Severe — a +16% day in a $200bn-plus consulting name and an 85% gross margin at Micron are outsized by any standard.
-**Breadth:** Sector-Wide — concentrated in semis, AI infrastructure and enterprise tech.
-**Forward Significance:** Trend Confirmation — it extends a trade already carrying the index rather than starting a new one.
+**Price Impact:** Severe — an 81% full-year gross margin, a 16% day in a mega-cap consultancy and the longest winning streak in the SOX's history.
+**Breadth:** Sector-Wide — semis, AI infrastructure, enterprise tech.
+**Forward Significance:** Trend Confirmation — it extends the trade already carrying the index.
 **Calculated Score:** (10 × 1.5) × 1.25 = **18.8**
 
-### 5. PCE Cools and Williams Says There Is No Hurry (Impact Score: 17.5)
+### 5. The Dovish Data Had a Hawkish Twin (Impact Score: 17.5)
 
-**Event Date:** Wednesday Sep 30 (PCE 8:30am ET; Williams remarks same day); ISM Thursday Oct 1
+**Event Date:** Tuesday Sep 29 through Thursday Oct 1
 **Event Type:** Economic Data / Monetary Policy communication
-**News Source:** BEA via Fox Business, Trading Economics, IndexBox; Fed speakers via Reuters/Bloomberg; ISM (official / Tier 1)
+**News Source:** BEA, ISM, Conference Board via Reuters, CNBC, Axios, PR Newswire (official via Tier 1)
 
 #### Event Summary
-**August PCE rose 0.3% m/m and held at 3.4% y/y**, with **core at +0.2% m/m and 3.0% y/y** — cooler than expected, and a direct contradiction of the four-year-high input-cost signal in the prior week's flash PMIs. The BEA concurrently **revised its price-measurement methodology**, a caveat worth holding. The personal saving rate came in at **4.1%**, with spending outrunning income. The same day, **New York Fed President John Williams said there was "no need for urgency"** on further tightening. **Hike odds fell 27 percentage points in 24 hours, to 41.5%.** Thursday's **ISM manufacturing printed 54.5 against 54.8 expected** — a marginal miss that left the growth picture intact.
+The week's data cut both ways, and the market initially heard only one side. **Dovish:** **August core PCE rose 0.2% m/m and 3.0% y/y against 3.3% expected**, headline **+0.3% m/m and 3.4% y/y** — though **BEA applied three retroactive methodology changes that RBC estimated trimmed core by roughly 0.18pp**, so the surprise is partly mechanical. **Williams said "there is no need for urgency"** — while also saying **"one further upward adjustment ... may be appropriate late this year"** — and **Jefferson** favoured more time. **Hawkish, and largely ignored:** **ISM manufacturing Prices Paid jumped 6.8 points to 77.9, the highest since the Iran war began**, with the headline at **54.5 against 55.0 expected** but **New Orders up to 55.3**; **S&P Global's final manufacturing PMI hit 55.9, the strongest since May 2022**, with input prices rising at a steeper rate on tariffs, energy and steel shortages. And the consumer buckled: **Conference Board confidence fell 6.7 points to 81.9 against 89.2 expected — a third straight decline and a 12-year low** — with **average 12-month inflation expectations up 0.3pp to 6.1%** and record price concerns. **JOLTS openings were 7.079mn**; Dallas Fed services activity swung to **−1.8 from +4.2**.
 
 #### Market Reaction
-- **Policy pricing:** ~70% → **41.5%** in a single session, before payrolls took it to 17%
-- **Bonds:** the front end rallied; the **30Y closed at 5.56% on Sep 28 and pushed to 5.636% intraday that week** — the long end ignored the disinflation entirely
-- **Currencies:** DXY firmed to **102.10 (+0.64%)** on Oct 1
-- **Metals:** gold closed **$4,182 (+0.63%)** Oct 1 and silver **$61.15 (+1.25%)**, with reports of **physical silver demand doubling**
+- **Policy pricing:** ~70% → roughly **44%** after the Tuesday speeches (venue estimates ranged 25–50%), before payrolls took it to 17%
+- **Bonds:** the front end rallied; **the 30Y hit 5.64% on Wednesday** — the long end priced Prices Paid and the 6.1% inflation expectation, not core PCE
+- **Equities:** **Dow −443.87 on Wednesday**; the S&P fell on three of the week's first four sessions
+- **Metals:** gold **$4,177** Oct 1, down $36 on the day, with silver near **$60–61** and reports of physical demand doubling
 
-**Pattern Comparison: Dampened.** Core PCE at 3.0% with a dovish Fed speaker should have rallied duration. The front end obliged and the long end refused — the clearest single piece of evidence that the long bond is pricing fiscal and inflation risk rather than the policy path.
+**Pattern Comparison: Dampened, then Inverse.** Core PCE at 3.0% with two dovish Fed speakers should have rallied duration. The front end obliged and the long end refused — the cleanest evidence that the long bond is pricing inflation and fiscal risk rather than the policy path.
 
 #### Impact Assessment Detail
-**Price Impact:** Major — a 27-point single-day move in policy odds.
-**Breadth:** Cross-Asset — rates, FX, metals.
-**Forward Significance:** Trend Confirmation — it set up Friday's payrolls rather than standing alone.
+**Price Impact:** Major — a ~26-point single-day move in policy odds and a 12-year low in confidence.
+**Breadth:** Cross-Asset — rates, FX, metals, equities.
+**Forward Significance:** Trend Confirmation — it set up Friday and explains Rank 1.
 **Calculated Score:** (7 × 2.0) × 1.25 = **17.5**
 
 ## Thematic Synthesis
 
 ### Dominant Market Narrative
-**The escape valve is now the problem.** For two years the reflex has been that weak data means a dovish Fed means lower yields means higher equities. This week weak data delivered a dovish Fed — and the 30Y hit a 24-year high. With forward guidance abolished and headline inflation at 3.4%, a Fed that stands down is a Fed that lets inflation run, and the long end charges for it. Equities have no rate-cut rescue available at a 5.6% 30Y.
+**The escape valve has become the problem.** For two years the reflex held that weak data means a dovish Fed means lower yields means higher equities. This week weak data delivered a dovish Fed — and the 30Y printed its highest since June 2002, then rose again on the payrolls miss itself. With forward guidance abolished, headline inflation at 3.4%, ISM Prices Paid at a war-era high and consumer inflation expectations at 6.1%, a Fed that stands down is a Fed that lets inflation run, and the long end charges for it. Equities have no rate-cut rescue available at a 5.6% 30Y.
 
 ### Interconnected Events
-**Reinforcing, in the wrong direction.** PCE (Rank 5) and payrolls (Rank 2) both pushed the policy path dovish; both coincided with a long end that rose anyway (Rank 1). The G7 release (Rank 3) is the one genuinely disinflationary force and it is time-limited. The AI complex (Rank 4) is the only equity support, and it is the same support as the last three weeks, now narrower.
+**Offsetting on the surface, reinforcing underneath.** PCE and the Fed speeches (Rank 5) and payrolls (Rank 2) pushed the policy path dovish; the same week's Prices Paid, confidence and inflation expectations pushed term premium the other way, and the long end sided with the second group (Rank 1). Oil (Rank 3) was genuinely two-sided — bullish Monday and Thursday, bearish Friday — and ended roughly flat in Brent, which means the disinflationary impulse the dovish case needs did not actually arrive. The AI complex (Rank 4) is the only equity support, and it is narrower than at any point this year.
 
 ### Market Regime Assessment
 **Risk Appetite:** Mixed, and narrower than last week.
-**Evidence:** VIX at 15.31 and a Nasdaq intraday record against a 171bp Dow–Nasdaq weekly spread, a median S&P 500 stock down 0.9%, a Russell 2000 down 0.2%, a 30Y at a 24-year high and gold falling on a dovish print. Twenty-eight stocks carrying 100% of the index's YTD return is not a bull market in equities; it is a bull market in roughly 28 balance sheets.
-**Sector Rotation:** AI hardware, memory and enterprise tech over everything; Dow-type industrials, bond proxies, rate-sensitives and consumer discretionary (Nike −8%) penalized.
+**Evidence:** VIX at 15.31 in its 15th percentile and a Nasdaq up on the week, against a 171bp Dow–Nasdaq spread, an **equal-weighted S&P down a seventh straight week**, a median S&P stock down 0.9% on the index's best day, a 30Y at a 24-year high, a dollar at a 17-month high versus the euro, gold down a second consecutive week and consumer confidence at a 12-year low. The Oura IPO's **$2.1bn postponement on Sep 29** is the primary-market version of the same signal. Twenty-eight stocks carrying 100% of the index's YTD return is not a bull market in equities; it is a bull market in roughly 28 balance sheets.
+**Sector Rotation:** Technology (+1.8%) and Energy (+1.5%) over everything; Health Care (−2.7%), Financials (−2.5%), Communication Services (−2.3%), staples and rate-sensitives penalized. Consumer discretionary was positive only on Tesla.
 
 ### Commodity Deep Dive
-- **Energy:** WTI **$91.11 (−1.4% wk)**, Brent **$102.70 (−~1.5% wk)**, with Brent **+7.52% m/m and +59.15% y/y**. The G7's 100mn bbl is the active driver; Hormuz throughput is the constraint. Diesel is the binding shortage.
-- **Precious Metals:** gold **$4,140.19**, capped near **$4,167** by two-decade-high yields; silver **$60.37** after $61.15 on Oct 1, with physical demand reported doubling. A second consecutive week of the safe-haven bid failing against real rates.
-- **Base Metals:** copper **$6.49/lb**, quiet — no independent China demand signal this week.
+- **Energy:** WTI **$91.11 (−1.41% wk)**, Brent **$102.25 (~flat, +0.11%)** after a **$108.83 Monday high**. Diesel is the binding constraint, with Russian refining at a two-decade low and Chinese exports suspended to Oct 7. Henry Hub **$3.04/MMBtu (+2.43% Friday)**.
+- **Precious Metals:** gold about **$4,140** spot with COMEX December at **$4,172.10 (−0.72%)**, **down 2–3.4% on the week in a second consecutive decline**; silver near **$60.4**; platinum **$1,692.90 (−2.0%)**. Real rates beat the dovish repricing decisively.
+- **Base Metals:** copper **$6.49/lb (+0.15%)** — no independent China demand signal.
+- **Crypto:** bitcoin about **$86,700**, **+0.6% on the week**.
 
 ### Anomalies and Surprises
-1. **A 53-point collapse in hike odds and a 24-year high in the 30Y, in the same week.** The defining anomaly; see Rank 1.
-2. **Gold fell on dovish data.** Nominal 5.28% against 3.4% PCE leaves a ~1.9% real yield — the opportunity cost beat the policy signal, twice in two weeks.
-3. **Micron grew DRAM 343% y/y and the S&P 500 finished the week lower.** Earnings are not the marginal price-setter; the discount rate is.
-4. **Oil fell on an inventory release, not a supply increase.** Four months of borrowed time, repurchased at a premium in November–December.
+1. **The 30Y rose on the payrolls miss itself.** Yields fell on the print, then reversed higher — the defining anomaly.
+2. **Gold fell in a week the Fed was priced out.** A 5.28% nominal against 3.4% PCE leaves a ~1.9% real yield; opportunity cost beat the policy signal for a second straight week.
+3. **Micron grew revenue 379% y/y and the S&P 500 finished lower.** The discount rate, not earnings, is the marginal price-setter.
+4. **The labor market disagreed with itself.** NFP +29k and wages at a four-year low, against an ADP beat, claims at 197k, continuing claims at a three-year low, participation up and U-6 at its lowest since January 2025.
+5. **The dovish PCE was partly an accounting change** — roughly 0.18pp of the core surprise traces to BEA methodology, not disinflation.
 
 ## Forward-Looking Implications
 
 ### Market Positioning Insights
-The market has now been wrong-footed on both legs of the consensus trade: the hiking cycle got priced out *and* duration got repriced worse. **The binding constraint is a 5.61% 30Y**, which sets the equity discount rate, the gold opportunity cost and the fiscal arithmetic simultaneously — and which no longer responds to dovish news in the expected direction. The equity market's defence is 28 stocks. The actionable watch item is whether the labor crack confirms: if it does, the growth scare arrives into a long end that has already refused to rally on dovish data, removing the one offset equities have left.
+The market has been wrong-footed on both legs of the consensus trade: the October hike got priced out *and* duration repriced worse. **The binding constraint is a 5.61% 30Y** that sets the equity discount rate, the gold opportunity cost and the fiscal arithmetic simultaneously, and that no longer responds to dovish news in the expected direction. The equity defence is 28 stocks and a seventh straight week of narrowing beneath them. The December meeting, not October, is now the live one at 65%.
 
 ### Upcoming Catalysts
-- **ISM Services · Mon Oct 5** — the next read on whether the September softness is broad
-- **September CPI · mid-October** — against a BEA-revised PCE methodology and 3.4% headline
-- **Q3 earnings season opens · banks from ~Oct 13** — the first test of credit and net interest margins at a 5.3% risk-free rate
-- **FOMC · Tue–Wed Oct 27–28** — now only ~17% priced for a hike; the expected move has shifted to **Dec 9**
+- **ISM Services · Mon Oct 5** — consensus 55.7 against 55.4; August Prices ran 72.6
+- **September FOMC minutes · ~Oct 7**, and the **30Y auction · Oct 8** — a direct test of long-end demand
+- **September CPI · mid-October** — against a revised PCE methodology and Prices Paid at 77.9
+- **FOMC · Oct 27–28 (~17% priced)**, with **December 9 at 65%**; **BOJ Oct 29–30**
 
 ### Risk Scenarios
-1. **The long end keeps going without the Fed.** Probability ~35%. Impact **Severe** — Barclays has flagged 6% on the 30Y; at that level the equity discount rate and the deficit math break together, and dovish policy accelerates rather than arrests it.
-2. **The labor crack confirms into a growth scare.** Probability ~40%. Impact **Major** — +29k with 60k revised away is one print, but ISM Services and October payrolls would make it a trend, and the usual rate-cut offset is unavailable.
-3. **The AI concentration trade unwinds.** Probability ~30%. Impact **Severe** — 28 stocks account for the entire index YTD return and AI hardware for 58%; Micron's print raises the bar it must clear next quarter.
-4. **G7 relief fades and Hormuz re-tightens.** Probability ~35%. Impact **Major** — the release is finite, product-weighted and front-loaded into 20 days; Brent above $100 with the chokepoint unresolved means the disinflationary impulse expires.
+1. **The long end keeps going without the Fed.** Probability ~35%. Impact **Severe** — Barclays has flagged 6% on the 30Y; the Oct 8 auction is the near-term test, and dovish policy accelerates rather than arrests it.
+2. **Stagflation confirms: Prices Paid leads CPI while payrolls stay soft.** Probability ~40%. Impact **Severe** — a 12-year low in confidence with 6.1% inflation expectations and a war-era high in input costs is the setup, and it removes the rate-cut offset entirely.
+3. **The AI concentration trade unwinds.** Probability ~30%. Impact **Severe** — 28 stocks carry the whole index return, the SOX has just run its longest streak in 32 years, and Micron's own bar is now $61.5bn a quarter.
+4. **Hormuz re-escalates or the G7 release expires without resolution.** Probability ~40%. Impact **Major** — Brent ended flat despite 100mn barrels, China's barrels return Oct 7 at the earliest, and the US must repurchase in November–December.
 
 ## Data Sources & Methodology
 
 ### News Sources Consulted
-- **Official (via secondary reporting):** Bureau of Labor Statistics (payrolls), Bureau of Economic Analysis (PCE), Institute for Supply Management (ISM), SEC EDGAR (Micron 8-K), CME FedWatch, Federal Reserve H.15, US Department of Energy / IEA (reserve release)
-- **Tier 1 Financial News:** Bloomberg, Reuters, CNBC, Morningstar, Yahoo Finance, Fox Business, NPR, Time, Benzinga
-- **Specialized:** Wolf Street, Trading Economics, USAGOLD, GoldSeek, Advisor Perspectives, Fortune, Gulf News, company investor relations (Micron, Accenture, Nike)
+- **Official (via secondary reporting):** BLS (payrolls, JOLTS), BEA (PCE), ISM, S&P Global, Conference Board, SEC EDGAR and GlobeNewswire (Micron, Carnival, Tesla IR), CME FedWatch, IEA / US DOE, ECB, OPEC
+- **Tier 1 Financial News:** Bloomberg, Reuters, CNBC, Washington Post, NPR, Al Jazeera, Axios, Morningstar, Fox Business, AP, Semafor
+- **Specialized:** Wolf Street, Kitco, USAGOLD, OilPrice, EnergyNow, Oil & Gas Journal, Trading Economics, Advisor Perspectives, Kpler (via reporting), Renaissance Capital
 
 ### Analysis Period
 - **Start Date:** 2026-09-28
@@ -198,21 +194,25 @@ The market has now been wrong-footed on both legs of the consensus trade: the hi
 - **Total Days:** 7
 
 ### Data Notes
-Figures here rest on secondary reporting; direct fetches to primary sources were not independently verified against the source documents, so **no number below was confirmed against a primary filing or release page.** Multiply-corroborated and arithmetically self-consistent figures are preferred, and material disputes are disclosed rather than resolved silently.
+Direct fetches to primary sources and Tier 1 outlets were blocked by the execution environment's network policy, so **every figure here derives from search-layer summaries of those sources and none was verified against a primary document.** Multiply-corroborated and arithmetically self-consistent figures are preferred; material disputes are disclosed rather than resolved silently. This report is a revision of an earlier version published the same day, correcting the 2Y level, the Brent weekly change, the omission of Monday's oil spike, and an overstatement of the labor-market signal.
 
-**Index levels.** The Friday Oct 2 settlements used (S&P 7,722.72; Nasdaq Composite 27,190.86; Dow 51,176.96) are internally consistent with the prior Friday's closes as published in last week's brief — 7,743.41, 27,068.72 and 51,828.62 — giving −0.27%, +0.45% and −1.26%, which match the reported weekly figures of −0.3%, +0.5% and −1.3%. One source described the Nasdaq as having set a **record close**; two others place the Friday close *below* the standing record close of **27,244.28 from Sep 22** while confirming an **intraday record of 27,353.68**. The intraday-record framing is used. The Russell 2000's −0.2% weekly change and the −0.9% median-stock figure are single-source.
+**Index levels.** The daily closes used are internally consistent and reconcile to the prior Friday's published settlements (7,743.41 / 51,828.62 / 27,068.72), giving S&P −0.27%, Nasdaq +0.45%, Dow −1.26% and Russell 2000 −0.16% — each independently corroborated. One aggregator reported "S&P +0.2%, Nasdaq +1.3%, Dow −319 points," which contradicts the daily closes and is not used. **Nasdaq record-close dispute:** AP and several outlets described Friday's 27,190.86 as a record close; two others place it below a standing record close of 27,244.28 set Sep 22, which is also consistent with last week's brief reporting a record close on Sep 21. Since 27,190.86 is arithmetically below 27,244.28, this report credits the **intraday** record (27,353.68) and treats the record-close framing as unresolved.
 
-**Rates.** The 10Y weekly change is reported as +11bp to 5.28%, with an intraday high quoted at both 5.34% and 5.344% (highest since April 3, 2002). The 30Y is given as 5.56% at the Sep 28 close (highest since June 2004), 5.636% intraday (a 24-year high) and 5.61% on Oct 2. The 2Y at ~4.92% and the ~30bp eight-session steepening are single-source and should be treated as indicative.
+**Rates.** 10Y 5.281% Friday, +~10bp on the week (also reported as +11bp to 5.28%); intraday high quoted at 5.34–5.344%. The 30Y is given at 5.61% Tuesday (highest since June 2002, sixth consecutive rise), 5.64% Wednesday and 5.61% Friday; a 5.636% intraday print is separately reported. The 2Y at 4.84% Friday and 2s30s near 77bp are single-source. **The earlier version of this report stated the 2Y rose to ~4.92%; that was Tuesday's level, and the 2Y fell thereafter.** Sep 29–30 auction results (2Y/5Y/7Y) could not be retrieved.
 
-**Policy pricing.** The path ~70% → 41.5% (Sep 30) → 17% (Oct 2) mixes venues: the 64% and 41.5% figures are Polymarket, the 17% is CME FedWatch, and the "~70%" start point is a round figure quoted in commentary rather than a settled print. The direction and rough magnitude are well corroborated; the precise levels are not comparable across venues.
+**Policy pricing.** The path mixes venues: ~70% start (CME FedWatch, round figure), 44%/50%/25% after the Tuesday speeches (Coinpedia, Pomegra and Stocktwits respectively — unreconciled), 17% Friday (CME FedWatch, with Kalshi and Polymarket near the same). December's 65% and the 72% for at least one more hike by 2027 are as of Oct 2. Levels are not comparable across venues; the direction is well corroborated.
 
-**Payrolls.** +29,000 is consistent across sources. The consensus is quoted as both +84,000 and +90,000; the lower figure is used in the headline comparison. One Morningstar headline carried "+119,000 Rise in Payrolls, Above Expectations" — that appears to belong to a different reference period and is excluded as inconsistent with the five other sources and with the market reaction.
+**Payrolls.** +29,000 is consistent across sources; consensus is quoted at both +84,000 and +90,000. A Morningstar headline carrying "+119,000, above expectations" is excluded as inconsistent with six other sources and the market reaction.
 
-**Nike.** EPS of $0.48 is reported against consensus quoted at both $0.44 (a beat) and $0.52 (a miss); revenue of $11.2bn missed a consensus given as $11.35bn–$11.45bn. The report is therefore characterized by its revenue miss, China decline and guidance rather than by an EPS verdict. The −8% move is after-hours on Oct 1.
+**Oil.** Monday's Brent settle of $105.28 with a $108.83 high (Al Jazeera/Reuters) is preferred over a conflicting "settled near $98" report. Brent's roughly flat weekly change reflects a Nov→Dec roll during the week, so nearby-contract comparisons overstate the decline; the peak-to-Friday figures are given as the cleaner measure. The G7 release is "up to 100mn bbl" of crude and product; one outlet described the entire 100mn as diesel, which conflicts with the others. The OPEC+ Oct 4 meeting outcome falls at the window's edge and is unverified.
 
-**Commodities and FX.** Gold $4,140.19, silver $60.37, copper $6.49/lb and DXY 101.89 are Oct 2 quotes with day-changes, not weekly settlements; no corroborated weekly percentage change could be sourced for gold, silver or the dollar, so those are described by level and direction. Brent's $102.70 (+0.38% day) and the "fell to around $101" intraday report are both carried. The G7 release is stated as "up to 100 million barrels" of crude and product; one outlet described the full 100mn as diesel, which conflicts with the others and is not used.
+**Commodities and FX.** Oct 2 gold is quoted at $4,140.06, $4,192.30 and $4,218 across timestamps, with COMEX December settling $4,172.10; the weekly decline is given as a 2–3.4% range. Silver is quoted at $60.36, $60.37 and $61.24. DXY is quoted at 101.68 and 101.93, with the ~0.9% weekly gain and third consecutive advance corroborated. Copper and natural gas weekly changes could not be sourced. The precise EUR/USD close is unverified.
 
-**Excluded.** An August 1, 2026 report of the 30Y at 5.28% and a May 2026 report of it topping 5.1% circulated in results for this window and belong to earlier periods. ISM Services for September was scheduled for Oct 5, outside this window, and is listed as a catalyst rather than a result.
+**Earnings.** Nike's EPS of $0.48 beat a $0.43 consensus per CNBC while revenue missed; an earlier version cited consensus at $0.44/$0.52, and the report is characterized by revenue, China and guidance. Nike's share reaction was reported at about −8% after hours by one source and could not be corroborated, so it is omitted. Micron's 81.1% gross margin is the FY26 figure; an 84.9% quarterly margin is separately reported.
+
+**Credit.** IG OAS near 80bp and HY near 285bp are reported alongside an ICE BofA HY OAS of 324bp on Oct 1 against 266bp on Sep 21. That implied ~58bp widening could not be corroborated and may be a data artifact, so credit spreads are excluded from the analysis above. Heavy corporate supply was nonetheless cited by Bloomberg as a driver of the long-end selloff.
+
+**Excluded or not in-window.** ISM Services for September was released Oct 5, outside the window, and appears only as a catalyst; the circulating "55.4" is the August figure. September FOMC minutes were due ~Oct 7. No government shutdown occurred — a continuing resolution signed Sep 2 funds operations to Dec 11 — and all data released on schedule. The flash manufacturing PMI's "high" is described as 52-month by NAM/S&P Global against 62-month in last week's brief; the discrepancy is unresolved.
 
 ### Knowledge Base References
 - `market_event_patterns.md`, `geopolitical_commodity_correlations.md`, `corporate_news_impact.md`, `trusted_news_sources.md`

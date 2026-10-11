@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "site": "Weekly Market Brief",
-  "updated": "2026-10-11T18:30:00+07:00",
+  "updated": "2026-10-11T19:05:00+07:00",
   "reports": [
     {
       "id": "2026-10-11",
@@ -14,11 +14,11 @@
       "title": "Weekly Market News — 10/11/2026",
       "path": "reports/2026/weekly-market-news-10112026.md",
       "brief": {
-        "headline": "Oct 5–9 was the week everything spiked and nothing broke: Brent cleared $105 on nine Hormuz tanker attacks, the 10Y touched 5.36% and the 30Y 5.73% (both 24-year highs), and Hurricane Isaias shut in 62.9% of Gulf of Mexico oil output — yet strong 10Y and 30Y auctions and Trump's no-strike-before-the-midterms commitment took almost all of it back, leaving the S&P 500 at a record 7,811.54 (+1.15%) with a VIX of 14.84. The internals inverted the headline: Energy +3.85% and Staples +3.59% against Technology −1.02% and a semiconductor index down 4.30% after the FT put OpenAI's annualized revenue at ~$50bn, not ~$70bn.",
+        "headline": "Oct 5–9 was the week the long end found a bid and the Fed found a December. Yields opened at 24-year highs (10Y 5.349%, 30Y 5.703%) and reversed as strong auctions snapped a five-week losing streak in bonds, but the oil premium held: Brent settled $104.72, +2.42%, on eleven Hormuz tanker attacks and 1.3 mb/d of Gulf output shut in by Hurricane Isaias. The S&P 500 set a record 7,819 on Tuesday and closed the week at 7,811.54 (+1.15%) with a 14.84 VIX — against $5.11bn of equity fund outflows, ISM Services Prices Paid at a four-year high of 74.0, UMich sentiment at 46.3, and December hike odds repriced from ~65% to 84%.",
         "regime": {
           "tone": "mixed",
-          "label": "Risk-on index, risk-off internals",
-          "evidence": "A record S&P close and a 14.84 VIX, but leadership in Energy, Staples and Utilities against Technology −1.02%, semis −4.30% and the Russell 2000 the only major index down"
+          "label": "A hawkish, defensive week wearing a record close",
+          "evidence": "A record S&P and a 14.84 VIX against $5.11bn of equity fund outflows, narrowing breadth, Energy and Staples leadership versus Technology −1.02%, and the Russell 2000 the only major index down"
         },
         "stats": [
           {
@@ -38,8 +38,8 @@
           },
           {
             "label": "Brent",
-            "value": "~$103 (flat wk)",
-            "dir": "flat"
+            "value": "$104.72 (+2.42%)",
+            "dir": "up"
           },
           {
             "label": "10Y",
@@ -55,50 +55,50 @@
         "events": [
           {
             "rank": 1,
-            "title": "Hormuz tanker war takes Brent above $105, then Trump rules out a strike before the midterms",
+            "title": "Hormuz tanker war keeps Brent above $100; Trump rules out strikes before the midterms",
             "score": 37.5,
             "assets": "Energy·Rates·Eq·FX·Metals",
-            "reaction": "Brent +4.07% to $104.28 Thu, >$105 intraday, ~$103 Fri (≈flat wk); WTI +3.6% to $91.49; Energy +3.85%",
-            "detail": "Nine tankers were attacked in and around the Strait of Hormuz and Houthi missiles reached Riyadh, with just seven commodity vessels transiting on Tuesday — a two-month low. The premium reversed on a single Truth Social post committing not to attack Iran before the November midterms."
+            "reaction": "Brent $104.72 (+2.42% wk), >$105 Thu; WTI $91.85 (+0.81%); oil +3.6% Thu; Energy +3.85%",
+            "detail": "Eleven tankers were attacked transiting Hormuz in the week to Oct 4, the most since the US–Iran war began in February, with Iranian crude still blockaded. Trump then said he would not attack Iran before the Nov 3 midterms — capping the US-strike tail while the blockade stays in force, and oil still finished the week higher."
           },
           {
             "rank": 2,
-            "title": "Long end hits 24-year highs, then the auctions take it back",
+            "title": "Long end opens at 24-year highs, auctions take it back, bonds snap a five-week losing streak",
             "score": 26.25,
             "assets": "Rates·Eq·FX·Metals",
-            "reaction": "10Y 5.36% / 30Y 5.73% Tue (highest since 2002) → 5.24% / 5.60% Fri; 2Y 4.80%; 2s10s +44bp",
-            "detail": "Crude above $100 drove the 10Y and 30Y to their highest since 2002 on Tuesday. A $39bn 10Y auction and a well-received 30Y then met strong demand at those yields, pulling both back and leaving the 10Y down 4bp on the week."
+            "reaction": "10Y 5.349% / 30Y 5.703% Mon (24-yr highs) → 5.24% / 5.60% Fri; 2Y 4.80%; 2s10s +44bp",
+            "detail": "Crude above $100 drove the 10Y and 30Y to their highest in 24 years on Monday, with the 10Y back near 5.36% on Wednesday. Strong Treasury auction demand at those yields then pulled the whole curve back, leaving the 10Y down 4bp on the week — the first evidence in over a month that the term-premium spiral has a ceiling."
           },
           {
             "rank": 3,
             "title": "FT: OpenAI annualized revenue ~$50bn, not the ~$70bn the market had capitalised",
             "score": 15.75,
-            "assets": "Semis·AI infra·Nasdaq·Asia tech",
-            "reaction": "Semi index −4.30% wk, SOXX −3.4% on the day; CoreWeave −7%; Oracle/Intel/SMCI ~−5%",
-            "detail": "OpenAI told investors its annualized revenue was ~$50bn at end-September, some $20bn below the figure in circulation, which had included partner revenue. The gap is a consolidation-method difference rather than lost sales, but it repriced the whole AI-infrastructure complex and spread to Chinese AI hardware names."
+            "assets": "Semis·AI infra·Nasdaq",
+            "reaction": "Semi index −3.4%, NDX −1.4%; NVDA −3%, Oracle −6%, CoreWeave −8%; Tech −1.02% wk",
+            "detail": "The ~$20bn gap is a consolidation-method difference rather than lost sales — the higher figure included partner revenue — and OpenAI still touted 77% run-rate growth in Q3. It repriced the AI-infrastructure complex anyway, spreading to Chinese AI hardware names, while the Nasdaq still rose on the week."
           },
           {
             "rank": 4,
-            "title": "Hurricane Isaias shuts in 63% of Gulf of Mexico output",
-            "score": 10.5,
-            "assets": "Energy·Nat Gas·Refiners",
-            "reaction": "~1.28 mb/d oil and ~1.13 bcf/d gas offline; 121 of 371 platforms evacuated; no sustained crude premium",
-            "detail": "The first Atlantic hurricane of the 2026 season took 62.9% of offshore oil and 57.4% of gas production offline, with Shell, Chevron and Harbour Energy curtailing output. Crude gave the premium back by Friday, as Gulf shut-ins defer barrels rather than destroy them."
+            "title": "Stagflationary data and a hawkish Fed move the hike to December",
+            "score": 12.0,
+            "assets": "Rates·FX·Eq",
+            "reaction": "ISM Services Prices Paid 74.0 (4-yr high); UMich 46.3 vs 47.8 exp; Dec hike odds ~65% → 84%",
+            "detail": "The September minutes split policymakers between containing energy-driven and demand-driven inflation, with a majority expecting another hike this year, and Waller signalled flexibility on timing. UMich sentiment hit a five-month low with 1-year inflation expectations rising to 4.7% — yet the 2Y still fell 4bp, pricing a terminal rate rather than a cycle."
           },
           {
             "rank": 5,
-            "title": "September FOMC minutes: unanimous on the hike, split on the next one",
-            "score": 10.0,
-            "assets": "Rates·FX·Eq",
-            "reaction": "DXY +0.42% on the day; Oct 28 hike odds 20–25% → 16–18%; December now the live meeting",
-            "detail": "All 19 participants backed September's hike to 3.75%–4.00% and most judged a further increase likely appropriate by year end, with almost all seeing inflation risks tilted to the upside. Markets shrugged: the minutes describe a meeting that preceded the +29k payrolls print that did the real repricing."
+            "title": "Hurricane Isaias shuts in 63% of Gulf of Mexico output",
+            "score": 10.5,
+            "assets": "Energy·Nat Gas·Refiners",
+            "reaction": "~1.3 mb/d oil and ~57% of gas offline; 121 of 371 platforms evacuated; premium did not persist",
+            "detail": "Shut-ins escalated from ~25% of oil output on Oct 7 to 62.9% by Oct 8, with Shell closing Mars, Olympus and Ursa and roughly 0.5 mb/d of refining capacity in the storm's path. Gulf hurricanes defer barrels rather than destroy them, and crude gave the storm premium back by Friday."
           }
         ],
         "catalysts": [
-          "September CPI · Oct 14",
-          "Q3 bank earnings (JPM, GS, BAC, C, WFC) · week of Oct 12–16",
-          "FOMC decision · Oct 27–28 (hold ~84% priced)",
-          "Isaias damage assessments and Gulf refinery restarts · Oct 12 onward"
+          "Q3 bank earnings open (WFC, JPM, C) · Tue Oct 13",
+          "September CPI · Wed Oct 14 (Cleveland Fed nowcast 3.60% headline)",
+          "FOMC · Oct 27–28, six days before the midterms (hold ~81% priced)",
+          "US midterm elections · Tue Nov 3 — the Iran no-strike pledge expires with them"
         ],
         "risks": [
           {

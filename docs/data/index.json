@@ -1,8 +1,124 @@
 {
   "schema": 1,
   "site": "Weekly Market Brief",
-  "updated": "2026-10-11T19:05:00+07:00",
+  "updated": "2026-10-18T18:30:00+07:00",
   "reports": [
+    {
+      "id": "2026-10-18",
+      "generated": "2026-10-18",
+      "coverageStart": "2026-10-12",
+      "coverageEnd": "2026-10-18",
+      "weekOfLabel": "Week of Oct 12 – 18, 2026",
+      "year": 2026,
+      "month": 10,
+      "title": "Weekly Market News — 10/18/2026",
+      "path": "reports/2026/weekly-market-news-10182026.md",
+      "brief": {
+        "headline": "Oct 12–16 was the week the inflation data ran hottest since 2022 and the bond market rallied anyway. September CPI printed 3.7% y/y and PPI +6.3% — the biggest annual gain since December 2022 — yet the 10Y closed at ~5.09%, down 14–15bp for its largest weekly decline since August 2025, because the flight out of AI credit outweighed the flight out of duration. Semis fell roughly 11–12% on an eighth straight decline with CoreWeave bonds at ~15%, while Hormuz throughput collapsed 32% and WTI closed above $100 at $101.41 (+10.4%).",
+        "regime": {
+          "tone": "risk-off",
+          "label": "Risk-off in composition, not in level",
+          "evidence": "Dow +0.67% against Nasdaq −4.48% — a ~515bp dispersion that gave the equal-weighted S&P its best week versus Technology since 2009 — with VIX at 19.99 and +$13bn into US equity funds against −$4.75bn out of technology sector funds"
+        },
+        "stats": [
+          {
+            "label": "S&P 500",
+            "value": "−1.95%",
+            "dir": "down"
+          },
+          {
+            "label": "Nasdaq",
+            "value": "−4.48%",
+            "dir": "down"
+          },
+          {
+            "label": "Dow",
+            "value": "+0.67%",
+            "dir": "up"
+          },
+          {
+            "label": "WTI",
+            "value": "$101.41 (+10.4%)",
+            "dir": "up"
+          },
+          {
+            "label": "10Y",
+            "value": "5.09% (−15bp)",
+            "dir": "down"
+          },
+          {
+            "label": "VIX",
+            "value": "19.99 (+5.15)",
+            "dir": "up"
+          }
+        ],
+        "events": [
+          {
+            "rank": 1,
+            "title": "Hormuz throughput collapses 32%; WTI closes above $100",
+            "score": 37.5,
+            "assets": "Energy·Eq·Rates·Inflation",
+            "reaction": "Brent $109.86 (+4.91%), WTI $101.41 (+10.4%); EIA −8.6mb, largest draw since February; XLE +4.86%",
+            "detail": "At least ten vessels were attacked in or near the Strait since Oct 11, the highest weekly total since the war began in February, and Kpler put throughput at an 11.62 mb/d weekly average against a 17.15 mb/d baseline. The premium stopped being insurance and started removing barrels — the Brent-WTI spread compressed from $12.87 to $8.45 as the US balance tightened."
+          },
+          {
+            "rank": 2,
+            "title": "AI/semiconductor unwind repriced through credit, not equity",
+            "score": 30.0,
+            "assets": "Semis·Credit·Nasdaq·Vol",
+            "reaction": "SOX ~−11/−12%, worst week since Apr 2025, 8th straight decline (longest since 2008); CRWV −25% wk, bonds ~15%; VIX 19.99, 22.31 intraday",
+            "detail": "CoreWeave's bonds traded at roughly a 15% yield against the ~6% investment-grade rate its buildout model assumes, on ~$52bn of debt, with Taiwan moving AI chips onto its controlled-items list and China's CXMT reviving memory oversupply fears. The transmission ran debt markets to equity — the regime change is that AI capex is now financed in credit, so a bond spread outranks an earnings beat."
+          },
+          {
+            "rank": 3,
+            "title": "September CPI 3.7% and PPI +6.3% — hottest pair since 2022",
+            "score": 26.25,
+            "assets": "Rates·Eq·FX·Policy",
+            "reaction": "10Y spiked 5.19% → 5.33% on CPI; S&P −1%, Nasdaq −1.9%, XLK −2.99% Wed; Oct hike odds 22.1% → 53.7%",
+            "detail": "CPI came in at +0.6% m/m and 3.7% y/y against 3.6% expected, with gasoline +9.1%; PPI was the larger surprise at +1.3% m/m versus +0.6% consensus, the largest monthly gain since March 2022, with energy +10.8% accounting for over 80% of the final-goods increase. Retail sales beat at +0.8% but ex-gas rose only +0.2% and real spending +0.1%."
+          },
+          {
+            "rank": 4,
+            "title": "Rate-path whipsaw: 10Y −15bp despite the inflation data",
+            "score": 15.75,
+            "assets": "Rates·FX·Eq",
+            "reaction": "10Y ~5.09% (−15bp), best week since Aug 2025, range 5.329%–5.037%; Oct odds 22.1% → 53.7% → ~14–18%; DXY −0.3/−0.4%",
+            "detail": "Williams said one more hike may be appropriate but saw no reason to do more in 2027, pointing to underlying trends beneath the energy and AI shocks; by Friday, Chair Warsh signalled a steady outlook before Saturday's blackout. A worse PPI produced a better bond reaction than the CPI did — composition beat magnitude, with over 80% of the increase energy and real spending at +0.1%."
+          },
+          {
+            "rank": 5,
+            "title": "Goldman beats by ~30%, JPMorgan misses, all six banks fall",
+            "score": 7.9,
+            "assets": "Financials",
+            "reaction": "GS EPS $17.01 vs $13.02, ROE 18.7%, equities revenue +72% y/y; JPM $5.75 vs $5.93 and a buyback cut; GS −0.2% to Citi −5.6%",
+            "detail": "Goldman delivered net revenue of $18.68bn and a roughly 30% EPS beat, yet every large US bank fell on earnings day. The beat was low quality — trading revenue earned from the same volatility now repricing AI credit is not recurring — and JPMorgan's buyback cut alongside a revenue miss carried more cycle information than Goldman's quarter did."
+          }
+        ],
+        "catalysts": [
+          "Netflix Q3 · Tue Oct 20",
+          "Tesla + Meta Q3 · Wed Oct 21",
+          "FOMC decision · Wed Oct 28 (~85% hold)",
+          "MSFT/GOOGL Oct 28, AMZN Oct 29, AAPL Nov 2 · AI capex guidance"
+        ],
+        "risks": [
+          {
+            "label": "AI credit contagion spreads beyond CoreWeave",
+            "prob": "30%",
+            "impact": "Severe"
+          },
+          {
+            "label": "Hormuz throughput steps down again",
+            "prob": "20%",
+            "impact": "Severe"
+          },
+          {
+            "label": "Fed hikes Oct 28 against ~85% hold pricing",
+            "prob": "15%",
+            "impact": "Major"
+          }
+        ]
+      }
+    },
     {
       "id": "2026-10-11",
       "generated": "2026-10-11",

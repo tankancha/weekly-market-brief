@@ -1,8 +1,124 @@
 {
   "schema": 1,
   "site": "Weekly Market Brief",
-  "updated": "2026-10-18T18:30:00+07:00",
+  "updated": "2026-10-25T18:12:08+07:00",
   "reports": [
+    {
+      "id": "2026-10-25",
+      "generated": "2026-10-25",
+      "coverageStart": "2026-10-19",
+      "coverageEnd": "2026-10-25",
+      "weekOfLabel": "Week of Oct 19 – 25, 2026",
+      "year": 2026,
+      "month": 10,
+      "title": "Weekly Market News — 10/25/2026",
+      "path": "reports/2026/weekly-market-news-10252026.md",
+      "brief": {
+        "headline": "Oct 19–23 was the week the AI trade stopped being a valuation question and became a funding question. Meta reported its first negative free cash flow since the 2012 IPO (−$2.12bn) while raising FY capex to $135–145bn and creating a nonvoting share class to finance it, hours after Jensen Huang said \"the demand for the capital is much greater than the availability of the capital.\" Nasdaq fell 2.6% Thursday and the SOX 6.7% while the 10Y rallied 19bp — a flight to quality, not a rate-driven de-rating. Meanwhile Houthi strikes landed inside Saudi Arabia, Aramco evacuated its Dhahran headquarters, and Brent settled at $116.72, its highest since April.",
+        "regime": {
+          "tone": "risk-off",
+          "label": "Risk-off beneath a flat surface",
+          "evidence": "S&P 500 only −0.5% on the week but breadth at 135 advancers against 367 decliners, SOX −6.7% in a session and −26% from its June record, CNN Fear & Greed at 21 (Extreme Fear), with IT and Communication Services each down more than 5% month-to-date"
+        },
+        "stats": [
+          {
+            "label": "S&P 500",
+            "value": "7,623.68 (−0.5%)",
+            "dir": "down"
+          },
+          {
+            "label": "Nasdaq",
+            "value": "25,955.34 (−0.7%)",
+            "dir": "down"
+          },
+          {
+            "label": "Dow",
+            "value": "52,215.16 (+0.4%)",
+            "dir": "up"
+          },
+          {
+            "label": "Brent",
+            "value": "$116.72 (+6%)",
+            "dir": "up"
+          },
+          {
+            "label": "Gold",
+            "value": "$4,021.04 (−3.6%)",
+            "dir": "down"
+          },
+          {
+            "label": "10Y",
+            "value": "5.00% (−9bp)",
+            "dir": "down"
+          }
+        ],
+        "events": [
+          {
+            "rank": 1,
+            "title": "AI capex repriced as a credit problem, not an equity one",
+            "score": 45.0,
+            "assets": "Eq·Credit·Rates·Vol",
+            "reaction": "Nasdaq −2.6% Thu (worst since Jun 5), SOX −6.7%, META −7% to $648.85 after a $737.70 print, 10Y −19bp (biggest drop since Mar 2023)",
+            "detail": "Meta beat revenue by $1.3bn at $64.60bn (+26% y/y) yet posted free cash flow of −$2.12bn — capex $34.91bn against $32.79bn of operating cash flow — raised FY capex to $135–145bn and announced a nonvoting Class C share class explicitly to finance growth. With Huang calling capital scarcer than demand and CoreWeave's 2032 bond at ~14.9% on a ~1,082bp CDS, the market had three confirmations in 18 hours that the buildout is financed at the margin in credit."
+          },
+          {
+            "rank": 2,
+            "title": "Houthi strikes inside Saudi Arabia; Aramco evacuates Dhahran HQ",
+            "score": 37.5,
+            "assets": "Energy·Inflation·Eq·Rates",
+            "reaction": "Brent $116.72 (+3.14% Fri, ~+6% wk), highest settle since Apr 29; WTI $103.27; Brent-WTI widened to ~$13.45; Energy the only winning sector",
+            "detail": "Reuters, citing six sources, reported Aramco told Dhahran HQ staff to leave indefinitely after a tower in the compound burned across three floors, with deaths at Dammam airport and the Shaybah oilfield. The 2022 truce has collapsed and the US ordered non-emergency staff out of Saudi Arabia, yet no barrels have actually been lost — the ~6% week prices proximity to Saudi capacity, not a realised outage, with the reported strike window deferred to after Nov 3."
+          },
+          {
+            "rank": 3,
+            "title": "Real rates break the metals; December hike near-fully priced",
+            "score": 25.0,
+            "assets": "Metals·Rates·FX",
+            "reaction": "Gold −3.6% to $4,021.04, below $4,000 intraday for the first time since mid-July; silver ~−6% to ~$53.90, a YTD low; gold/silver ratio 69:1 → 73–74:1",
+            "detail": "Friday's flash PMIs were stagflationary — manufacturing 56.0 at a 53-month high, new orders the strongest in 4.5 years, and selling prices rising at the fastest pace since August 2022. December hike pricing hardened to ~73–87%, with 100 of 100 polled economists expecting one, and gold fell in the same week missiles struck Saudi soil: real rates, not risk, are setting the discount rate."
+          },
+          {
+            "rank": 4,
+            "title": "French 10Y OAT above 5%, first time since 2002",
+            "score": 17.5,
+            "assets": "Sovereign·FX·Eq",
+            "reaction": "OAT ~5.04% after an intraday 5.002% print; OAT–Bund 157–177bp, widest since 2011; French yields briefly exceeded US Treasurys",
+            "detail": "Budget deadlock in a divided parliament over a 2027 package carrying €43bn of new fiscal measures, compounded by weekend unrest, took a core euro-area sovereign to a 24-year yield high; Moody's held Aa3 with a negative outlook. The euro barely moved, so markets read it as idiosyncratic — but it caps how much relief duration can supply in the next risk-off episode."
+          },
+          {
+            "rank": 5,
+            "title": "Q3 prints sorted on cash flow, not EPS",
+            "score": 7.5,
+            "assets": "Comm·Discretionary·Tech",
+            "reaction": "NFLX −5%+ on a beat; TSLA +2% after hours then negative; IBM higher on a raised FY FCF guide",
+            "detail": "Netflix beat at $0.87 vs $0.82 but cut full-year ad revenue guidance; Tesla beat adjusted EPS at $0.48 vs $0.44 while net income fell 29% and free cash flow dropped 62% to $1.53bn; IBM double-beat and raised its FCF forecast. All three reactions sorted on the direction of cash flow guidance rather than the size of the beat — the same rule the market applied to Meta two days later."
+          }
+        ],
+        "catalysts": [
+          "FOMC decision · Wed Oct 28 (~85% hold; December language is the trade)",
+          "Alphabet + Microsoft Oct 28, Amazon + Intel Oct 29, Apple Nov 2 · capex guidance",
+          "ECB Oct 29 (97% hold) + BoJ Oct 30 · inflation forecast the hawkish tell",
+          "US midterms · Tue Nov 3 · Iran strike window opens behind it"
+        ],
+        "risks": [
+          {
+            "label": "AI credit stress reaches an investment-grade borrower",
+            "prob": "30%",
+            "impact": "Severe"
+          },
+          {
+            "label": "Confirmed hit on Saudi production or loading capacity",
+            "prob": "20%",
+            "impact": "Severe"
+          },
+          {
+            "label": "Fed signals December explicitly on Oct 28",
+            "prob": "35%",
+            "impact": "Major"
+          }
+        ]
+      }
+    },
     {
       "id": "2026-10-18",
       "generated": "2026-10-18",

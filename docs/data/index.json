@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "site": "Weekly Market Brief",
-  "updated": "2026-11-01T18:30:00+07:00",
+  "updated": "2026-11-01T18:52:00+07:00",
   "reports": [
     {
       "id": "2026-11-01",
@@ -14,16 +14,16 @@
       "title": "Weekly Market News — 11/01/2026",
       "path": "reports/2026/weekly-market-news-11012026.md",
       "brief": {
-        "headline": "The AI trade broke on cash flow, not valuation. Alphabet posted −$9.07bn free cash flow and fell 13% — its worst day ever — on a capex print $3.7bn BELOW consensus, while Amazon held 2026 capex near $220bn and guided 2027 \"meaningfully more.\" Intel then fell 28.58%, its worst session since 1974, because AI datacenters bid up memory and gutted PC economics. The S&P 500 lost only 0.6% on the week but 1.8% on Friday alone, and the Nasdaq closed October down ~5.3%, its worst month since March 2025 — all while the Fed held at 3.75–4.00% with two dissents in favor of a hike.",
+        "headline": "The AI trade broke on cash flow and credit, not on demand. Microsoft beat with Azure accelerating to 48% and AWS grew 39% on a $578bn backlog — yet Alphabet had its worst day since its 2004 IPO (−12.6%) on an $8.7bn securities loss and −$9.1bn quarterly free cash flow, and Amazon fell on −$42.4bn trailing FCF. Intel then fell 28.6%, its worst session since 1974, on a PC guide-down, dragging the SOX down 7.2%. But the damage was narrow: the S&P 500 lost only 0.57% and the Russell 2000 ROSE 1.3% while the Nasdaq fell 2.0% — money rotated into Treasuries and small caps rather than out of risk.",
         "regime": {
-          "tone": "risk-off",
-          "label": "Risk-off: rising discount rates meet falling cash conversion",
-          "evidence": "Nasdaq Composite −5.3% in October and Nasdaq 100 −6.65% (worst month since March 2025), index ~7.8% below its early-October record, S&P 500 −1.82% Friday (worst day since June 5), VIX +12.91% to 19.42, and gold −3.6% on the week alongside equities — deleveraging, not hedging"
+          "tone": "mixed",
+          "label": "Narrow, funding-driven de-rating — not broad risk aversion",
+          "evidence": "Nasdaq −2.0% on the week and −5.3% in October (worst month since March 2025) with the SOX −7.2% Friday, yet the Russell 2000 rose 1.3%, October 29 breadth was positive even as the index fell, the S&P lost just 0.57%, and the 10Y rallied 7bp to 4.93% — rotation out of AI, not out of risk"
         },
         "stats": [
           {
             "label": "S&P 500",
-            "value": "7,580.07 (−0.6%)",
+            "value": "7,580.07 (−0.57%)",
             "dir": "down"
           },
           {
@@ -32,9 +32,9 @@
             "dir": "down"
           },
           {
-            "label": "Dow",
-            "value": "51,770.31 (−0.9%)",
-            "dir": "down"
+            "label": "Russell 2000",
+            "value": "2,811.84 (+1.3%)",
+            "dir": "up"
           },
           {
             "label": "Brent",
@@ -43,7 +43,7 @@
           },
           {
             "label": "Gold",
-            "value": "$3,875.84 (−3.6%)",
+            "value": "~$3,876 (−3%)",
             "dir": "down"
           },
           {
@@ -58,51 +58,51 @@
             "title": "Alphabet Q3: growth without cash",
             "score": 25.0,
             "assets": "Eq·Credit·Rates",
-            "reaction": "GOOGL −13%, worst day on record; S&P closed 7,720.39 Thursday",
-            "detail": "Google Cloud revenue doubled to $30.7bn on a ~$500bn run rate and Gemini passed 1bn users, but free cash flow was −$9.07bn against a −$2.70bn expected deficit and diluted EPS was $2.12 after $8.2bn of negative other income from an unrealized SpaceX loss. Capex of $51.4bn came in $3.7bn below consensus — and the stock still had its worst session ever, because the market now scores AI spend on cash conversion rather than restraint."
+            "reaction": "GOOGL −12.6% to $283.82, worst day since its 2004 IPO",
+            "detail": "Revenue of $127.6bn (+25%) was in line — this was not a demand miss. GAAP EPS of $2.12 missed ~$3.01 on an $8.7bn loss on equity securities, chiefly the SpaceX stake, and quarterly free cash flow was −$9.1bn. Capex of $51.4bn actually came in below the ~$55bn consensus and FY26 guidance was unchanged at $195–205bn, yet the stock had its worst day in 22 years — the market has switched from scoring spend discipline to scoring cash conversion."
           },
           {
             "rank": 2,
             "title": "Intel: AI eats the PC market",
             "score": 22.5,
             "assets": "Eq·Semis·Hardware",
-            "reaction": "INTC −28.58% to $65.76, worst day since 1974, ~$140bn erased",
-            "detail": "Q4 guidance landed far below consensus because memory prices bid up by AI datacenter buildouts have made PCs materially costlier to build; Intel now sees PC shipments −12% in 2026 and −10% in 2027. The paradox: its own datacenter and AI segment grew 78% YoY to $7.3bn and is supply-constrained, proving the capex cycle destroys margin elsewhere in its own sector."
+            "reaction": "INTC −28.6% to $65.76, worst day since 1974; SOX −7.2%",
+            "detail": "Q3 was a beat (adj EPS $0.52 vs $0.41) but Q4 guidance landed at $15–16bn revenue against ~$17bn consensus because memory prices bid up by AI datacenter buildouts have made PCs costlier to build — BofA cites PC shipments down 25–30% q/q. Intel's own AI server business grew 78% and is supply-constrained. Contagion hit Dell −13%, AMD −10%, ARM −10.2% and Nvidia −3%; this, not the Fed, caused Friday's selloff."
           },
           {
             "rank": 3,
             "title": "FOMC holds, two dissents for a hike",
             "score": 18.0,
             "assets": "Rates·FX·Eq·Cmdty",
-            "reaction": "Equities muted (S&P +0.3%); front end jumped, curve steepened, 10Y 5.02%",
-            "detail": "The Committee voted 10–2 to hold at 3.75–4.00%, with Cook and Hammack dissenting in favor of a 25bp hike — the dissent configuration, not the hold, is the signal. Chair Warsh said politics played \"no role\" ahead of the midterms and judged September's hike to be slowing demand; December hike odds closed at 82.6% on CME FedWatch."
+            "reaction": "Equities muted (S&P +0.28%); 2Y −10bp on the week, 2s10s +3bp",
+            "detail": "The Committee voted 10–2 to hold at 3.75–4.00%, with Governor Cook and Cleveland's Hammack dissenting in favor of a 25bp hike — the dissent configuration, not the hold, is the signal. Chair Kevin Warsh said the midterms played \"no role\" and judged September's hike to be curbing demand. A December hike was priced near 84% immediately after the decision, easing to roughly 70–80% by week's end."
           },
           {
             "rank": 4,
             "title": "Amazon Q3: capex escalation",
             "score": 17.5,
             "assets": "Eq·Credit",
-            "reaction": "AMZN −7.3% after hours, −7% Friday premarket",
-            "detail": "Revenue of ~$201.9bn with AWS up 39.3% was fine; EPS of $1.89 missed $1.97 and Q4 operating income guidance of $28.5–33.5bn straddled consensus with a midpoint below it. The decisive item was 2026 cash capex held near $220bn with Jassy signaling 2027 \"meaningfully more\" — making Amazon the third of the four top AI spenders to print negative free cash flow this cycle."
+            "reaction": "AMZN −4.25% to $243.79, then ~−6% after hours",
+            "detail": "Operationally strong — operating income +61% on a record 13.9% margin, AWS +39% to ~$46bn with a $578bn backlog and guidance above 40% growth in 2027 and 2028. But EPS of $1.89 missed ~$1.97, Q4 revenue guidance of $240–247bn landed largely below consensus, 2026 capex held near $220bn and trailing free cash flow was −$42.4bn, making Amazon the third top AI spender in two weeks to print deeply negative FCF."
           },
           {
             "rank": 5,
-            "title": "IRGC re-declares Hormuz closed; tankers mined",
+            "title": "Hormuz mine strikes; Houthis hit Saudi refineries",
             "score": 15.0,
             "assets": "Energy·FX·Rates",
-            "reaction": "Brent Dec settled $117.64 (+0.8% wk) — under 1% on a formal closure",
-            "detail": "The IRGC formally declared the strait closed on October 26 (day ~245), the IMO said on October 27 it cannot guarantee safe transit because of mines, and Iran reported four tankers struck mines while disputing a US claim the lanes were cleared. Brent still rose less than 1% on the week — the market has repriced Hormuz from an event to a standing condition — but October delivered +13.6% for Brent and +15.2% for WTI, a fourth straight monthly gain."
+            "reaction": "Brent Dec settled $117.64, +0.8% on the week — under 1% on confirmed mine strikes",
+            "detail": "Iran's IRGC claimed four tankers struck naval mines while CENTCOM said primary routes were cleared; UKMTO separately confirmed a limpet-mine strike, reportedly the first in the waterway since the war began in February. The Houthis claimed hits on the Ras Tanura and Rabigh refineries and Abqaiq. Yet Saudi exports actually ROSE in October — this is risk premium, not realized supply loss, which is why the week's move was contained even as October delivered Brent +13.6% and WTI +15.2%."
           }
         ],
         "catalysts": [
+          "ISM Manufacturing + Apple FQ4 · Mon Nov 2",
           "US midterm elections · Tue Nov 3",
-          "October jobs report · Fri Nov 6 (~65k cons. vs 29k prior)",
-          "October CPI · Tue Nov 10 (prior 3.7% YoY)",
-          "FOMC decision + projections · Dec 8–9 (82.6% hike priced)"
+          "October jobs report · Fri Nov 6 (prior +29k)",
+          "Nvidia FQ3 earnings · Tue Nov 17"
         ],
         "risks": [
           {
-            "label": "AI capex credit event as hyperscaler FCF turns negative",
+            "label": "AI capex credit event — AAA datacenter CMBS +21–24bp, AI paper 40% of HY net issuance",
             "prob": "30%",
             "impact": "Severe"
           },
@@ -112,9 +112,9 @@
             "impact": "Major"
           },
           {
-            "label": "Hormuz escalation beyond bypass capacity",
-            "prob": "20%",
-            "impact": "Severe"
+            "label": "Rotation fails and the de-rating broadens beyond AI",
+            "prob": "25%",
+            "impact": "Major"
           }
         ]
       }

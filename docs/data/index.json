@@ -1,8 +1,124 @@
 {
   "schema": 1,
   "site": "Weekly Market Brief",
-  "updated": "2026-11-01T18:52:00+07:00",
+  "updated": "2026-11-08T18:07:23+07:00",
   "reports": [
+    {
+      "id": "2026-11-08",
+      "generated": "2026-11-08",
+      "coverageStart": "2026-11-02",
+      "coverageEnd": "2026-11-08",
+      "weekOfLabel": "Week of Nov 2–8, 2026",
+      "year": 2026,
+      "month": 11,
+      "title": "Weekly Market News — 11/08/2026",
+      "path": "reports/2026/weekly-market-news-11082026.md",
+      "brief": {
+        "headline": "The S&P 500 had its worst week since the April 2025 tariff crash (−2.68% to 7,376.86) and the cause was political, not fundamental. Democrats swept both chambers on Nov 3, and on Nov 5 equities repriced the AI data-center buildout for regulatory risk: the S&P fell 4.36% in a session, the Magnificent 7 shed ~$1tn, and the VIX spiked 69.7% to 28.18 — its third-largest one-day gain since 1990. The same election collapsed energy: Brent −16% to $98.32 on US–Iran deal bets, the worst week since 2020. Friday's +165K payrolls (vs ~65K consensus) then completed the inversion — markets now price a December Fed HIKE, not a cut.",
+        "regime": {
+          "tone": "risk-off",
+          "label": "Risk-off, but narrowly targeted — a de-rating of one trade",
+          "evidence": "S&P −2.68% and Nasdaq −3.37% with tech −8.23% and the VIX +32% on the week, yet the Dow lost just 0.94%, gold and silver both ROSE, and Friday's reversal was immediate — fear priced into AI infrastructure, not risk assets broadly"
+        },
+        "stats": [
+          {
+            "label": "S&P 500",
+            "value": "7,376.86 (−2.68%)",
+            "dir": "down"
+          },
+          {
+            "label": "Nasdaq",
+            "value": "−3.37%",
+            "dir": "down"
+          },
+          {
+            "label": "VIX",
+            "value": "~25.6 (+32%)",
+            "dir": "up"
+          },
+          {
+            "label": "Brent",
+            "value": "$98.32 (−16%)",
+            "dir": "down"
+          },
+          {
+            "label": "Gold",
+            "value": "~$4,050 (+4.1%)",
+            "dir": "up"
+          },
+          {
+            "label": "10Y",
+            "value": "4.858% (−7bp)",
+            "dir": "down"
+          }
+        ],
+        "events": [
+          {
+            "rank": 1,
+            "title": "Midterm sweep triggers AI regulation rout",
+            "score": 45.0,
+            "assets": "Eq·Credit·Crypto·Rates",
+            "reaction": "S&P −4.36% in one session; VIX +69.7% to 28.18; Mag 7 −$1tn",
+            "detail": "Democrats took both chambers on Nov 3 with 250+ House seats and 54 in the Senate. On Nov 5 investors concluded a Democratic Congress and flipped state governments could impose data-center moratoriums: Nvidia −9.3% to $181.60 (negative for the year), Micron −14–17.5%, CoreWeave −9–10%. No legislation was enacted — this repriced policy risk, which is why it hit multiples rather than earnings."
+          },
+          {
+            "rank": 2,
+            "title": "Brent collapses 16% on US–Iran deal bets",
+            "score": 30.0,
+            "assets": "Energy·Eq·FX·Breakevens",
+            "reaction": "Brent $98.32, worst week since the 2020 Covid shock; WTI −13% to $90.83",
+            "detail": "The first credible glimmer of US–Iran talks after the midterms unwound almost the entire Hormuz risk premium that had carried Brent above $117. Friday's tanker attacks near the Strait sparked a partial rebound, confirming the physical risk is repriced rather than resolved — and that a 16% compression can reverse just as fast."
+          },
+          {
+            "rank": 3,
+            "title": "October payrolls smash estimates at +165K",
+            "score": 17.5,
+            "assets": "Rates·FX·Eq",
+            "reaction": "DXY +0.75% to 102.32; December hike odds to ~65–77%",
+            "detail": "Payrolls beat a ~65K consensus by 100K while unemployment FELL to 4.1%, with 84K of upward revisions to Aug/Sep. Internals were softer: U-6 rose to 7.9% and the long-term unemployed share hit 27.6%, highest since late 2021. Equities rallied anyway (S&P +0.3%) — rate risk was not the binding constraint."
+          },
+          {
+            "rank": 4,
+            "title": "Palantir, AMD, Qualcomm all beat — all sold off",
+            "score": 13.1,
+            "assets": "Eq (Semis·Software)",
+            "reaction": "Tech −8.23% on the week; PLTR −9.7% to $154.99",
+            "detail": "Three AI-levered names reported ahead of expectations and all three fell. Palantir dropped on decelerating total contract value, its eighth straight down session; AMD beat and guided above consensus then surrendered the pop in the Nov 5 semi rout; Qualcomm beat but fell on softening smartphone-chip revenue. Beat-then-sell is the signature of multiple compression, not an earnings turn."
+          },
+          {
+            "rank": 5,
+            "title": "BoE hikes to 4.0% in global hawkish turn",
+            "score": 10.0,
+            "assets": "Rates·FX·Global Eq",
+            "reaction": "8–1 vote with Mann dissenting for 50bp; Williams calls inflation 'too high'",
+            "detail": "Bailey said the hike 'might not be the last' while warning against reading it as a series. With BoJ minutes flagging room to accelerate from 1.25% and the ECB's next move now priced as a December hike, four major central banks converged hawkish — removing the easing cushion that AI capex valuations had been discounting."
+          }
+        ],
+        "catalysts": [
+          "October CPI · Tue Nov 10, cons. +0.2% headline / +0.3% core",
+          "CoreWeave earnings · Tue Nov 10, the AI-financing test",
+          "OPEC monthly report · Nov 11; OPEC+ ministerial · Nov 29",
+          "FOMC decision · Dec 9, ~65–77% priced for a 25bp hike"
+        ],
+        "risks": [
+          {
+            "label": "Hot October CPI locks in a December hike",
+            "prob": "40%",
+            "impact": "Major"
+          },
+          {
+            "label": "US–Iran talks collapse; Hormuz premium rebuilds",
+            "prob": "35%",
+            "impact": "Severe"
+          },
+          {
+            "label": "State data-center moratoriums actually materialise",
+            "prob": "25%",
+            "impact": "Severe"
+          }
+        ]
+      }
+    },
     {
       "id": "2026-11-01",
       "generated": "2026-11-01",

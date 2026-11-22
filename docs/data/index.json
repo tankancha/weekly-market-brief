@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "site": "Weekly Market Brief",
-  "updated": "2026-11-22T21:40:00+07:00",
+  "updated": "2026-11-22T22:15:00+07:00",
   "reports": [
     {
       "id": "2026-11-22",
@@ -14,21 +14,21 @@
       "title": "Weekly Market News — 11/22/2026",
       "path": "reports/2026/weekly-market-news-11222026.md",
       "brief": {
-        "headline": "The AI trade de-rated. The S&P 500 fell 8.6% to 6,910.39 — its worst week since April 2025 — on a seventh straight down day, entering correction 11.6% below its record and slicing through its 200-day average. The Nasdaq lost 10%, erasing its entire 2026 gain; the Nasdaq-100 closed 49 points from a bear market and semiconductors fell 17.13%, their deepest week since September 2001. Friday's Reuters report that the SEC is examining Nvidia's accounting took NVDA down 14% to a 52-week low — three days after it beat with $115.8bn revenue and guided Q4 to ~$130bn. Hawkish October FOMC minutes locked a December 9 hike at ~92–96%, and the haven bid went to the dollar and Treasuries, not gold, which fell another 9.1%.",
+        "headline": "The AI trade cracked. The S&P 500 fell 8.61% to 6,910.39 — its worst week since April 2025 — on a seventh straight down day, the longest losing run since February 2020, entering correction and slicing through its 200-day average. The Nasdaq lost 10.02% and turned negative for 2026; the Nasdaq-100 closed 49.41 points from a bear market and semiconductors fell 17.13%, their deepest week since September 2001. Nvidia lost 23% — its worst week since October 2008 — after Reuters reported the SEC is examining its accounting, three days after it beat with $115.8bn revenue and guided Q4 to $130bn. The liquidation was indiscriminate across metals (gold −9%, silver to −15.4%, copper −10%) while the haven bid went to the dollar at a 19-month high and to Treasuries, with the 2-year down 20bp.",
         "regime": {
           "tone": "risk-off",
           "label": "Risk-off, AI de-rating with credit stress",
-          "evidence": "All eleven SPDR sectors lower — Technology −12.49% against Staples −2.05% — with VIX ~36, decliners over advancers 376 to 123, the 10Y bid 22bp lower and high-yield funds −0.8%, while gold was sold rather than bought"
+          "evidence": "All eleven SPDR sectors lower — Technology −12.49% against Staples −2.05% — with VIX 35.89 (+86%), decliners over advancers 376 to 123, $11.65bn of SPY outflows, Treasuries bid across the curve and high-yield funds −0.8%, while gold and silver were sold rather than bought"
         },
         "stats": [
           {
             "label": "S&P 500",
-            "value": "6,910.39 (−8.6%)",
+            "value": "6,910.39 (−8.61%)",
             "dir": "down"
           },
           {
             "label": "Nasdaq Comp",
-            "value": "~22,618 (−10%)",
+            "value": "22,617.73 (−10.02%)",
             "dir": "down"
           },
           {
@@ -38,17 +38,17 @@
           },
           {
             "label": "VIX",
-            "value": "~36 (>39 intraday)",
+            "value": "35.89 (+86%)",
             "dir": "up"
           },
           {
-            "label": "10Y Treasury",
-            "value": "4.932% (−22bp)",
+            "label": "2Y Treasury",
+            "value": "4.66% (−20bp)",
             "dir": "down"
           },
           {
             "label": "Gold",
-            "value": "~$3,531 (−9.1%)",
+            "value": "~$3,530 (−9%)",
             "dir": "down"
           }
         ],
@@ -58,24 +58,24 @@
             "title": "Reuters: SEC probing Nvidia's accounting",
             "score": 45.0,
             "assets": "Eq·Credit·Rates·FX·Crypto",
-            "reaction": "NVDA −14% to $125.53; SOX −10.7% day, ~$1.3trn erased; S&P −3.7%",
-            "detail": "SEC enforcement staff are examining potential accounting issues at Nvidia, per two people briefed; scope and start date unestablished and the SEC declined comment. It landed three days after a clean beat, into a tape already destabilised by Jensen Huang's Nov 12 exit and an unresolved CEO search."
+            "reaction": "NVDA −14.01% Fri to $125.53, −23% wk; SOX −10.7% day, ~$1.3trn erased; S&P −3.70%",
+            "detail": "The WSJ disclosed a federal probe on Nov 17; Reuters specified on Nov 20 that SEC enforcement staff are examining potential accounting issues, with scope and start date unestablished. It landed three days after a clean beat, into a tape already destabilised by Jensen Huang's Nov 12 exit — Thursday alone saw Meta −12.60%, Tesla −11.38% and Alphabet −10.31%."
           },
           {
             "rank": 2,
-            "title": "Hawkish Oct FOMC minutes lock in December",
+            "title": "Hawkish FOMC minutes; Waller floats 50bp",
             "score": 26.25,
             "assets": "Rates·FX·Metals·Eq",
-            "reaction": "Dec 9 hike ~92–96% priced; DXY to ~103.84, a 19-month high; gold and tech lower",
-            "detail": "Almost all participants judged further tightening needed, with a couple open to more than 25bp; the Oct hold passed 10–2 with Cook and Hammack dissenting for a hike. Several flagged price pressures spreading beyond data-centre-linked industries."
+            "reaction": "50bp odds jumped 3.1% to ~10%; DXY to a 19-month high of 103.97; gold and tech lower",
+            "detail": "Almost all participants judged further tightening needed and a couple were open to more than 25bp; the October hold carried dissents from Cook and Hammack, who wanted a hike. Hours earlier Governor Waller told CNBC a 50bp December hike should be considered — 'shock therapy.'"
           },
           {
             "rank": 3,
-            "title": "Gold −9.1%; haven correlation breaks",
+            "title": "Metals complex liquidated",
             "score": 25.0,
             "assets": "Metals·FX",
-            "reaction": "Spot to a $3,513.54 low, weakest since Sep 2025; worst week in eight months",
-            "detail": "Gold fell roughly 8.7–9.1% from $3,885.60 in a second consecutive brutal week, driven by rate expectations and the dollar rather than risk appetite. Falling 9% during an 8.6% equity drawdown marks this as an AI-valuation and funding event, not a macro fear event."
+            "reaction": "Gold ~−9% to a 12–14 month low; silver to −15.4%, its worst week of 2026; copper ~−10%",
+            "detail": "Gold and silver fell on real rates, dollar strength and forced cash-raising, with Asian physical dip-buying confirming a price-driven rather than fear-driven decline. Copper fell for a different reason entirely — analysts tied its worst week since August 1 to doubt about the sustainability of AI spending, making it an AI-capex proxy."
           },
           {
             "rank": 4,
@@ -83,22 +83,22 @@
             "score": 18.75,
             "assets": "Energy·Eq",
             "reaction": "WTI −5.17% to $83.98; Brent −3.41% to $92.57; spread widened to $8.59",
-            "detail": "Both benchmarks fell a third consecutive week as Strait of Hormuz shipments returned to roughly pre-war levels, hardening supply-surplus expectations. Falling crude relieves headline inflation pressure precisely as the Fed debates whether 25bp is enough."
+            "detail": "Strait of Hormuz shipments returned to roughly pre-war levels and the EIA reported a second consecutive build, +3.38m bbl to 417.80m. Houthi attacks on Riyadh and an extended US blockade of Iranian shipping produced only a Friday bounce; falling crude relieves headline inflation pressure just as the Fed debates whether 25bp is enough."
           },
           {
             "rank": 5,
-            "title": "Anthropic's record Nasdaq debut fades",
+            "title": "Anthropic's record IPO fades",
             "score": 13.13,
             "assets": "Eq (AI complex)",
-            "reaction": "Priced $83, opened $111.50 (+34%), closed $97.17 (+17%), then −8.5% Friday",
-            "detail": "Anthropic priced above its $70–78 range and listed as ANT, reaching $115.10 before giving back more than half the pop into the close. A landmark AI listing that cannot lift its own sector is strong evidence of exhausted marginal demand at current multiples."
+            "reaction": "$81.3bn raised, the largest IPO on record; $111.50 open (+34%) to $97.17 close, then $88.30",
+            "detail": "Anthropic priced 980m shares at $83, above its $70–78 range, at roughly a $1.5trn valuation, surpassing SpaceX's $75bn raise. The pop more than halved into the close and the Nasdaq fell 5.28% the next day — a landmark AI listing that cannot lift its own sector signals exhausted marginal demand at current multiples."
           }
         ],
         "catalysts": [
-          "October core PCE · Wed Nov 25 (+0.3% m/m, 3.2% y/y expected)",
-          "FOMC decision · Wed Dec 9 (~92–96% priced for 25bp)",
-          "Bank of Japan · Dec 17–18 (hike to 1.50% expected)",
-          "Dell earnings · Tue Nov 24 (next AI server demand read)"
+          "October core PCE · Wed Nov 25 (+0.3% m/m headline and core expected)",
+          "OPEC+ sets 2027 quotas · Sun Nov 29",
+          "FOMC decision · Dec 9 (~89–97% priced for 25bp, ~10–12.5% for 50bp)",
+          "Broadcom Dec 9 and Oracle ~Dec 14 · next AI demand and AI credit reads"
         ],
         "risks": [
           {
@@ -107,7 +107,7 @@
             "impact": "Major"
           },
           {
-            "label": "AI credit contagion (CoreWeave CDS 1,233bp)",
+            "label": "AI credit contagion (CoreWeave CDS 1,100–1,200bp)",
             "prob": "30%",
             "impact": "Severe"
           },
